@@ -1,35 +1,35 @@
 <!DOCTYPE html>
-<html>
+<html lang="en">
 <head>
-    <title>DRC Conflict Map</title>
-    <meta charset="utf-8" />
+    <meta charset="UTF-8">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>DRC Conflict & Schools Map</title>
     
-    <!-- 1. Load Leaflet CSS (The "look" of the map) -->
+    <!-- Load Leaflet Map CSS -->
     <link rel="stylesheet" href="https://unpkg.com/leaflet@1.9.4/dist/leaflet.css" />
     
+    <!-- Load PapaParse for reading CSV files -->
+    <script src="https://cdnjs.cloudflare.com/ajax/libs/PapaParse/5.3.0/papaparse.min.js"></script>
+
     <style>
-        body { margin: 0; padding: 0; }
-        #map { height: 100vh; width: 100%; } /* Make the map fill the whole screen */
+        body { margin: 0; padding: 0; font-family: sans-serif; }
+        #map { height: 100vh; width: 100%; }
+        .legend {
+            background: white;
+            padding: 10px;
+            line-height: 1.5;
+            border-radius: 5px;
+            box-shadow: 0 0 15px rgba(0,0,0,0.2);
+        }
     </style>
 </head>
 <body>
 
     <div id="map"></div>
 
-    <!-- Time Slider UI -->
-    <div id="slider-container" style="position: fixed; bottom: 20px; left: 50%; transform: translateX(-50%); z-index: 1000; background: white; padding: 15px; border-radius: 10px; border: 2px solid #ccc; width: 80%; max-width: 600px; text-align: center;">
-        <label for="year-slider" style="font-weight: bold; font-family: sans-serif;">Year: <span id="current-year">2024</span></label><br>
-        <input type="range" id="year-slider" min="1996" max="2024" value="2024" style="width: 100%; margin-top: 10px;">
-    </div>
-
-    <!-- 2. Load Leaflet JS (The "brain" of the map) -->
+    <!-- Load Leaflet Map Library -->
     <script src="https://unpkg.com/leaflet@1.9.4/dist/leaflet.js"></script>
-    
-    <!-- 3. Load PapaParse (A tool to help JavaScript read CSV files) -->
-    <script src="https://cdnjs.cloudflare.com/ajax/libs/PapaParse/5.4.1/papaparse.min.js"></script>
-
-    <!-- 4. Load our own mapping script -->
+    <!-- Our custom map script -->
     <script src="map.js"></script>
 
 </body>

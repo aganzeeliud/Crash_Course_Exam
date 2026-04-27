@@ -1,85 +1,48 @@
 // 1. Initialize the map centered on DR Congo
 const map = L.map('map').setView([-4.0383, 21.7587], 5);
 
-// 2. Add a background map
+// 2. Add a background map (OpenStreetMap)
 L.tileLayer('https://{s}.tile.openstreetmap.org/{z}/{x}/{y}.png', {
     attribution: '© OpenStreetMap contributors'
 }).addTo(map);
 
-// 3. Create Layers
-const conflictLayer = L.layerGroup().addTo(map);
-const schoolLayer = L.layerGroup().addTo(map);
-
-let allConflictData = []; // Store data here so we can filter it easily
-
-// Helper function for colors
-function getConflictColor(type) {
-    switch (type) {
-        case 'Battle': return '#e67e22';
-        case 'Violence against civilians': return '#e74c3c';
-        default: return '#9b59b6';
-    }
-}
-
-// 4. Function to draw markers for a specific year
-function updateMap(selectedYear) {
-    conflictLayer.clearLayers(); // Clear old markers
-    document.getElementById('current-year').innerText = selectedYear; // Update label
-
-    allConflictData.forEach(row => {
-        // Only show if the year matches the slider
-        if (row.year == selectedYear && row.latitude && row.longitude) {
-            const circle = L.circleMarker([row.latitude, row.longitude], {
-                radius: 8 + (Math.sqrt(parseInt(row.fatalities)) || 0),
-                color: '#fff',
-                weight: 1,
-                fillColor: getConflictColor(row.event_type),
-                fillOpacity: 0.8
-            });
-            
-            circle.bindPopup(`
-                <strong>${row.event_type} (${row.year})</strong><br>
-                ${row.location}<br>
-                <em>${row.description}</em>
-            `);
-            conflictLayer.addLayer(circle);
-        }
-    });
-}
-
-// 5. Load Data
-Papa.parse("data/DRC Conflict.csv", {
+// 3. Load the data from our CSV file
+Papa.parse("data/schools_near_conflicts.csv", {
     download: true,
     header: true,
     complete: function(results) {
-        allConflictData = results.data;
-        updateMap(2024); // Show the most recent year by default
-    }
-});
-
-Papa.parse("data/school_drc.csv", {
-    download: true,
-    header: true,
-    complete: function(results) {
+        console.log("Loaded " + results.data.length + " rows");
+        
         results.data.forEach(row => {
+            // Check if we have valid coordinates
             if (row.latitude && row.longitude) {
-                const schoolMarker = L.circleMarker([row.latitude, row.longitude], {
-                    radius: 4,
-                    color: '#2c3e50',
-                    fillColor: '#34495e',
-                    fillOpacity: 0.5
+                // Create a circle marker for each school
+                const marker = L.circleMarker([parseFloat(row.latitude), parseFloat(row.longitude)], {
+                    radius: 6,
+                    fillColor: "#ff4d4d", // Red color
+                    color: "#fff",
+                    weight: 1,
+                    fillOpacity: 0.8
                 });
-                schoolMarker.bindPopup(`<strong>School: ${row.school_name}</strong>`);
-                schoolLayer.addLayer(schoolMarker);
+
+                // Add a popup with the details
+                // row.name is the school name
+                // row.conflict_date, row.conflict_type, and row.nearest_conflict_dist_km come from our processing
+                const schoolName = row.name || "Unnamed School";
+                const popupContent = `
+                    <div style="font-family: Arial, sans-serif;">
+                        <h4 style="margin: 0 0 5px 0; color: #d32f2f;">${schoolName}</h4>
+                        <hr>
+                        <b>Recent Conflict:</b> ${row.conflict_type || 'Unknown'}<br>
+                        <b>Date:</b> ${row.conflict_date || 'Unknown'}<br>
+                        <b>Distance to event:</b> ${row.nearest_conflict_dist_km} km<br>
+                        <small style="color: #666;">ID: ${row.osm_id}</small>
+                    </div>
+                `;
+
+                marker.bindPopup(popupContent);
+                marker.addTo(map);
             }
         });
     }
 });
-
-// 6. Connect the Slider
-document.getElementById('year-slider').addEventListener('input', function(e) {
-    updateMap(e.target.value);
-});
-
-// 7. Layer Control & Legend
-L.control.layers(null, { "Conflicts": conflictLayer, "Schools": schoolLayer }).addTo(map);
