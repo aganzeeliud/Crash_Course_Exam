@@ -1,42 +1,36 @@
 // 1. Initialize the map centered on DR Congo
-const map = L.map('map').setView([-4.0383, 21.7587], 5);
+const map = L.map('map').setView([-2.0, 25.0], 5);
 
-// 2. Add a background map (OpenStreetMap)
+// 2. Add a background map
 L.tileLayer('https://{s}.tile.openstreetmap.org/{z}/{x}/{y}.png', {
     attribution: '© OpenStreetMap contributors'
 }).addTo(map);
 
-// 3. Load the data from our CSV file
-Papa.parse("data/schools_near_conflicts.csv", {
+// 3. Load the 1km Historical Risk data
+Papa.parse("data/schools_1km_historical.csv", {
     download: true,
     header: true,
     complete: function(results) {
-        console.log("Loaded " + results.data.length + " rows");
-        
         results.data.forEach(row => {
-            // Check if we have valid coordinates
             if (row.latitude && row.longitude) {
-                // Create a circle marker for each school
+                // Circle markers for schools
                 const marker = L.circleMarker([parseFloat(row.latitude), parseFloat(row.longitude)], {
-                    radius: 6,
-                    fillColor: "#ff4d4d", // Red color
-                    color: "#fff",
+                    radius: 7,
+                    fillColor: "#e74c3c", // Bright red for high risk
+                    color: "#000",
                     weight: 1,
-                    fillOpacity: 0.8
+                    fillOpacity: 0.9
                 });
 
-                // Add a popup with the details
-                // row.name is the school name
-                // row.conflict_date, row.conflict_type, and row.nearest_conflict_dist_km come from our processing
-                const schoolName = row.name || "Unnamed School";
                 const popupContent = `
                     <div style="font-family: Arial, sans-serif;">
-                        <h4 style="margin: 0 0 5px 0; color: #d32f2f;">${schoolName}</h4>
+                        <h4 style="margin:0; color:#c0392b;">${row.name}</h4>
                         <hr>
-                        <b>Recent Conflict:</b> ${row.conflict_type || 'Unknown'}<br>
-                        <b>Date:</b> ${row.conflict_date || 'Unknown'}<br>
-                        <b>Distance to event:</b> ${row.nearest_conflict_dist_km} km<br>
-                        <small style="color: #666;">ID: ${row.osm_id}</small>
+                        <b style="color:#d35400;">High Risk Area (within 1km)</b><br>
+                        <b>Historical Conflict:</b> ${row.conflict_type}<br>
+                        <b>Year:</b> ${row.conflict_year}<br>
+                        <b>Location:</b> ${row.conflict_location}<br>
+                        <b>Exact Distance:</b> ${row.dist_km} km
                     </div>
                 `;
 
