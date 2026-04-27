@@ -1,0 +1,9 @@
+year,event_date,location,latitude,longitude,event_type,fatalities,source,description
+1996,1996-10-24,Uvira,-3.3953,29.1458,Battle,100,UCDP,Start of the First Congo War.
+1998,1998-08-02,Goma,-1.6742,29.2285,Battle,200,UCDP,Start of the Second Congo War.
+1999,1999-08-14,Kisangani,0.5157,25.1907,Battle,300,ACLED,Six-Day War between Rwanda and Uganda forces.
+2003,2003-05-12,Bunia,1.5623,30.2451,Violence against civilians,500,UCDP,Ituri conflict peak.
+2012,2012-11-20,Goma,-1.6742,29.2285,Battle,50,ACLED,M23 rebellion occupation of Goma.
+2017,2017-03-12,Kasai Region,-6.4167,22.4167,Violence against civilians,40,UN,Kasai central rebellion events.
+2021,2021-11-30,Ituri Province,1.5000,30.0000,Battle,20,KST,ADF rebel activity.
+2024,2024-02-15,Sake,-1.6091,29.0719,Battle,10,Local News,M23 advance towards Goma.

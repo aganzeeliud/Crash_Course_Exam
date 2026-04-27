@@ -6,34 +6,45 @@ L.tileLayer('https://{s}.tile.openstreetmap.org/{z}/{x}/{y}.png', {
     attribution: '© OpenStreetMap contributors'
 }).addTo(map);
 
-// 3. Create "Groups" to hold our markers (this allows us to toggle them on/off)
+// 3. Create Layers
 const conflictLayer = L.layerGroup().addTo(map);
 const schoolLayer = L.layerGroup().addTo(map);
 
-// --- CONFLICT DATA LOGIC ---
-function getConflictColor(cause) {
-    switch (cause) {
+// --- HISTORICAL CONFLICT DATA LOGIC ---
+function getConflictColor(type) {
+    switch (type) {
         case 'Battle': return '#e67e22';
         case 'Violence against civilians': return '#e74c3c';
         case 'Protest': return '#3498db';
-        default: return '#95a5a6';
+        default: return '#9b59b6'; // Purple for others
     }
 }
 
-Papa.parse("cleaned_drc_conflict_data.csv", {
+Papa.parse("DRC Conflict.csv", {
     download: true,
     header: true,
     complete: function(results) {
         results.data.forEach(row => {
             if (row.latitude && row.longitude) {
                 const circle = L.circleMarker([row.latitude, row.longitude], {
-                    radius: 5 + (parseInt(row.severity) || 0),
+                    radius: 6 + (Math.sqrt(parseInt(row.fatalities)) || 0), // Logarithmic scale for better visual
                     color: '#fff',
                     weight: 1,
-                    fillColor: getConflictColor(row.cause),
-                    fillOpacity: 0.7
+                    fillColor: getConflictColor(row.event_type),
+                    fillOpacity: 0.8
                 });
-                circle.bindPopup(`<strong>Conflict: ${row.cause}</strong><br>Fatalities: ${row.severity}`);
+                
+                const popup = `
+                    <div style="font-family: sans-serif; width: 200px;">
+                        <h4 style="margin:0; color:#c0392b;">${row.event_type} (${row.year})</h4>
+                        <hr>
+                        <strong>Location:</strong> ${row.location}<br>
+                        <strong>Fatalities:</strong> ${row.fatalities}<br>
+                        <strong>Source:</strong> ${row.source}<br><br>
+                        <em>${row.description || ''}</em>
+                    </div>
+                `;
+                circle.bindPopup(popup);
                 conflictLayer.addLayer(circle);
             }
         });
@@ -47,38 +58,37 @@ Papa.parse("school_drc.csv", {
     complete: function(results) {
         results.data.forEach(row => {
             if (row.latitude && row.longitude) {
-                // Schools will be Blue squares (diamond shape)
                 const schoolMarker = L.circleMarker([row.latitude, row.longitude], {
-                    radius: 6,
+                    radius: 5,
                     color: '#2c3e50',
                     weight: 1,
-                    fillColor: '#34495e', // Dark blue/gray
+                    fillColor: '#34495e',
                     fillOpacity: 0.9
                 });
-                schoolMarker.bindPopup(`<strong>School: ${row.school_name}</strong><br>Level: ${row.level}<br>Status: ${row.status}`);
+                schoolMarker.bindPopup(`<strong>School: ${row.school_name}</strong><br>Level: ${row.level}`);
                 schoolLayer.addLayer(schoolMarker);
             }
         });
     }
 });
 
-// 4. Add a Toggle Box (Layer Control) in the top right
-const overlayMaps = {
-    "Conflict Events": conflictLayer,
+// 4. Layer Control
+L.control.layers(null, {
+    "Historical Conflicts": conflictLayer,
     "Schools": schoolLayer
-};
-L.control.layers(null, overlayMaps).addTo(map);
+}).addTo(map);
 
-// 5. Update the Legend
+// 5. Updated Legend
 const legend = L.control({position: 'bottomright'});
 legend.onAdd = function (map) {
     const div = L.DomUtil.create('div', 'info legend');
     div.innerHTML = `
-        <div style="background: white; padding: 10px; border-radius: 5px; border: 1px solid #ccc;">
+        <div style="background: white; padding: 10px; border-radius: 5px; border: 1px solid #ccc; line-height:1.6;">
             <strong>Map Legend</strong><br>
-            <i style="background: #e74c3c; width: 10px; height: 10px; display: inline-block;"></i> Conflict (Violence)<br>
-            <i style="background: #e67e22; width: 10px; height: 10px; display: inline-block;"></i> Conflict (Battle)<br>
-            <i style="background: #34495e; width: 10px; height: 10px; display: inline-block;"></i> <strong>School</strong> (Location)
+            <i style="background: #e74c3c; width: 10px; height: 10px; display: inline-block;"></i> Violence Against Civilians<br>
+            <i style="background: #e67e22; width: 10px; height: 10px; display: inline-block;"></i> Battle<br>
+            <i style="background: #9b59b6; width: 10px; height: 10px; display: inline-block;"></i> Other Conflict Type<br>
+            <i style="background: #34495e; width: 10px; height: 10px; display: inline-block;"></i> School Location
         </div>
     `;
     return div;
