@@ -1,0 +1,11 @@
+school_name,province,city,latitude,longitude,level,status
+Lycée Kabambare,Kinshasa,Kinshasa,-4.3164,15.3052,Secondary,Public
+Collège Boboto,Kinshasa,Kinshasa,-4.3121,15.2847,Primary/Secondary,Public
+Institut de Goma,North Kivu,Goma,-1.6742,29.2285,Secondary,Public
+École Maendeleo,North Kivu,Goma,-1.6583,29.2154,Primary,Private
+Lycée Kiwele,Haut-Katanga,Lubumbashi,-11.6607,27.4794,Secondary,Public
+Collège Imara,Haut-Katanga,Lubumbashi,-11.6701,27.4852,Primary/Secondary,Private
+Institut Technique de Bukavu,South Kivu,Bukavu,-2.5011,28.8633,Secondary,Public
+École Primaire 1 Ituri,Ituri,Bunia,1.5623,30.2451,Primary,Public
+Lycée Maman Wa Zinduna,South Kivu,Bukavu,-2.5155,28.8521,Secondary,Private
+Université de Kinshasa (UNIKIN),Kinshasa,Kinshasa,-4.4158,15.3111,Higher Education,Public
