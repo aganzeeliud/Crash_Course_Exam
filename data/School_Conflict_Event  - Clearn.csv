@@ -1,0 +1,938 @@
+osm_id,latitude,longitude,addr:city,addr:country,amenity,conflict_date,conflict_type,name,nearest_conflict_dist_km,osm_id,osm_type,religion,school:CD,source
+10277676794,-4.3617648,15.3054572,kinshasa,CD,school,2024-01-03,Strategic development,Ecole Officielle,4.67,10277676794,node,Kinshasa ,primaire,GPS
+9977033872,-4.3617574,15.3219286,kinshasa,CD,school,2024-01-03,Strategic development,CS LA TROMPETE,4.83,9977033872,node,Kinshasa ,primaire,GPS
+57364518,-4.3612437,15.3197021,kinshasa,CD,school,2024-01-03,Strategic development,École Officielle Mamelo,4.71,57364518,way,Kinshasa ,primaire,GPS
+10277676793,-4.3612242,15.3038274,kinshasa,CD,school,2024-01-03,Strategic development,Ecole Officielle,4.63,10277676793,node,Kinshasa ,primaire,GPS
+206582660,-4.3611755,15.318802,kinshasa,CD,school,2024-01-03,Strategic development,École Masamba,4.68,206582660,way,Kinshasa ,primaire,GPS
+206579125,-4.3608407,15.3199636,kinshasa,CD,school,2024-01-03,Strategic development,Lycée Boyokani,4.67,206579125,way,Kinshasa ,primaire,GPS
+217698542,-4.360755,15.3219283,kinshasa,CD,school,2024-01-03,Strategic development,École primaire Yolo,4.72,217698542,way,Kinshasa ,primaire,GPS
+206579122,-4.3606434,15.3195144,kinshasa,CD,school,2024-01-03,Strategic development,paroisse Saint Gabriel,4.64,206579122,way,Kinshasa ,primaire,GPS
+63954685,-4.3605975,15.3197862,kinshasa,CD,school,2024-01-03,Strategic development,École Catholique,4.64,63954685,way,Kinshasa ,primaire,GPS
+206579123,-4.3605636,15.3202265,kinshasa,CD,school,2024-01-03,Strategic development,NA,4.65,206579123,way,Kinshasa ,primaire,GPS
+715863893,-4.3605004,15.3014055,kinshasa,CD,school,2024-01-03,Strategic development,École officielle,4.6,715863893,node,Kinshasa ,primaire,GPS
+206579124,-4.3604399,15.3197918,kinshasa,CD,school,2024-01-03,Strategic development,Lycée Boyokani,4.63,206579124,way,Kinshasa ,primaire,GPS
+742073626,-4.3587759,15.3276715,kinshasa,CD,school,2024-01-03,Strategic development,Collège Saint Amand,4.74,742073626,way,Kinshasa ,primaire,GPS
+57738675,-4.3585104,15.2951524,kinshasa,CD,school,2024-01-03,Strategic development,École catholique,4.59,57738675,way,Kinshasa ,primaire,GPS
+4469949070,-4.3581576,15.3005393,kinshasa,CD,school,2024-01-03,Strategic development,Collège Saint Pie X,4.37,4469949070,node,Kinshasa ,primaire,GPS
+336812196,-4.3578815,15.2995273,kinshasa,CD,school,2024-01-03,Strategic development,Lycée Movenda,4.37,336812196,way,Kinshasa ,primaire,GPS
+57363299,-4.3577219,15.3186557,kinshasa,CD,school,2024-01-03,Strategic development,École Protestante,4.3,57363299,way,Kinshasa ,primaire,GPS
+2273728699,-4.3566188,15.3091004,kinshasa,CD,school,2024-01-03,Strategic development,Complexe scolaire St Vincent,4.07,2273728699,node,Kinshasa ,primaire,GPS
+4483772304,-4.3562828,15.2960158,kinshasa,CD,school,2024-01-03,Strategic development,Collège Petit Prince,4.32,4483772304,node,Kinshasa ,primaire,GPS
+450071724,-4.3559922,15.2939907,kinshasa,CD,school,2024-01-03,Strategic development,Collège Abbé Loya,4.38,450071724,way,Kinshasa ,primaire,GPS
+8313433041,-4.355751,15.3082325,kinshasa,CD,school,2024-01-03,Strategic development,Complexe Scolaire Chrétien Jacques André Vernaud,3.98,8313433041,node,Kinshasa ,primaire,GPS
+335709425,-4.3552449,15.3311304,kinshasa,CD,school,2024-01-03,Strategic development,École George Washington,4.57,335709425,way,Kinshasa ,primaire,GPS
+67375763,-4.3548112,15.3216708,kinshasa,CD,school,2024-01-03,Strategic development,NA,4.08,67375763,way,Kinshasa ,primaire,GPS
+67375762,-4.3547035,15.3217752,kinshasa,CD,school,2024-01-03,Strategic development,École catholique,4.07,67375762,way,Kinshasa ,primaire,GPS
+67375764,-4.3545772,15.3217999,kinshasa,CD,school,2024-01-03,Strategic development,NA,4.06,67375764,way,Kinshasa ,primaire,GPS
+5266898490,-4.3540121,15.2878618,kinshasa,CD,school,2024-01-03,Strategic development,Collège Eben Ezer,4.51,5266898490,node,Kinshasa ,primaire,GPS
+5266898486,-4.3535602,15.2873629,kinshasa,CD,school,2024-01-03,Strategic development,Groupe Scolaire Life Line,4.5,5266898486,node,Kinshasa ,primaire,GPS
+5163173199,-4.3533007,15.2853084,kinshasa,CD,school,2024-01-03,Strategic development,EP1 et 2 Bandal Saint Cassien,4.61,5163173199,node,Kinshasa ,primaire,GPS
+5416315445,-4.3532918,15.2835511,kinshasa,CD,school,2024-01-03,Strategic development,C.S. Baraka,4.72,5416315445,node,Kinshasa ,primaire,GPS
+715862489,-4.3531403,15.2903763,kinshasa,CD,school,2024-01-03,Strategic development,Institut Diangenda,4.28,715862489,node,Kinshasa ,primaire,GPS
+5416312771,-4.3526337,15.2834166,kinshasa,CD,school,2024-01-03,Strategic development,Univers scolaire,4.67,5416312771,node,Kinshasa ,primaire,GPS
+57363223,-4.352339,15.3243,kinshasa,CD,school,2024-01-03,Strategic development,École Catholique St-Gabriel,3.93,57363223,way,Kinshasa ,primaire,GPS
+5407026099,-4.352285,15.2853794,kinshasa,CD,school,2024-01-03,Strategic development,C.S. Kiese,4.51,5407026099,node,Kinshasa ,primaire,GPS
+5266898482,-4.3522336,15.2840611,kinshasa,CD,school,2024-01-03,Strategic development,Ecole Maternel Univers Scolaire,4.6,5266898482,node,Kinshasa ,primaire,GPS
+704174495,-4.3521735,15.3316536,kinshasa,CD,school,2024-01-03,Strategic development,La Source de Vie - Limete,4.31,704174495,way,Kinshasa ,primaire,GPS
+10277664882,-4.3517023,15.2916847,kinshasa,CD,school,2024-01-03,Strategic development,Ecole Ange Raphael,4.07,10277664882,node,Kinshasa ,primaire,GPS
+5266898497,-4.3513617,15.2805904,kinshasa,CD,school,2024-01-03,Strategic development,Ecole Ange Raphael,4.77,5266898497,node,Kinshasa ,primaire,GPS
+534408566,-4.3510161,15.2840249,kinshasa,CD,school,2024-01-03,Strategic development,Joyeux lutins,4.49,534408566,way,Kinshasa ,primaire,GPS
+4235751684,-4.3509125,15.2841388,kinshasa,CD,school,2024-01-03,Strategic development,Joyeux Lutins,4.48,4235751684,node,Kinshasa ,primaire,GPS
+5287473698,-4.3508536,15.3366405,kinshasa,CD,school,2024-01-03,Strategic development,Complexe scolaire Bienheureux Isidore Bakanja,4.53,5287473698,node,Kinshasa ,primaire,GPS
+5263448468,-4.3504123,15.3398699,kinshasa,CD,school,2024-01-03,Strategic development,Lycée Technique et scientifique de Limete,4.73,5263448468,node,Kinshasa ,primaire,GPS
+403377016,-4.3502639,15.3200223,kinshasa,CD,school,2024-01-03,Strategic development,Complexe scolaire La Colombe,3.54,403377016,way,Kinshasa ,primaire,GPS
+5268094591,-4.3501903,15.2828649,kinshasa,CD,school,2024-01-03,Strategic development,EP 1 et 2 Ango Ango,4.51,5268094591,node,Kinshasa ,primaire,GPS
+731877066,-4.3500219,15.3000646,kinshasa,CD,school,2024-01-03,Strategic development,Ecole Armée du Salut,3.52,731877066,way,Kinshasa ,primaire,GPS
+13141574673,-4.3496373,15.3112205,kinshasa,CD,school,2024-01-03,Strategic development,Jean Jacques Rousseau,3.3,13141574673,node,Kinshasa ,primaire,GPS
+1474335102,-4.3486452,15.2810666,kinshasa,CD,school,2024-01-03,Strategic development,college Baron Harvard,4.52,1474335102,way,Kinshasa ,primaire,GPS
+704174502,-4.348383,15.3407798,kinshasa,CD,school,2024-01-03,Strategic development,EIB Le Cartésien,4.65,704174502,way,Kinshasa ,primaire,GPS
+5268094578,-4.3483351,15.2872272,kinshasa,CD,school,2024-01-03,Strategic development,Ecole Conventionel Adventiste,4.04,5268094578,node,Kinshasa ,primaire,GPS
+1454174919,-4.3481782,15.3410805,kinshasa,CD,school,2024-01-03,Strategic development,CS Marie La Miséricorde,4.66,1454174919,way,Kinshasa ,primaire,GPS
+715858837,-4.3475774,15.2929726,kinshasa,CD,school,2024-01-03,Strategic development,École officielle,3.6,715858837,node,Kinshasa ,primaire,GPS
+1091195861,-4.3475722,15.2874203,kinshasa,CD,school,2024-01-03,Strategic development,C.S. Simon Kimbangu-Petit Pigeon,3.96,1091195861,way,Kinshasa ,primaire,GPS
+1360696707,-4.3474296,15.3253777,kinshasa,CD,school,2024-01-03,Strategic development,École Saint-Marc,3.49,1360696707,way,Kinshasa ,primaire,GPS
+362188761,-4.3473974,15.2929316,kinshasa,CD,school,2024-01-03,Strategic development,NA,3.59,362188761,way,Kinshasa ,primaire,GPS
+5266898498,-4.3471187,15.2776107,kinshasa,CD,school,2024-01-03,Strategic development,Ecole Ntodo,4.69,5266898498,node,Kinshasa ,primaire,GPS
+1359424506,-4.3470209,15.2867147,kinshasa,CD,school,2024-01-03,Strategic development,NA,3.96,1359424506,way,Kinshasa ,primaire,GPS
+8932349013,-4.3467954,15.3409357,kinshasa,CD,school,2024-01-03,Strategic development,Saint Charles et Maison Enrica,4.54,8932349013,node,Kinshasa ,primaire,GPS
+5219801925,-4.3462634,15.2745047,kinshasa,CD,school,2024-01-03,Strategic development,Ecole Non-conventionnelle Le Vallée,4.9,5219801925,node,Kinshasa ,primaire,GPS
+9979906373,-4.3460877,15.3055912,kinshasa,CD,school,2024-01-03,Strategic development,NA,2.94,9979906373,node,Kinshasa ,primaire,GPS
+534408574,-4.3459567,15.278507,kinshasa,CD,school,2024-01-03,Strategic development,NA,4.53,534408574,way,Kinshasa ,primaire,GPS
+5499321338,-4.3458978,15.2868506,kinshasa,CD,school,2024-01-03,Strategic development,Collège Mixte de Bandalungua,3.86,5499321338,node,Kinshasa ,primaire,GPS
+2299738135,-4.3458101,15.2776009,kinshasa,CD,school,2024-01-03,Strategic development,EP1 Ngoma,4.6,2299738135,node,Kinshasa ,primaire,GPS
+534408573,-4.3458005,15.278256,kinshasa,CD,school,2024-01-03,Strategic development,NA,4.54,534408573,way,Kinshasa ,primaire,GPS
+2299738130,-4.3457856,15.2785116,kinshasa,CD,school,2024-01-03,Strategic development,Institut Salongo,4.52,2299738130,node,Kinshasa ,primaire,GPS
+534408572,-4.3457421,15.2785293,kinshasa,CD,school,2024-01-03,Strategic development,NA,4.51,534408572,way,Kinshasa ,primaire,GPS
+715858834,-4.3457112,15.293557,kinshasa,CD,school,2024-01-03,Strategic development,École St-Louis,3.39,715858834,node,Kinshasa ,primaire,GPS
+1359427042,-4.3457035,15.2936509,kinshasa,CD,school,2024-01-03,Strategic development,NA,3.38,1359427042,way,Kinshasa ,primaire,GPS
+9979906376,-4.3456892,15.3001812,kinshasa,CD,school,2024-01-03,Strategic development,NA,3.06,9979906376,node,Kinshasa ,primaire,GPS
+5266023718,-4.3456624,15.3322631,kinshasa,CD,school,2024-01-03,Strategic development,C.S. Petite Thérèse,3.77,5266023718,node,Kinshasa ,primaire,GPS
+341035699,-4.3455915,15.3015289,kinshasa,CD,school,2024-01-03,Strategic development,Lycée Motema Mpiko,3,341035699,way,Kinshasa ,primaire,GPS
+5268094537,-4.3455207,15.2788845,kinshasa,CD,school,2024-01-03,Strategic development,Lycée Les Arc-Anges,4.47,5268094537,node,Kinshasa ,primaire,GPS
+9979906372,-4.3454458,15.3082842,kinshasa,CD,school,2024-01-03,Strategic development,NA,2.84,9979906372,node,Kinshasa ,primaire,GPS
+9979906375,-4.3454057,15.2992907,kinshasa,CD,school,2024-01-03,Strategic development,NA,3.06,9979906375,node,Kinshasa ,primaire,GPS
+731877062,-4.3452849,15.2999114,kinshasa,CD,school,2024-01-03,Strategic development,Lycée Primaire,3.03,731877062,way,Kinshasa ,primaire,GPS
+9979906374,-4.3452559,15.3025764,kinshasa,CD,school,2024-01-03,Strategic development,NA,2.93,9979906374,node,Kinshasa ,primaire,GPS
+9979906377,-4.345173,15.3006828,kinshasa,CD,school,2024-01-03,Strategic development,NA,2.98,9979906377,node,Kinshasa ,primaire,GPS
+731877065,-4.3451074,15.3012106,kinshasa,CD,school,2024-01-03,Strategic development,Ecole christ roi,2.96,731877065,way,Kinshasa ,primaire,GPS
+5268094538,-4.3449162,15.279091,kinshasa,CD,school,2024-01-03,Strategic development,Lycée Technique Omisalisa,4.41,5268094538,node,Kinshasa ,primaire,GPS
+9979906379,-4.3447772,15.3016806,kinshasa,CD,school,2024-01-03,Strategic development,NA,2.91,9979906379,node,Kinshasa ,primaire,GPS
+5109221813,-4.3447082,15.2743345,kinshasa,CD,school,2024-01-03,Strategic development,Ecole Mpieko,4.82,5109221813,node,Kinshasa ,primaire,GPS
+341035700,-4.3446892,15.2990348,kinshasa,CD,school,2024-01-03,Strategic development,Lycée Toyokana,3,341035700,way,Kinshasa ,primaire,GPS
+5268094543,-4.3446515,15.2791983,kinshasa,CD,school,2024-01-03,Strategic development,C.S. Saint Michel,4.38,5268094543,node,Kinshasa ,primaire,GPS
+731877063,-4.3445753,15.3001553,kinshasa,CD,school,2024-01-03,Strategic development,lycée 2 et 3 kasa-vubu,2.94,731877063,way,Kinshasa ,primaire,GPS
+9979906378,-4.344507,15.3005058,kinshasa,CD,school,2024-01-03,Strategic development,NA,2.92,9979906378,node,Kinshasa ,primaire,GPS
+5176715275,-4.3444428,15.2763632,kinshasa,CD,school,2024-01-03,Strategic development,Ecole CBCO,4.61,5176715275,node,Kinshasa ,primaire,GPS
+6939161814,-4.3442302,15.2833986,kinshasa,CD,school,2024-01-03,Strategic development,C.S Outres neuves Academie,3.99,6939161814,node,Kinshasa ,primaire,GPS
+9977044011,-4.3439133,15.3131684,kinshasa,CD,school,2024-01-03,Strategic development,EP 1&2 DJOLU,2.68,9977044011,node,Kinshasa ,primaire,GPS
+5499321332,-4.3438999,15.297837,kinshasa,CD,school,2024-01-03,Strategic development,Institut Charles Kisolokele,2.98,5499321332,node,Kinshasa ,primaire,GPS
+5268094545,-4.343587,15.2808291,kinshasa,CD,school,2024-01-03,Strategic development,Institut Bokolo,4.16,5268094545,node,Kinshasa ,primaire,GPS
+6113207115,-4.3434319,15.3478789,kinshasa,CD,school,2024-01-03,Strategic development,Magnificate,4.94,6113207115,node,Kinshasa ,primaire,GPS
+6853565957,-4.3432273,15.2739465,kinshasa,CD,school,2024-01-03,Strategic development,C.S. Bukama,4.76,6853565957,node,Kinshasa ,primaire,GPS
+5268094548,-4.34302,15.2820924,kinshasa,CD,school,2024-01-03,Strategic development,C.S. Marie Stella,4.02,5268094548,node,Kinshasa ,primaire,GPS
+5292873862,-4.34279,15.3153652,kinshasa,CD,school,2024-01-03,Strategic development,École Monseigneur Moke,2.6,5292873862,node,Kinshasa ,primaire,GPS
+5291677394,-4.3427621,15.317369,kinshasa,CD,school,2024-01-03,Strategic development,La Grâce,2.66,5291677394,node,Kinshasa ,primaire,GPS
+9979906369,-4.3427231,15.3044513,kinshasa,CD,school,2024-01-03,Strategic development,NA,2.6,9979906369,node,Kinshasa ,primaire,GPS
+8442701017,-4.3426955,15.3034218,kinshasa,CD,school,2024-01-03,Strategic development,Complexe Scolaire KANDA,2.63,8442701017,node,Kinshasa ,primaire,GPS
+5182837553,-4.3424186,15.2825918,kinshasa,CD,school,2024-01-03,Strategic development,Ecole Madame de Sévigné Secondaire,3.93,5182837553,node,Kinshasa ,primaire,GPS
+5268094520,-4.3423648,15.2734664,kinshasa,CD,school,2024-01-03,Strategic development,Ecole Le Bambin,4.75,5268094520,node,Kinshasa ,primaire,GPS
+5194466112,-4.3421562,15.2808573,kinshasa,CD,school,2024-01-03,Strategic development,Ecole Madame de Sévigné Maternelle,4.06,5194466112,node,Kinshasa ,primaire,GPS
+1360696706,-4.3420548,15.3209701,kinshasa,CD,school,2024-01-03,Strategic development,École de navigation,2.74,1360696706,way,Kinshasa ,primaire,GPS
+1359427039,-4.3417663,15.2830573,kinshasa,CD,school,2024-01-03,Strategic development,Ecole d'Excellence de Kinshasa,3.84,1359427039,way,Kinshasa ,primaire,GPS
+2299738186,-4.3416957,15.2772237,kinshasa,CD,school,2024-01-03,Strategic development,NA,4.36,2299738186,node,Kinshasa ,primaire,GPS
+9979906368,-4.3415838,15.3037217,kinshasa,CD,school,2024-01-03,Strategic development,NA,2.5,9979906368,node,Kinshasa ,primaire,GPS
+5268176448,-4.341533,15.2753413,kinshasa,CD,school,2024-01-03,Strategic development,EP 3 et 4 Institut Makelele,4.53,5268176448,node,Kinshasa ,primaire,GPS
+5268094535,-4.3415009,15.2745607,kinshasa,CD,school,2024-01-03,Strategic development,C.S. Les Bambins,4.6,5268094535,node,Kinshasa ,primaire,GPS
+6115470311,-4.3414126,15.3468463,kinshasa,CD,school,2024-01-03,Strategic development,College Royal,4.73,6115470311,node,Kinshasa ,primaire,GPS
+5499321327,-4.3407654,15.2990976,kinshasa,CD,school,2024-01-03,Strategic development,Ecole La Main Ouverte,2.61,5499321327,node,Kinshasa ,primaire,GPS
+5268094533,-4.3407025,15.2740417,kinshasa,CD,school,2024-01-03,Strategic development,C.S. Makanisi,4.6,5268094533,node,Kinshasa ,primaire,GPS
+2299738122,-4.3406895,15.2757864,kinshasa,CD,school,2024-01-03,Strategic development,Ecole Publique Saint Jean Baptiste,4.44,2299738122,node,Kinshasa ,primaire,GPS
+2299738119,-4.3398453,15.2772631,kinshasa,CD,school,2024-01-03,Strategic development,Collège Saint Michel,4.25,2299738119,node,Kinshasa ,primaire,GPS
+486512032,-4.3397785,15.3027124,kinshasa,CD,school,2024-01-03,Strategic development,Ecole primaire,2.34,486512032,way,Kinshasa ,primaire,GPS
+331313849,-4.3395332,15.3267984,kinshasa,CD,school,2024-01-03,Strategic development,Collège Saint Raphaël,2.86,331313849,way,Kinshasa ,primaire,GPS
+6044190350,-4.339365,15.3463878,kinshasa,CD,school,2024-01-03,Strategic development,Complexe Scolaire The Winner's,4.57,6044190350,node,Kinshasa ,primaire,GPS
+1204107927,-4.3393068,15.3259804,kinshasa,CD,school,2024-01-03,Strategic development,Complexe scolaire Cardinal Monsengwo,2.78,1204107927,way,Kinshasa ,primaire,GPS
+6043731754,-4.3392248,15.3473746,kinshasa,CD,school,2024-01-03,Strategic development,Saint Joseph de Cluny,4.66,6043731754,node,Kinshasa ,primaire,GPS
+5268094515,-4.3391901,15.2743247,kinshasa,CD,school,2024-01-03,Strategic development,"Madame de Sévigné- Maternel, Primaire",4.49,5268094515,node,Kinshasa ,primaire,GPS
+5268094493,-4.3388745,15.2784473,kinshasa,CD,school,2024-01-03,Strategic development,Village Bondeko,4.08,5268094493,node,Kinshasa ,primaire,GPS
+5292873865,-4.3387782,15.3068304,kinshasa,CD,school,2024-01-03,Strategic development,G.S. Mama Zoya,2.12,5292873865,node,Kinshasa ,primaire,GPS
+6044078049,-4.3382915,15.3498973,kinshasa,CD,school,2024-01-03,Strategic development,Groupe Scolaire Dinanga,4.87,6044078049,node,Kinshasa ,primaire,GPS
+6043767829,-4.3381821,15.3462524,kinshasa,CD,school,2024-01-03,Strategic development,Ecole Primaire Kiwanuka,4.5,6043767829,node,Kinshasa ,primaire,GPS
+1359580707,-4.3380198,15.3032671,kinshasa,CD,school,2024-01-03,Strategic development,Athénée de la Victoire,2.14,1359580707,way,Kinshasa ,primaire,GPS
+5268094495,-4.3379625,15.2768218,kinshasa,CD,school,2024-01-03,Strategic development,C.S. Beni 2,4.19,5268094495,node,Kinshasa ,primaire,GPS
+6043767831,-4.3379599,15.3455133,kinshasa,CD,school,2024-01-03,Strategic development,Collège Saint Francois,4.42,6043767831,node,Kinshasa ,primaire,GPS
+6105989204,-4.3373125,15.3486152,kinshasa,CD,school,2024-01-03,Strategic development,Le Prodige Divin,4.69,6105989204,node,Kinshasa ,primaire,GPS
+5268094504,-4.3369622,15.2757758,kinshasa,CD,school,2024-01-03,Strategic development,C.S. Mont des Oliviers,4.24,5268094504,node,Kinshasa ,primaire,GPS
+532181202,-4.3368624,15.2773339,kinshasa,CD,school,2024-01-03,Strategic development,Ecole Primaire Laïque,4.08,532181202,way,Kinshasa ,primaire,GPS
+539437849,-4.3367729,15.2718809,kinshasa,CD,school,2024-01-03,Strategic development,NA,4.62,539437849,way,Kinshasa ,primaire,GPS
+5219810499,-4.3367659,15.2714103,kinshasa,CD,school,2024-01-03,Strategic development,Ecole Bolingani,4.67,5219810499,node,Kinshasa ,primaire,GPS
+6050630287,-4.3365751,15.3485133,kinshasa,CD,school,2024-01-03,Strategic development,Complexe Scolaire La Grace,4.65,6050630287,node,Kinshasa ,primaire,GPS
+1359576981,-4.3359929,15.2869029,kinshasa,CD,school,2024-01-03,Strategic development,Ecole Kokolo,3.12,1359576981,way,Kinshasa ,primaire,GPS
+6041516468,-4.3352559,15.3387889,kinshasa,CD,school,2024-01-03,Strategic development,complexe scolaire serena,3.61,6041516468,node,Kinshasa ,primaire,GPS
+6041492247,-4.3352131,15.3469375,kinshasa,CD,school,2024-01-03,Strategic development,Complexe Scolaire Monano I,4.43,6041492247,node,Kinshasa ,primaire,GPS
+704174494,-4.3340403,15.3083762,kinshasa,CD,school,2024-01-03,Strategic development,Lycée Madame de Sévigné,1.57,704174494,way,Kinshasa ,primaire,GPS
+6039240939,-4.3335428,15.346562,kinshasa,CD,school,2024-01-03,Strategic development,Saint Raphael de Karmaria,4.32,6039240939,node,Kinshasa ,primaire,GPS
+1360752803,-4.3335319,15.2815856,kinshasa,CD,school,2024-01-03,Strategic development,NA,3.49,1360752803,way,Kinshasa ,primaire,GPS
+6039196508,-4.3331112,15.3473542,kinshasa,CD,school,2024-01-03,Strategic development,Complexe Scolaire Saint Denis Wa,4.39,6039196508,node,Kinshasa ,primaire,GPS
+6039151839,-4.3330454,15.3461429,kinshasa,CD,school,2024-01-03,Strategic development,Groupe Scolaire Tembele,4.26,6039151839,node,Kinshasa ,primaire,GPS
+6039032208,-4.3320157,15.3464466,kinshasa,CD,school,2024-01-03,Strategic development,Complexe Scolaire Bon Berger,4.26,6039032208,node,Kinshasa ,primaire,GPS
+6039131956,-4.328405,15.3464996,kinshasa,CD,school,2024-01-03,Strategic development,Ecole Primaire,4.15,6039131956,node,Kinshasa ,primaire,GPS
+6044159189,-4.3283366,15.3465139,kinshasa,CD,school,2024-01-03,Strategic development,Complexe Scolaire Gloria,4.15,6044159189,node,Kinshasa ,primaire,GPS
+362438618,-4.3273344,15.3079845,kinshasa,CD,school,2024-01-03,Strategic development,Ecole Armée du Salut,0.85,362438618,way,Kinshasa ,primaire,GPS
+362438613,-4.3271248,15.3002248,kinshasa,CD,school,2024-01-03,Strategic development,Eglise Binguiste,1.34,362438613,way,Kinshasa ,primaire,GPS
+9979337835,-4.3260447,15.2974185,kinshasa,CD,school,2024-01-03,Strategic development,Ecole Melisa,1.55,9979337835,node,Kinshasa ,primaire,GPS
+1360870390,-4.3259503,15.2749106,kinshasa,CD,school,2024-01-03,Strategic development,Jewels International School,3.95,1360870390,way,Kinshasa ,primaire,GPS
+1360872737,-4.3257123,15.2713011,kinshasa,CD,school,2024-01-03,Strategic development,Busy Bee,4.34,1360872737,way,Kinshasa ,primaire,GPS
+1389924640,-4.3256198,15.3054489,kinshasa,CD,school,2024-01-03,Strategic development,NA,0.8,1389924640,way,Kinshasa ,primaire,GPS
+1359727505,-4.3236971,15.287631,kinshasa,CD,school,2024-01-03,Strategic development,Institut Monseigneur Bokeleale,2.51,1359727505,way,Kinshasa ,primaire,GPS
+1359726879,-4.3232264,15.2862417,kinshasa,CD,school,2024-01-03,Strategic development,Lycée Monseigneur Shaumba,2.66,1359726879,way,Kinshasa ,primaire,GPS
+1359429709,-4.3230478,15.2939043,kinshasa,CD,school,2024-01-03,Strategic development,Ecole Notre Dame,1.82,1359429709,way,Kinshasa ,primaire,GPS
+129297065,-4.3229502,15.3109691,kinshasa,CD,school,2024-01-03,Strategic development,Lycée Kabambare,0.35,129297065,way,Kinshasa ,primaire,GPS
+5499427140,-4.322862,15.2892861,kinshasa,CD,school,2024-01-03,Strategic development,Complexe Scolaire La Puisette Ngoika,2.32,5499427140,node,Kinshasa ,primaire,GPS
+1362816363,-4.3227732,15.3116904,kinshasa,CD,school,2024-01-03,Strategic development,Collège Saint Pierre,0.36,1362816363,way,Kinshasa ,primaire,GPS
+1372042411,-4.3227082,15.3245429,kinshasa,CD,school,2024-01-03,Strategic development,NA,1.64,1372042411,way,Kinshasa ,primaire,GPS
+1359429712,-4.3225413,15.2903551,kinshasa,CD,school,2024-01-03,Strategic development,Collège de la Salle,2.2,1359429712,way,Kinshasa ,primaire,GPS
+6282653585,-4.3224751,15.3051724,kinshasa,CD,school,2024-01-03,Strategic development,Institut Saint Jean Baptiste,0.6,6282653585,node,Kinshasa ,primaire,GPS
+1427299714,-4.3222981,15.2969722,kinshasa,CD,school,2024-01-03,Strategic development,LYCEE BOENDE,1.47,1427299714,way,Kinshasa ,primaire,GPS
+1389924633,-4.3222599,15.3034083,kinshasa,CD,school,2024-01-03,Strategic development,Saint Jean Marie Muzeyi,0.77,1389924633,way,Kinshasa ,primaire,GPS
+547207548,-4.3217057,15.3141017,kinshasa,CD,school,2024-01-03,Strategic development,Village Bondeko,0.49,547207548,way,Kinshasa ,primaire,GPS
+1389927147,-4.3208371,15.3048329,kinshasa,CD,school,2024-01-03,Strategic development,Complexe Scolaire Loboko Naye,0.58,1389927147,way,Kinshasa ,primaire,GPS
+1363326279,-4.3190456,15.2878138,kinshasa,CD,school,2024-01-03,Strategic development,Lycée Français René Descartes,2.46,1363326279,way,Kinshasa ,primaire,GPS
+1359602927,-4.3188857,15.3001982,kinshasa,CD,school,2024-01-03,Strategic development,NA,1.09,1359602927,way,Kinshasa ,primaire,GPS
+37563006,-4.318687,15.2913702,kinshasa,CD,school,2024-01-03,Strategic development,Lycée Prince de Liège,2.07,37563006,way,Kinshasa ,primaire,GPS
+1369612841,-4.3186623,15.306312,kinshasa,CD,school,2024-01-03,Strategic development,NA,0.44,1369612841,way,Kinshasa ,primaire,GPS
+759366037,-4.3186044,15.2896536,kinshasa,CD,school,2024-01-03,Strategic development,Prins van Luikschool,2.26,759366037,way,Kinshasa ,primaire,GPS
+5499358554,-4.3179514,15.2872369,kinshasa,CD,school,2024-01-03,Strategic development,Ecole Bilingue Les Petits Dauphins,2.53,5499358554,node,Kinshasa ,primaire,GPS
+9976991400,-4.3174329,15.2930784,kinshasa,CD,school,2024-01-03,Strategic development,Complexe Scolaire Révérend KIM,1.9,9976991400,node,Kinshasa ,primaire,GPS
+5499358552,-4.3173871,15.2899727,kinshasa,CD,school,2024-01-03,Strategic development,Ecole Eureka,2.24,5499358552,node,Kinshasa ,primaire,GPS
+5500780938,-4.3172306,15.2929687,kinshasa,CD,school,2024-01-03,Strategic development,Ecole Bambinière,1.91,5500780938,node,Kinshasa ,primaire,GPS
+362439869,-4.316873,15.3268243,kinshasa,CD,school,2024-01-03,Strategic development,NA,1.9,362439869,way,Kinshasa ,primaire,GPS
+5499358550,-4.3168682,15.2912924,kinshasa,CD,school,2024-01-03,Strategic development,CS Clessidra,2.1,5499358550,node,Kinshasa ,primaire,GPS
+1362818529,-4.3161073,15.3027484,kinshasa,CD,school,2024-01-03,Strategic development,Centre scolaire Lufungula,0.91,1362818529,way,Kinshasa ,primaire,GPS
+362439868,-4.3152683,15.326493,kinshasa,CD,school,2024-01-03,Strategic development,NA,1.9,362439868,way,Kinshasa ,primaire,GPS
+2953314337,-4.3151921,15.3263021,kinshasa,CD,school,2024-01-03,Strategic development,Collège saint charles luanga,1.88,2953314337,node,Kinshasa ,primaire,GPS
+1372048115,-4.314845,15.3226303,kinshasa,CD,school,2024-01-03,Strategic development,NA,1.51,1372048115,way,Kinshasa ,primaire,GPS
+907384629,-4.3141801,15.2842822,kinshasa,CD,school,2024-01-03,Strategic development,La Source de Vie - Royal,2.92,907384629,way,Kinshasa ,primaire,GPS
+1372367616,-4.3124882,15.3191581,kinshasa,CD,school,2024-01-03,Strategic development,NA,1.31,1372367616,way,Kinshasa ,primaire,GPS
+772918429,-4.310928,15.277268,kinshasa,CD,school,2024-01-03,Strategic development,Institut de la Gombe,3.77,772918429,way,Kinshasa ,primaire,GPS
+772918436,-4.3105731,15.2796659,kinshasa,CD,school,2024-01-03,Strategic development,École maternelle de la Gombe,3.52,772918436,way,Kinshasa ,primaire,GPS
+772918427,-4.3100253,15.2796872,kinshasa,CD,school,2024-01-03,Strategic development,École Internationale ŞAFAK,3.54,772918427,way,Kinshasa ,primaire,GPS
+57357941,-4.3100199,15.3001132,kinshasa,CD,school,2024-01-03,Strategic development,École maternelle,1.56,57357941,way,Kinshasa ,primaire,GPS
+57357940,-4.3098283,15.2995215,kinshasa,CD,school,2024-01-03,Strategic development,NA,1.62,57357940,way,Kinshasa ,primaire,GPS
+57357937,-4.3096521,15.2993894,kinshasa,CD,school,2024-01-03,Strategic development,NA,1.65,57357937,way,Kinshasa ,primaire,GPS
+4749983,-4.3095926,15.3000937,kinshasa,CD,school,2024-01-03,Strategic development,École Notre Dame de Fatima,1.6,4749983,relation,Kinshasa ,primaire,GPS
+753674320,-4.309059,15.2856787,kinshasa,CD,school,2024-01-03,Strategic development,Collège Boboto,2.96,753674320,way,Kinshasa ,primaire,GPS
+4866013704,-4.3087366,15.3178623,kinshasa,CD,school,2024-01-03,Strategic development,École portuguaise,1.53,4866013704,node,Kinshasa ,primaire,GPS
+998119240,-4.3087007,15.2990148,kinshasa,CD,school,2024-01-03,Strategic development,IFASIC,1.75,998119240,way,Kinshasa ,primaire,GPS
+5410208647,-4.3085395,15.2867889,kinshasa,CD,school,2024-01-03,Strategic development,École Maternelle Boboto,2.87,5410208647,node,Kinshasa ,primaire,GPS
+5410208648,-4.3084271,15.2871966,kinshasa,CD,school,2024-01-03,Strategic development,C.S. Manyanga,2.84,5410208648,node,Kinshasa ,primaire,GPS
+1369177816,-4.3084234,15.2916583,kinshasa,CD,school,2024-01-03,Strategic development,NA,2.41,1369177816,way,Kinshasa ,primaire,GPS
+3477493250,-4.3084113,15.2916664,kinshasa,CD,school,2024-01-03,Strategic development,Collège Les Saphirs,2.41,3477493250,node,Kinshasa ,primaire,GPS
+753674322,-4.3082385,15.283172,kinshasa,CD,school,2024-01-03,Strategic development,Lycée Bosangani,3.25,753674322,way,Kinshasa ,primaire,GPS
+1372367637,-4.3079533,15.3176042,kinshasa,CD,school,2024-01-03,Strategic development,NA,1.58,1372367637,way,Kinshasa ,primaire,GPS
+9246824078,-4.3079289,15.3173972,kinshasa,CD,school,2024-01-03,Strategic development,English International School,1.57,9246824078,node,Kinshasa ,primaire,GPS
+772918439,-4.306972,15.2852804,kinshasa,CD,school,2024-01-03,Strategic development,Institut Supérieur Pédagogique de la Gombe,3.1,772918439,way,Kinshasa ,primaire,GPS
+440111691,-4.3053231,15.3147319,kinshasa,CD,school,2024-01-03,Strategic development,Institute Georges Simenon,1.71,440111691,node,Kinshasa ,primaire,GPS
+52595375,-4.3039933,15.2935788,kinshasa,CD,school,2024-01-03,Strategic development,Lycée Français René Descartes (Site de Kalemie),2.55,52595375,way,Kinshasa ,primaire,GPS
+4945976043,-4.3004859,15.3160161,kinshasa,CD,school,2024-01-03,Strategic development,Collège Saint Joseph,2.27,4945976043,node,Kinshasa ,primaire,GPS
+7518261526,-2.5407093,28.8670839,Bukavu,CD,school,2024-01-02,Violence against civilians,Institut Mahama,4.91,7518261526,node,Kivu,primaire,GPS
+7387324594,-2.5366031,28.8563785,Bukavu,CD,school,2024-01-02,Violence against civilians,Complexe Scolaire Baraka,4.13,7387324594,node,Kivu,primaire,GPS
+7396262657,-2.536533,28.8591646,Bukavu,CD,school,2024-01-02,Violence against civilians,Ecole Primaire Salongo Lwana,4.19,7396262657,node,Kivu,primaire,GPS
+7387324589,-2.5357122,28.8464153,Bukavu,CD,school,2024-01-02,Violence against civilians,Complexe Scolaire Busiba,3.99,7387324589,node,Kivu,primaire,GPS
+7402879649,-2.5353885,28.8476052,Bukavu,CD,school,2024-01-02,Violence against civilians,Institut Astere,3.94,7402879649,node,Kivu,primaire,GPS
+7387310583,-2.5353457,28.8568944,Bukavu,CD,school,2024-01-02,Violence against civilians,Complexe Scolaire Confiance,4,7387310583,node,Kivu,primaire,GPS
+7387324597,-2.5348335,28.8572302,Bukavu,CD,school,2024-01-02,Violence against civilians,Complexe Scolaire Aksante,3.96,7387324597,node,Kivu,primaire,GPS
+7387324595,-2.5340543,28.8567455,Bukavu,CD,school,2024-01-02,Violence against civilians,Complexe Scolaire Amani,3.86,7387324595,node,Kivu,primaire,GPS
+7387324656,-2.5338495,28.8532633,Bukavu,CD,school,2024-01-02,Violence against civilians,Complexe Scolaire Incence,3.78,7387324656,node,Kivu,primaire,GPS
+7417977809,-2.531337,28.85307,Bukavu,CD,school,2024-01-02,Violence against civilians,Institut Kabuye,3.5,7417977809,node,Kivu,primaire,GPS
+7387324610,-2.5309998,28.8573566,Bukavu,CD,school,2024-01-02,Violence against civilians,Complexe Scolaire Rehema,3.54,7387324610,node,Kivu,primaire,GPS
+7387324660,-2.5309221,28.8528947,Bukavu,CD,school,2024-01-02,Violence against civilians,Complexe Scolaire Foyer du Savoir,3.45,7387324660,node,Kivu,primaire,GPS
+7396262607,-2.5307289,28.8474391,Bukavu,CD,school,2024-01-02,Violence against civilians,Ecole Primaire Kinjuba,3.43,7396262607,node,Kivu,primaire,GPS
+7387324636,-2.5305162,28.8578789,Bukavu,CD,school,2024-01-02,Violence against civilians,Complexe Scolaire la Souplexe,3.5,7387324636,node,Kivu,primaire,GPS
+7387324659,-2.5302361,28.8245192,Bukavu,CD,school,2024-01-02,Violence against civilians,Complexe Scolaire Fazili,4.4,7387324659,node,Kivu,primaire,GPS
+7518261537,-2.5294714,28.8568108,Bukavu,CD,school,2024-01-02,Violence against civilians,Institut la Vision,3.36,7518261537,node,Kivu,primaire,GPS
+7417977808,-2.5289557,28.8454962,Bukavu,CD,school,2024-01-02,Violence against civilians,Institut Kabasha,3.26,7417977808,node,Kivu,primaire,GPS
+7387324601,-2.5288374,28.8429295,Bukavu,CD,school,2024-01-02,Violence against civilians,Complexe Scolaire Safi-Kwetu,3.3,7387324601,node,Kivu,primaire,GPS
+1235017581,-2.5274167,28.8572778,Bukavu,CD,school,2024-01-02,Violence against civilians,Ecole primaire Tuendelee,3.15,1235017581,node,Kivu,primaire,GPS
+7417977818,-2.5273238,28.8566685,Bukavu,CD,school,2024-01-02,Violence against civilians,Institut Cidasa,3.13,7417977818,node,Kivu,primaire,GPS
+7533747949,-2.5271964,28.8563752,Bukavu,CD,school,2024-01-02,Violence against civilians,Institut Vangu,3.11,7533747949,node,Kivu,primaire,GPS
+7518261553,-2.5268554,28.8302893,Bukavu,CD,school,2024-01-02,Violence against civilians,Institut Mulwa,3.7,7518261553,node,Kivu,primaire,GPS
+1235015496,-2.5266621,28.8299278,Bukavu,CD,school,2024-01-02,Violence against civilians,Ecole primaire Mulwa,3.71,1235015496,node,Kivu,primaire,GPS
+7387324634,-2.5265428,28.8519589,Bukavu,CD,school,2024-01-02,Violence against civilians,Complexe Scolaire la Victoire,2.96,7387324634,node,Kivu,primaire,GPS
+7387324653,-2.5263808,28.8262397,Bukavu,CD,school,2024-01-02,Violence against civilians,Complexe Scolaire Jean-Jacques,3.95,7387324653,node,Kivu,primaire,GPS
+7396262572,-2.5259877,28.8410232,Bukavu,CD,school,2024-01-02,Violence against civilians,Ecole Primaire Malu,3.06,7396262572,node,Kivu,primaire,GPS
+1235015694,-2.5257778,28.8571111,Bukavu,CD,school,2024-01-02,Violence against civilians,Ecole primaire Nyanja,2.97,1235015694,node,Kivu,primaire,GPS
+7387324648,-2.5230821,28.8469798,Bukavu,CD,school,2024-01-02,Violence against civilians,Complexe Scolaire la Colombe,2.59,7387324648,node,Kivu,primaire,GPS
+7518261554,-2.5228032,28.8487975,Bukavu,CD,school,2024-01-02,Violence against civilians,Institut Mulindwa,2.54,7518261554,node,Kivu,primaire,GPS
+7402879657,-2.5227311,28.8469758,Bukavu,CD,school,2024-01-02,Violence against civilians,Ecole Primaire Uaminifu,2.55,7402879657,node,Kivu,primaire,GPS
+7396262633,-2.5223521,28.8480224,Bukavu,CD,school,2024-01-02,Violence against civilians,Ecole Primaire Buholo,2.5,7396262633,node,Kivu,primaire,GPS
+7387324658,-2.5222561,28.8490229,Bukavu,CD,school,2024-01-02,Violence against civilians,Complexe Scolaire Horizon,2.48,7387324658,node,Kivu,primaire,GPS
+7396262637,-2.5212362,28.8502186,Bukavu,CD,school,2024-01-02,Violence against civilians,Ecole Primaire Aden,2.36,7396262637,node,Kivu,primaire,GPS
+1235016730,-2.5210833,28.8588333,Bukavu,CD,school,2024-01-02,Violence against civilians,École primaire Elimu,2.54,1235016730,node,Kivu,primaire,GPS
+7417977819,-2.5210139,28.8352853,Bukavu,CD,school,2024-01-02,Violence against civilians,Institut Ciriri,2.85,7417977819,node,Kivu,primaire,GPS
+7387324596,-2.5209522,28.8484079,Bukavu,CD,school,2024-01-02,Violence against civilians,Complexe Scolaire Ashuza,2.34,7387324596,node,Kivu,primaire,GPS
+7387324613,-2.5203501,28.8499222,Bukavu,CD,school,2024-01-02,Violence against civilians,Complexe Scolaire Namur,2.26,7387324613,node,Kivu,primaire,GPS
+7533747978,-2.5197534,28.8365292,Bukavu,CD,school,2024-01-02,Violence against civilians,Lycée Familiya Dei,2.66,7533747978,node,Kivu,primaire,GPS
+7387324611,-2.5197083,28.8464933,Bukavu,CD,school,2024-01-02,Violence against civilians,Complexe Scolaire Oda,2.23,7387324611,node,Kivu,primaire,GPS
+1235016379,-2.5193611,28.8561667,Bukavu,CD,school,2024-01-02,Violence against civilians,École Primaire Hodari,2.26,1235016379,node,Kivu,primaire,GPS
+1235017248,-2.5189722,28.8490278,Bukavu,CD,school,2024-01-02,Violence against civilians,Ecole primaire Kahuwa,2.11,1235017248,node,Kivu,primaire,GPS
+4950829794,-2.5188995,28.8494808,Bukavu,CD,school,2024-01-02,Violence against civilians,Institut Fadhili,2.1,4950829794,node,Kivu,primaire,GPS
+7387310581,-2.5185928,28.8532641,Bukavu,CD,school,2024-01-02,Violence against civilians,Complexe Scolaire Elo Nyamugo,2.1,7387310581,node,Kivu,primaire,GPS
+1235016322,-2.5183889,28.8458611,Bukavu,CD,school,2024-01-02,Violence against civilians,Ecole primaire Nyakaliba,2.1,1235016322,node,Kivu,primaire,GPS
+7533747955,-2.5183667,28.8339942,Bukavu,CD,school,2024-01-02,Violence against civilians,Institut Saint Matthieu,2.71,7533747955,node,Kivu,primaire,GPS
+7387324588,-2.5183642,28.8350163,Bukavu,CD,school,2024-01-02,Violence against civilians,Complexe Scolaire Charme,2.63,7387324588,node,Kivu,primaire,GPS
+7387324633,-2.5182944,28.8365382,Bukavu,CD,school,2024-01-02,Violence against civilians,Complexe Scolaire le Bonheur,2.52,7387324633,node,Kivu,primaire,GPS
+7515023085,-2.5180422,28.8511026,Bukavu,CD,school,2024-01-02,Violence against civilians,Université de Proximité,2.01,7515023085,node,Kivu,primaire,GPS
+7387324623,-2.5176022,28.8505916,Bukavu,CD,school,2024-01-02,Violence against civilians,Complexe Scolaire Maria Utuangaziye,1.96,7387324623,node,Kivu,primaire,GPS
+7533747963,-2.5175833,28.8509605,Bukavu,CD,school,2024-01-02,Violence against civilians,Institut Olimba,1.96,7533747963,node,Kivu,primaire,GPS
+7387324590,-2.5175469,28.8500625,Bukavu,CD,school,2024-01-02,Violence against civilians,Complexe Scolaire Camp Cinema,1.95,7387324590,node,Kivu,primaire,GPS
+1235017145,-2.5170556,28.8553333,Bukavu,CD,school,2024-01-02,Violence against civilians,École Primaire Nidunga,1.99,1235017145,node,Kivu,primaire,GPS
+7396262595,-2.5170094,28.8436078,Bukavu,CD,school,2024-01-02,Violence against civilians,Ecole Primaire Kiriza,2.02,7396262595,node,Kivu,primaire,GPS
+199022546,-2.5168515,28.8503491,Bukavu,CD,school,2024-01-02,Violence against civilians,Institut Bahati,1.87,199022546,way,Kivu,primaire,GPS
+7387324651,-2.5167136,28.8480548,Bukavu,CD,school,2024-01-02,Violence against civilians,Complexe Scolaire Kitoko 2,1.87,7387324651,node,Kivu,primaire,GPS
+7387324622,-2.5164843,28.8483232,Bukavu,CD,school,2024-01-02,Violence against civilians,Complexe Scolaire Mapatano,1.84,7387324622,node,Kivu,primaire,GPS
+7387324649,-2.5164394,28.8387922,Bukavu,CD,school,2024-01-02,Violence against civilians,Complexe Scolaire la Conscience,2.21,7387324649,node,Kivu,primaire,GPS
+1235017396,-2.5163333,28.8436389,Bukavu,CD,school,2024-01-02,Violence against civilians,Ecole primaire Furaha,1.95,1235017396,node,Kivu,primaire,GPS
+199022530,-2.5163225,28.849955,Bukavu,CD,school,2024-01-02,Violence against civilians,École Primaire Saint François Xavier,1.81,199022530,way,Kivu,primaire,GPS
+199022538,-2.5163137,28.8501404,Bukavu,CD,school,2024-01-02,Violence against civilians,École Primaire Saint François Xavier,1.81,199022538,way,Kivu,primaire,GPS
+7533747979,-2.5161706,28.839689,Bukavu,CD,school,2024-01-02,Violence against civilians,Lycée Cesar,2.13,7533747979,node,Kivu,primaire,GPS
+7387324640,-2.5159348,28.8618897,Bukavu,CD,school,2024-01-02,Violence against civilians,Complexe Scolaire la Persévérance,2.21,7387324640,node,Kivu,primaire,GPS
+7387324646,-2.5156991,28.8519664,Bukavu,CD,school,2024-01-02,Violence against civilians,Complexe Scolaire la Croisière,1.76,7387324646,node,Kivu,primaire,GPS
+7396262642,-2.5156275,28.8528429,Bukavu,CD,school,2024-01-02,Violence against civilians,Ecole Primaire Amkeni,1.77,7396262642,node,Kivu,primaire,GPS
+7387324629,-2.5139017,28.8482483,Bukavu,CD,school,2024-01-02,Violence against civilians,Complexe Scolaire Levert,1.56,7387324629,node,Kivu,primaire,GPS
+7387310582,-2.5137934,28.8401478,Bukavu,CD,school,2024-01-02,Violence against civilians,Complexe Scolaire Dane,1.88,7387310582,node,Kivu,primaire,GPS
+1235015951,-2.5122393,28.8478166,Bukavu,CD,school,2024-01-02,Violence against civilians,Ecole primaire Ntwali,1.38,1235015951,node,Kivu,primaire,GPS
+7399890681,-2.5122101,28.8525975,Bukavu,CD,school,2024-01-02,Violence against civilians,Ecole Primaire Kabika,1.39,7399890681,node,Kivu,primaire,GPS
+7518261539,-2.5119215,28.8657752,Bukavu,CD,school,2024-01-02,Violence against civilians,Institut la Varonique,2.2,7518261539,node,Kivu,primaire,GPS
+1235017167,-2.5117049,28.8482021,Bukavu,CD,school,2024-01-02,Violence against civilians,École primaire Ulindi,1.32,1235017167,node,Kivu,primaire,GPS
+195645608,-2.5114774,28.853226,Bukavu,CD,school,2024-01-02,Violence against civilians,Ecole de la paix - Communaute de Sant 'Egidio,1.33,195645608,way,Kivu,primaire,Bing
+7396262582,-2.511076,28.8659506,Bukavu,CD,school,2024-01-02,Violence against civilians,Ecole Primaire la Veronica,2.16,7396262582,node,Kivu,primaire,GPS
+1001811912,-2.5106692,28.857085,Bukavu,CD,school,2024-01-02,Violence against civilians,Institut Superieur Pédagogique de Bukavu,1.42,1001811912,way,Kivu,primaire,GPS
+7387324599,-2.5104341,28.8450055,Bukavu,CD,school,2024-01-02,Violence against civilians,Complexe Scolaire Aigle de Vision,1.29,7387324599,node,Kivu,primaire,GPS
+1235015522,-2.5100556,28.8450556,Bukavu,CD,school,2024-01-02,Violence against civilians,Ecole primaire Camp Mweze,1.25,1235015522,node,Kivu,primaire,GPS
+7533747960,-2.5098495,28.8449002,Bukavu,CD,school,2024-01-02,Violence against civilians,Institut Plateau,1.23,7533747960,node,Kivu,primaire,GPS
+7387324587,-2.5097334,28.8580862,Bukavu,CD,school,2024-01-02,Violence against civilians,Complexe Scolaire Cebya,1.41,7387324587,node,Kivu,primaire,GPS
+7387324657,-2.5095872,28.8697014,Bukavu,CD,school,2024-01-02,Violence against civilians,Complexe Scolaire Gracia,2.43,7387324657,node,Kivu,primaire,GPS
+7387324631,-2.5094668,28.86396,Bukavu,CD,school,2024-01-02,Violence against civilians,Complexe Scolaire le Prophète,1.87,7387324631,node,Kivu,primaire,GPS
+7518261541,-2.5089138,28.8533624,Bukavu,CD,school,2024-01-02,Violence against civilians,Institut la Trinite,1.06,7518261541,node,Kivu,primaire,GPS
+12511805627,-2.5085711,28.8460794,Bukavu,CD,school,2024-01-02,Violence against civilians,Complexe Scolaire Saint Israël,1.05,12511805627,node,Kivu,primaire,GPS
+7402879650,-2.5084623,28.8450729,Bukavu,CD,school,2024-01-02,Violence against civilians,Institut Augustino,1.09,7402879650,node,Kivu,primaire,GPS
+7396262566,-2.5083976,28.8539836,Bukavu,CD,school,2024-01-02,Violence against civilians,Ecole Primaire Matendo,1.03,7396262566,node,Kivu,primaire,GPS
+7387324627,-2.5078351,28.863423,Bukavu,CD,school,2024-01-02,Violence against civilians,Complexe Scolaire Maendeleo,1.73,7387324627,node,Kivu,primaire,GPS
+730056255,-2.5076172,28.8663426,Bukavu,CD,school,2024-01-02,Violence against civilians,Complexe Scolaire Merci Wesha,2,730056255,way,Kivu,primaire,GPS
+7518261561,-2.5074309,28.8702836,Bukavu,CD,school,2024-01-02,Violence against civilians,Institut Mgr Bya'Ene,2.4,7518261561,node,Kivu,primaire,GPS
+968512399,-2.5065031,28.8488488,Bukavu,CD,school,2024-01-02,Violence against civilians,Wima School,0.73,968512399,way,Kivu,primaire,GPS
+4587841796,-2.5063935,28.845158,Bukavu,CD,school,2024-01-02,Violence against civilians,ITFM: Institut Technique Fundi Maendeleo,0.89,4587841796,node,Kivu,primaire,GPS
+7387310580,-2.5058838,28.8687166,Bukavu,CD,school,2024-01-02,Violence against civilians,Complexe Scolaire Elite,2.18,7387310580,node,Kivu,primaire,GPS
+12511849791,-2.5058555,28.8694623,Bukavu,CD,school,2024-01-02,Violence against civilians,Complexe Scolaire la Découverte,2.26,12511849791,node,Kivu,primaire,GPS
+7387324647,-2.5056618,28.8695049,Bukavu,CD,school,2024-01-02,Violence against civilians,Complexe Scolaire la Decouverte,2.26,7387324647,node,Kivu,primaire,GPS
+7335621786,-2.5055617,28.8590894,Bukavu,CD,school,2024-01-02,Violence against civilians,Groupe Scolaire Gardienat,1.18,7335621786,node,Kivu,primaire,GPS
+12511849794,-2.5053478,28.8690879,Bukavu,CD,school,2024-01-02,Violence against civilians,Complexe Scolaire Saint Joseph,2.2,12511849794,node,Kivu,primaire,GPS
+7387324644,-2.5051545,28.8402023,Bukavu,CD,school,2024-01-02,Violence against civilians,Complexe Scolaire la Famille,1.23,7387324644,node,Kivu,primaire,GPS
+7335626585,-2.505119,28.8587121,Bukavu,CD,school,2024-01-02,Violence against civilians,Complexe Scolaire Saint Michel,1.12,7335626585,node,Kivu,primaire,GPS
+12511849792,-2.5050235,28.8689512,Bukavu,CD,school,2024-01-02,Violence against civilians,Complexe Scolaire Elite,2.18,12511849792,node,Kivu,primaire,GPS
+7387324619,-2.5038017,28.8791262,Bukavu,CD,school,2024-01-02,Violence against civilians,Complexe Scolaire Michel,3.26,7387324619,node,Kivu,primaire,GPS
+7399893392,-2.5037192,28.8699548,Bukavu,CD,school,2024-01-02,Violence against civilians,Ecole Primaire Mignos,2.26,7399893392,node,Kivu,primaire,GPS
+7402879655,-2.5036269,28.8759322,Bukavu,CD,school,2024-01-02,Violence against civilians,Institut Akya,2.91,7402879655,node,Kivu,primaire,GPS
+7396262585,-2.5033303,28.8833941,Bukavu,CD,school,2024-01-02,Violence against civilians,École Primaire la Référence,3.73,7396262585,node,Kivu,primaire,GPS
+7387324630,-2.5028617,28.869508,Bukavu,CD,school,2024-01-02,Violence against civilians,Complexe Scolaire le Miracle,2.19,7387324630,node,Kivu,primaire,GPS
+7387324632,-2.5006853,28.8826516,Bukavu,CD,school,2024-01-02,Violence against civilians,Complexe Scolaire Lapereau,3.63,7387324632,node,Kivu,primaire,GPS
+7139744385,-2.5006292,28.8805823,Bukavu,CD,school,2024-01-02,Violence against civilians,ISM,3.4,7139744385,node,Kivu,primaire,GPS
+12512080043,-2.500625,28.8673756,Bukavu,CD,school,2024-01-02,Violence against civilians,Complexe scolaire LA FONTAINE,1.93,12512080043,node,Kivu,primaire,GPS
+7528077485,-2.5004875,28.8824685,Bukavu,CD,school,2024-01-02,Violence against civilians,Complexe Scolaire Laperaux,3.61,7528077485,node,Kivu,primaire,GPS
+7528073687,-2.5003168,28.8809813,Bukavu,CD,school,2024-01-02,Violence against civilians,Lucée Arche de l’unité,3.44,7528073687,node,Kivu,primaire,GPS
+7387324638,-2.4999743,28.8889416,Bukavu,CD,school,2024-01-02,Violence against civilians,Complexe Scolaire la Reine,4.33,7387324638,node,Kivu,primaire,GPS
+12511802981,-2.4999675,28.885873,Bukavu,CD,school,2024-01-02,Violence against civilians,Complexe Scolaire Notre Dame de la Paix/Nguba,3.99,12511802981,node,Kivu,primaire,GPS
+7533747980,-2.4999338,28.873106,Bukavu,CD,school,2024-01-02,Violence against civilians,Lycée Cirezi,2.57,7533747980,node,Kivu,primaire,GPS
+1001811907,-2.499909,28.8767025,Bukavu,CD,school,2024-01-02,Violence against civilians,Collège Alfajiri,2.97,1001811907,way,Kivu,primaire,GPS
+7387324617,-2.4997755,28.8568709,Bukavu,CD,school,2024-01-02,Violence against civilians,Complexe Scolaire Mon Bon Village,0.76,7387324617,node,Kivu,primaire,GPS
+7528079285,-2.4995748,28.8791471,Bukavu,CD,school,2024-01-02,Violence against civilians,École primaire l’Estonac,3.24,7528079285,node,Kivu,primaire,GPS
+7396262666,-2.4991714,28.8792308,Bukavu,CD,school,2024-01-02,Violence against civilians,École Primaire Sainte Jeanne de Lestonnac,3.25,7396262666,node,Kivu,primaire,GPS
+7396262586,-2.4991556,28.8343339,Bukavu,CD,school,2024-01-02,Violence against civilians,Ecole Primaire Luganda,1.74,7396262586,node,Kivu,primaire,GPS
+1235017597,-2.4989352,28.8875337,Bukavu,CD,school,2024-01-02,Violence against civilians,École Primaire Nguba,4.17,1235017597,node,Kivu,primaire,GPS
+7387324624,-2.4987036,28.8776864,Bukavu,CD,school,2024-01-02,Violence against civilians,Complexe Scolaire Maman Gloria,3.08,7387324624,node,Kivu,primaire,GPS
+7533747971,-2.4983272,28.888311,Bukavu,CD,school,2024-01-02,Violence against civilians,Institut Mushere,4.26,7533747971,node,Kivu,primaire,GPS
+7387324618,-2.4981123,28.8376244,Bukavu,CD,school,2024-01-02,Violence against civilians,Complexe Scolaire Merci Wesha,1.39,7387324618,node,Kivu,primaire,GPS
+7292354785,-2.4979997,28.8865352,Bukavu,CD,school,2024-01-02,Violence against civilians,Complexe Scolaire Étoile,4.06,7292354785,node,Kivu,primaire,GPS
+7387324591,-2.4978915,28.8792302,Bukavu,CD,school,2024-01-02,Violence against civilians,Complexe Scolaire Brain,3.26,7387324591,node,Kivu,primaire,GPS
+7387324643,-2.4971207,28.8309555,Bukavu,CD,school,2024-01-02,Violence against civilians,Complexe Scolaire la Gloire,2.14,7387324643,node,Kivu,primaire,GPS
+7387324620,-2.4966758,28.8870037,Bukavu,CD,school,2024-01-02,Violence against civilians,Complexe Scolaire Matimanyi,4.13,7387324620,node,Kivu,primaire,GPS
+7396262559,-2.4966383,28.8283176,Bukavu,CD,school,2024-01-02,Violence against civilians,Ecole Primaire Mushekere,2.44,7396262559,node,Kivu,primaire,GPS
+7387324603,-2.4950883,28.846592,Bukavu,CD,school,2024-01-02,Violence against civilians,Complexe Scolaire Karhale,0.66,7387324603,node,Kivu,primaire,GPS
+7387324655,-2.4948781,28.8393075,Bukavu,CD,school,2024-01-02,Violence against civilians,Complexe Scolaire Ibuye,1.32,7387324655,node,Kivu,primaire,GPS
+316719244,-2.4947133,28.8327591,Bukavu,CD,school,2024-01-02,Violence against civilians,Complexe Scolaire Mwanzo,2,316719244,way,Kivu,primaire,GPS
+7396262650,-2.4939785,28.8234335,Bukavu,CD,school,2024-01-02,Violence against civilians,Ecole Primaire Ushindi Cikera,3.03,7396262650,node,Kivu,primaire,GPS
+7302102385,-2.4939217,28.8886799,Bukavu,CD,school,2024-01-02,Violence against civilians,Complexe Scolaire Espoir,4.35,7302102385,node,Kivu,primaire,GPS
+7399890672,-2.4935437,28.8474589,Bukavu,CD,school,2024-01-02,Violence against civilians,École Primaire Kataliko,0.77,7399890672,node,Kivu,primaire,GPS
+7387324642,-2.4928802,28.8452002,Bukavu,CD,school,2024-01-02,Violence against civilians,Complexe Scolaire la Franchise,0.95,7387324642,node,Kivu,primaire,GPS
+5809109053,-2.4928373,28.840995,Bukavu,CD,school,2024-01-02,Violence against civilians,SOS Villages D’Efants,1.28,5809109053,node,Kivu,primaire,GPS
+7387324639,-2.4909031,28.8348116,Bukavu,CD,school,2024-01-02,Violence against civilians,Complexe Scolaire la Puissance Divine,1.97,7387324639,node,Kivu,primaire,GPS
+7387324600,-2.4905073,28.8459703,Bukavu,CD,school,2024-01-02,Violence against civilians,Complexe Scolaire Rubangisa,1.15,7387324600,node,Kivu,primaire,GPS
+7402879670,-2.4903234,28.839576,Bukavu,CD,school,2024-01-02,Violence against civilians,Ecole Primaire Nyarwizimya,1.58,7402879670,node,Kivu,primaire,GPS
+7396262659,-2.4898017,28.8438558,Bukavu,CD,school,2024-01-02,Violence against civilians,Ecole Primaire Tuungane,1.32,7396262659,node,Kivu,primaire,GPS
+7387324628,-2.4895857,28.8430496,Bukavu,CD,school,2024-01-02,Violence against civilians,Complexe Scolaire l'Héritage,1.39,7387324628,node,Kivu,primaire,GPS
+7518261521,-2.4887453,28.832938,Bukavu,CD,school,2024-01-02,Violence against civilians,Institut Matumaini,2.27,7518261521,node,Kivu,primaire,GPS
+7533747950,-2.4885711,28.8426558,Bukavu,CD,school,2024-01-02,Violence against civilians,Institut Tupendane,1.51,7533747950,node,Kivu,primaire,GPS
+317418796,-2.4861687,28.8593653,Bukavu,CD,school,2024-01-02,Violence against civilians,,1.86,317418796,way,Kivu,primaire,GPS
+7387324625,-2.4854612,28.8347795,Bukavu,CD,school,2024-01-02,Violence against civilians,Complexe Scolaire Malkiya,2.34,7387324625,node,Kivu,primaire,GPS
+7387324641,-2.4852941,28.8273723,Bukavu,CD,school,2024-01-02,Violence against civilians,Complexe Scolaire la Production,3,7387324641,node,Kivu,primaire,GPS
+7396262556,-2.4847735,28.8279648,Bukavu,CD,school,2024-01-02,Violence against civilians,Ecole Primaire Mulambula,2.98,7396262556,node,Kivu,primaire,GPS
+7533747977,-2.4802064,28.8178244,Bukavu,CD,school,2024-01-02,Violence against civilians,Lycée Nyakavogo,4.2,7533747977,node,Kivu,primaire,GPS
+7396262664,-2.4800551,28.8172572,Bukavu,CD,school,2024-01-02,Violence against civilians,Ecole Primaire Robozo,4.26,7396262664,node,Kivu,primaire,GPS
+7387324614,-2.4779361,28.8385326,Bukavu,CD,school,2024-01-02,Violence against civilians,Complexe Scolaire Noella,2.76,7387324614,node,Kivu,primaire,GPS
+1235017763,-2.4757041,28.8379998,Bukavu,CD,school,2024-01-02,Violence against civilians,Bwindi,3.01,1235017763,node,Kivu,primaire,GPS
+7402881286,-2.473248,28.8228246,Bukavu,CD,school,2024-01-02,Violence against civilians,Institut Bangu,4.24,7402881286,node,Kivu,primaire,GPS
+7387324612,-2.467368,28.8340489,Bukavu,CD,school,2024-01-02,Violence against civilians,Complexe Scolaire Omega La Merveille,4.04,7387324612,node,Kivu,primaire,GPS
+7402879684,-2.4645206,28.8358197,Bukavu,CD,school,2024-01-02,Violence against civilians,Institut Bora,4.25,7402879684,node,Kivu,primaire,GPS
+8543217172,-1.6816189,29.2288497,Goma,CD,school,2024-01-01,Battle,École Privée des Volcans,1.62,8543217172,node,Kivu,primaire,GPS
+7533747981,-1.6812129,29.2316446,Goma,CD,school,2024-01-01,Battle,Lycée Amani,1.8,7533747981,node,Kivu,primaire,GPS
+653736391,-1.6804566,29.2316218,Goma,CD,school,2024-01-01,Battle,Lycée Amani,1.74,653736391,way,Kivu,primaire,GPS
+193155352,-1.6803101,29.2289121,Goma,CD,school,2024-01-01,Battle,Elementary School,1.52,193155352,way,Kivu,primaire,Bing
+13012214473,-1.6796823,29.2294049,Goma,CD,school,2024-01-01,Battle,Institut Superieur de Tourisme et de Gestion Goma,1.5,13012214473,node,Kivu,primaire,GPS
+8680659876,-1.6796398,29.2319856,Goma,CD,school,2024-01-01,Battle,Lycée amani,1.71,8680659876,node,Kivu,primaire,GPS
+12318270857,-1.6793078,29.235118,Goma,CD,school,2024-01-01,Battle,Institut Maendeleo,1.97,12318270857,node,Kivu,primaire,IGC_Goma
+7417977817,-1.679077,29.2278604,Goma,CD,school,2024-01-01,Battle,Institut Communautaire du Lac,1.33,7417977817,node,Kivu,primaire,GPS
+2636526,-1.6790143,29.2296357,Goma,CD,school,2024-01-01,Battle,Institut de Goma,1.47,2636526,relation,Kivu,primaire,GPS
+8540452711,-1.6788138,29.2145231,Goma,CD,school,2024-01-01,Battle,Institut Himbi,1.15,8540452711,node,Kivu,primaire,GPS
+653728665,-1.6783936,29.2364451,Goma,CD,school,2024-01-01,Battle,Collège Mwanga,2.05,653728665,way,Kivu,primaire,GPS
+7518261560,-1.6781038,29.2305352,Goma,CD,school,2024-01-01,Battle,Institut Mikeno,1.48,7518261560,node,Kivu,primaire,GPS
+653728666,-1.6777696,29.2362868,Goma,CD,school,2024-01-01,Battle,EP Karisimbi & Sabinyo,2.01,653728666,way,Kivu,primaire,GPS
+653960882,-1.6777327,29.2170049,Goma,CD,school,2024-01-01,Battle,ISTA Goma,0.92,653960882,way,Kivu,primaire,GPS
+7077075886,-1.6775415,29.2167944,Goma,CD,school,2024-01-01,Battle,Campus Universitaire du Lac,0.91,7077075886,node,Kivu,primaire,GPS
+1415954706,-1.6775151,29.231014,Goma,CD,school,2024-01-01,Battle,Complexe Scolaire Maman Mulezi,1.48,1415954706,way,Kivu,primaire,GPS
+7077077286,-1.677355,29.2166729,Goma,CD,school,2024-01-01,Battle,UNIGOM,0.9,7077077286,node,Kivu,primaire,GPS
+7518261529,-1.6766749,29.231414,Goma,CD,school,2024-01-01,Battle,Institut Maendeleo,1.47,7518261529,node,Kivu,primaire,GPS
+1415954707,-1.6766719,29.2296398,Goma,CD,school,2024-01-01,Battle,Complexe scolaire Mama Yetu,1.3,1415954707,way,Kivu,primaire,GPS
+7387324616,-1.6765573,29.2329316,Goma,CD,school,2024-01-01,Battle,Complexe Scolaire Misericorde,1.61,7387324616,node,Kivu,primaire,GPS
+7417977815,-1.676506,29.2313263,Goma,CD,school,2024-01-01,Battle,Institut Faraja,1.45,7417977815,node,Kivu,primaire,GPS
+7533747984,-1.6764252,29.2201447,Goma,CD,school,2024-01-01,Battle,Institut Zanner,0.71,7533747984,node,Kivu,primaire,GPS
+7387324621,-1.67642,29.2302525,Goma,CD,school,2024-01-01,Battle,Complexe Scolaire Matumaini,1.34,7387324621,node,Kivu,primaire,GPS
+7387324654,-1.6760485,29.2305976,Goma,CD,school,2024-01-01,Battle,Complexe Scolaire Jericho,1.36,7387324654,node,Kivu,primaire,GPS
+7402879668,-1.6749767,29.2311283,Goma,CD,school,2024-01-01,Battle,École Primaire Nyiragongo,1.36,7402879668,node,Kivu,primaire,GPS
+7849859015,-1.67477,29.2268095,Goma,CD,school,2024-01-01,Battle,Complexe Scolaire KASIMBI,0.92,7849859015,node,Kivu,primaire,GPS
+7518261519,-1.6744417,29.2307434,Goma,CD,school,2024-01-01,Battle,Institut Mgr Masimango,1.29,7518261519,node,Kivu,primaire,GPS
+7387324645,-1.6744095,29.2290823,Goma,CD,school,2024-01-01,Battle,Complexe Scolaire la Fontaine,1.12,7387324645,node,Kivu,primaire,GPS
+7533747951,-1.6730995,29.2363268,Goma,CD,school,2024-01-01,Battle,Institut Tuungane,1.85,7533747951,node,Kivu,primaire,GPS
+9543333884,-1.671614,29.2042639,Goma,CD,school,2024-01-01,Battle,Institut Himbi,1.76,9543333884,node,Kivu,primaire,OSM-RDC
+7396262667,-1.6702267,29.2219683,Goma,CD,school,2024-01-01,Battle,École Primaire Rutoboko,0.22,7396262667,node,Kivu,primaire,GPS
+8566587197,-1.6688443,29.1957232,Goma,CD,school,2024-01-01,Battle,Kratos,2.7,8566587197,node,Kivu,primaire,GPS
+8572982918,-1.6676331,29.2054678,Goma,CD,school,2024-01-01,Battle,Theresa mira,1.64,8572982918,node,Kivu,primaire,GPS
+7149766046,-1.6670862,29.2119063,Goma,CD,school,2024-01-01,Battle,Complexe Scolaire la Reference,0.96,7149766046,node,Kivu,primaire,MSFsurvey
+7396262567,-1.6659545,29.2281646,Goma,CD,school,2024-01-01,Battle,École Primaire Maranatha,1.01,7396262567,node,Kivu,primaire,GPS
+7396262665,-1.6652012,29.2254083,Goma,CD,school,2024-01-01,Battle,École Primaire Sainte Famille,0.8,7396262665,node,Kivu,primaire,GPS
+193238722,-1.6651279,29.1835936,Goma,CD,school,2024-01-01,Battle,Ecole Maternelle et Primaire Kauta,4.08,193238722,way,Kivu,primaire,GPS
+7396262609,-1.6649265,29.2265863,Goma,CD,school,2024-01-01,Battle,École Primaire Katoyi,0.92,7396262609,node,Kivu,primaire,GPS
+7533747948,-1.6647255,29.2269184,Goma,CD,school,2024-01-01,Battle,Institut Uzima,0.97,7533747948,node,Kivu,primaire,GPS
+7518261557,-1.6647041,29.2187298,Goma,CD,school,2024-01-01,Battle,Institut Mugunga,0.61,7518261557,node,Kivu,primaire,GPS
+12444856564,-1.6646412,29.1777564,Goma,CD,school,2024-01-01,Battle,Complexe Scolaire Technique UJUZI,4.73,12444856564,node,Kivu,primaire,GPS
+7396262661,-1.6645247,29.2178173,Goma,CD,school,2024-01-01,Battle,École Primaire Tanganyika,0.66,7396262661,node,Kivu,primaire,GPS
+7396262640,-1.6636331,29.2134107,Goma,CD,school,2024-01-01,Battle,École Primaire Baraka,1.02,7396262640,node,Kivu,primaire,GPS
+7533747945,-1.6632159,29.2257685,Goma,CD,school,2024-01-01,Battle,Institut Visoke,0.99,7533747945,node,Kivu,primaire,GPS
+7396262660,-1.662856,29.2224202,Goma,CD,school,2024-01-01,Battle,École Primaire Sivyolo,0.84,7396262660,node,Kivu,primaire,GPS
+7396262580,-1.6627693,29.2231831,Goma,CD,school,2024-01-01,Battle,École Primaire Mabanga,0.88,7396262580,node,Kivu,primaire,GPS
+7387324586,-1.6627132,29.2304799,Goma,CD,school,2024-01-01,Battle,Complexe Scolaire Children'S Voice,1.42,7387324586,node,Kivu,primaire,GPS
+298889634,-1.6626886,29.1899873,Goma,CD,school,2024-01-01,Battle,Lycée Sainte Ursule,3.43,298889634,way,Kivu,primaire,Bing
+7396262571,-1.6622899,29.2253652,Goma,CD,school,2024-01-01,Battle,École Primaire Maliki,1.04,7396262571,node,Kivu,primaire,GPS
+7396262579,-1.6619888,29.2227488,Goma,CD,school,2024-01-01,Battle,École Primaire Majengo,0.94,7396262579,node,Kivu,primaire,GPS
+653728651,-1.661893,29.1824676,Goma,CD,school,2024-01-01,Battle,Institut Kyeshero,4.27,653728651,way,Kivu,primaire,GPS
+7387310584,-1.661657,29.2299712,Goma,CD,school,2024-01-01,Battle,Complexe Scolaire Cross Style,1.45,7387310584,node,Kivu,primaire,GPS
+7518261524,-1.661637,29.2232922,Goma,CD,school,2024-01-01,Battle,Institut Majengo,1,7518261524,node,Kivu,primaire,GPS
+7387324602,-1.6611732,29.2143614,Goma,CD,school,2024-01-01,Battle,Complexe Scolaire Buke Lumière,1.16,7387324602,node,Kivu,primaire,GPS
+7396262618,-1.6603862,29.2268367,Goma,CD,school,2024-01-01,Battle,École Primaire Galilaya,1.31,7396262618,node,Kivu,primaire,GPS
+653728664,-1.6593828,29.2068637,Goma,CD,school,2024-01-01,Battle,Shabaa,1.88,653728664,way,Kivu,primaire,GPS
+7399890683,-1.6584416,29.2205675,Goma,CD,school,2024-01-01,Battle,École Primaire Kaba,1.29,7399890683,node,Kivu,primaire,GPS
+7518261538,-1.6583279,29.2138392,Goma,CD,school,2024-01-01,Battle,Institut Lady Baden-Powell,1.47,7518261538,node,Kivu,primaire,GPS
+7417977820,-1.6582498,29.226836,Goma,CD,school,2024-01-01,Battle,Institut Cameron Scott,1.51,7417977820,node,Kivu,primaire,GPS
+653728661,-1.6581891,29.1894708,Goma,CD,school,2024-01-01,Battle,Complexe Scolaire Amani,3.64,653728661,way,Kivu,primaire,GPS
+8680663264,-1.6577267,29.193437,Goma,CD,school,2024-01-01,Battle,Complexe scolaire mwanga,3.25,8680663264,node,Kivu,primaire,GPS
+7518261532,-1.6576343,29.218725,Goma,CD,school,2024-01-01,Battle,Institut Lukwangomo,1.38,7518261532,node,Kivu,primaire,GPS
+7396262600,-1.6575917,29.2264806,Goma,CD,school,2024-01-01,Battle,École Primaire Kisandu,1.56,7396262600,node,Kivu,primaire,GPS
+12442081972,-1.657063,29.1828659,Goma,CD,school,2024-01-01,Battle,Institut TOROTO,4.37,12442081972,node,Kivu,primaire,GPS
+653728663,-1.6564367,29.1954268,Goma,CD,school,2024-01-01,Battle,Institut Bakanja,3.12,653728663,way,Kivu,primaire,GPS
+7396262630,-1.6551432,29.2276911,Goma,CD,school,2024-01-01,Battle,École Primaire Bethel,1.86,7396262630,node,Kivu,primaire,GPS
+7396262553,-1.6543574,29.2335977,Goma,CD,school,2024-01-01,Battle,École Primaire Neema,2.3,7396262553,node,Kivu,primaire,GPS
+7149760762,-1.65416,29.1960717,Goma,CD,school,2024-01-01,Battle,Complexe Scolaire la Joie,3.19,7149760762,node,Kivu,primaire,MSFsurvey
+7402879651,-1.6541457,29.2199069,Goma,CD,school,2024-01-01,Battle,Institut Amina,1.76,7402879651,node,Kivu,primaire,GPS
+653728662,-1.6538356,29.212167,Goma,CD,school,2024-01-01,Battle,Institut Muzizi,2,653728662,way,Kivu,primaire,GPS
+7396262552,-1.6537761,29.2315696,Goma,CD,school,2024-01-01,Battle,École Primaire Nazardenne,2.22,7396262552,node,Kivu,primaire,GPS
+266411874,-1.6533257,29.2191163,Goma,CD,school,2024-01-01,Battle,École Primaire Ujumbe,1.86,266411874,way,Kivu,primaire,GPS
+7149760769,-1.6528903,29.1978252,Goma,CD,school,2024-01-01,Battle,Complexe Scolaire Tom-mas,3.11,7149760769,node,Kivu,primaire,MSFsurvey
+7149760761,-1.6528663,29.196333,Goma,CD,school,2024-01-01,Battle,École Primaire Sebyera,3.25,7149760761,node,Kivu,primaire,MSFsurvey
+7149760774,-1.650303,29.1981688,Goma,CD,school,2024-01-01,Battle,Institut Mwangaza,3.27,7149760774,node,Kivu,primaire,MSFsurvey
+7533747957,-1.6500437,29.2223594,Goma,CD,school,2024-01-01,Battle,Institut Saint Marc,2.23,7533747957,node,Kivu,primaire,GPS
+7149737529,-1.6499088,29.2143024,Goma,CD,school,2024-01-01,Battle,Complexe Scolaire Anane,2.32,7149737529,node,Kivu,primaire,MSFsurvey
+7399890662,-1.6489987,29.2319207,Goma,CD,school,2024-01-01,Battle,École Primaire la Joie,2.68,7399890662,node,Kivu,primaire,GPS
+10990517,-1.6489407,29.2319377,Goma,CD,school,2024-01-01,Battle,École Primaire Mont Miko,2.69,10990517,relation,Kivu,primaire,GPS
+7149737530,-1.6488994,29.214079,Goma,CD,school,2024-01-01,Battle,Coplexe Scolaire open minds,2.44,7149737530,node,Kivu,primaire,MSFsurvey
+653710793,-1.6487616,29.1818923,Goma,CD,school,2024-01-01,Battle,Complexe Scolaire Juhudi,4.85,653710793,way,Kivu,primaire,GPS
+8304968555,-1.6484908,29.1813189,Goma,CD,school,2024-01-01,Battle,Erudit International school,4.92,8304968555,node,Kivu,primaire,GPS
+8237516077,-1.6484276,29.1887088,Goma,CD,school,2024-01-01,Battle,Complexe scolaire la convivance,4.22,8237516077,node,Kivu,primaire,GPS
+7149760778,-1.648384,29.2017901,Goma,CD,school,2024-01-01,Battle,Complexe Scolaire Taji/Dankier,3.14,7149760778,node,Kivu,primaire,MSFsurvey
+7149737534,-1.6482446,29.212712,Goma,CD,school,2024-01-01,Battle,Complexe Scolaire la restitution/ AROMA,2.55,7149737534,node,Kivu,primaire,MSFsurvey
+7387324615,-1.6478551,29.2315251,Goma,CD,school,2024-01-01,Battle,Complexe Scolaire Mont Miko,2.78,7387324615,node,Kivu,primaire,GPS
+8237948302,-1.6475948,29.1825799,Goma,CD,school,2024-01-01,Battle,Complexe scolaire de l'atlantique,4.85,8237948302,node,Kivu,primaire,GPS
+7149760767,-1.6471767,29.1990983,Goma,CD,school,2024-01-01,Battle,Institut 2 Injili,3.44,7149760767,node,Kivu,primaire,MSFsurvey
+7149760775,-1.6470183,29.19923,Goma,CD,school,2024-01-01,Battle,Ecole Primaire Lumiere,3.44,7149760775,node,Kivu,primaire,MSFsurvey
+7149760777,-1.6462062,29.2020982,Goma,CD,school,2024-01-01,Battle,École Chance Elysee,3.31,7149760777,node,Kivu,primaire,MSFsurvey
+7149760771,-1.6458633,29.2018083,Goma,CD,school,2024-01-01,Battle,Complexe Scolaire la Grace,3.36,7149760771,node,Kivu,primaire,MSFsurvey
+7149760772,-1.6455254,29.201091,Goma,CD,school,2024-01-01,Battle,Complexe Scolaire Muzalimu,3.44,7149760772,node,Kivu,primaire,MSFsurvey
+7149760776,-1.6453904,29.2024247,Goma,CD,school,2024-01-01,Battle,Institut Bethanie,3.36,7149760776,node,Kivu,primaire,MSFsurvey
+7149737533,-1.6452548,29.2122406,Goma,CD,school,2024-01-01,Battle,Complexe Scolaire Kanaume,2.88,7149737533,node,Kivu,primaire,MSFsurvey
+7149760763,-1.6452164,29.1989694,Goma,CD,school,2024-01-01,Battle,École Primaire Kyezye,3.61,7149760763,node,Kivu,primaire,MSFsurvey
+7149760760,-1.6451084,29.1987456,Goma,CD,school,2024-01-01,Battle,Institut Mbula,3.64,7149760760,node,Kivu,primaire,MSFsurvey
+7149760768,-1.6451018,29.1979273,Goma,CD,school,2024-01-01,Battle,Institut Avenir,3.7,7149760768,node,Kivu,primaire,MSFsurvey
+7149737526,-1.6448956,29.2200532,Goma,CD,school,2024-01-01,Battle,Complexe Scolaire Elaka,2.79,7149737526,node,Kivu,primaire,MSFsurvey
+7149760773,-1.6447838,29.2029067,Goma,CD,school,2024-01-01,Battle,Groupe scolaire la Reconciliation,3.39,7149760773,node,Kivu,primaire,MSFsurvey
+7149760766,-1.6447317,29.2008367,Goma,CD,school,2024-01-01,Battle,Complexe Scolaire Linda,3.53,7149760766,node,Kivu,primaire,MSFsurvey
+7149760779,-1.6446817,29.204599,Goma,CD,school,2024-01-01,Battle,Complexe Scolaire Soleil Levant,3.29,7149760779,node,Kivu,primaire,MSFsurvey
+7149760770,-1.6446803,29.1919734,Goma,CD,school,2024-01-01,Battle,Institut Nyabushongo,4.2,7149760770,node,Kivu,primaire,MSFsurvey
+7149760765,-1.6441219,29.1977444,Goma,CD,school,2024-01-01,Battle,École Primaire Kigogo,3.79,7149760765,node,Kivu,primaire,MSFsurvey
+7149737537,-1.6434637,29.219412,Goma,CD,school,2024-01-01,Battle,Complexe scolaire Saint Benoit,2.95,7149737537,node,Kivu,primaire,MSFsurvey
+7149737535,-1.6432052,29.2076796,Goma,CD,school,2024-01-01,Battle,Complexe scolaire Bon Berger,3.28,7149737535,node,Kivu,primaire,MSFsurvey
+7149760764,-1.6427933,29.1955671,Goma,CD,school,2024-01-01,Battle,Complexe Scolaire Saint Jacques,4.07,7149760764,node,Kivu,primaire,MSFsurvey
+7149737532,-1.642436,29.2086403,Goma,CD,school,2024-01-01,Battle,Complexe scolaire Ahadi,3.31,7149737532,node,Kivu,primaire,MSFsurvey
+7149737531,-1.6422086,29.2110233,Goma,CD,school,2024-01-01,Battle,Complexe Scolaire Don Beni,3.25,7149737531,node,Kivu,primaire,MSFsurvey
+7387324592,-1.6414301,29.1986549,Goma,CD,school,2024-01-01,Battle,Complexe Scolaire Berceau du Savoir,3.96,7387324592,node,Kivu,primaire,GPS
+7149683343,-1.6414274,29.2059281,Goma,CD,school,2024-01-01,Battle,Institut Kisima,3.54,7149683343,node,Kivu,primaire,MSFsurvey
+7149683340,-1.6408592,29.2043654,Goma,CD,school,2024-01-01,Battle,Ecole Primaire A Melissa,3.68,7149683340,node,Kivu,primaire,MSFsurvey
+7149683336,-1.6387598,29.2065337,Goma,CD,school,2024-01-01,Battle,Ecole St Ubald,3.78,7149683336,node,Kivu,primaire,MSFsurvey
+7149766045,-1.6381178,29.24024,Goma,CD,school,2024-01-01,Battle,Complexe Scolaire NZIYI,4.2,7149766045,node,Kivu,primaire,MSFsurvey
+7149683345,-1.6376687,29.1928961,Goma,CD,school,2024-01-01,Battle,Complexe Scolaire Buuma,4.69,7149683345,node,Kivu,primaire,MSFsurvey
+7149683342,-1.637475,29.2024817,Goma,CD,school,2024-01-01,Battle,Complexe Scolaire Musamariya Mwema,4.11,7149683342,node,Kivu,primaire,MSFsurvey
+7149683341,-1.6374533,29.2031217,Goma,CD,school,2024-01-01,Battle,Comlexe Scolaire la source,4.08,7149683341,node,Kivu,primaire,MSFsurvey
+7149683338,-1.6372467,29.206,Goma,CD,school,2024-01-01,Battle,Complexe SColaire Elim,3.96,7149683338,node,Kivu,primaire,MSFsurvey
+7149683344,-1.6372351,29.1927457,Goma,CD,school,2024-01-01,Battle,Complexe Scolaire Lutula,4.74,7149683344,node,Kivu,primaire,MSFsurvey
+10116544019,-1.6366123,29.2498273,Goma,CD,school,2024-01-01,Battle,Institut Kayembe,4.98,10116544019,node,Kivu,primaire,GPS
+7149683337,-1.6362286,29.2046189,Goma,CD,school,2024-01-01,Battle,École Secondaire Kibali,4.13,7149683337,node,Kivu,primaire,MSFsurvey
+7149683348,-1.6354951,29.1932443,Goma,CD,school,2024-01-01,Battle,Complexe Scolaire la Perfection,4.85,7149683348,node,Kivu,primaire,MSFsurvey
+906863381,-1.6350323,29.204698,Goma,CD,school,2024-01-01,Battle,Ecole St Guido Maria Fortifi,4.24,906863381,way,Kivu,primaire,MSF Survey
+,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,
+osm_id,latitude,longitude,addr:city,addr:country,amenity,conflict_date,conflict_type,name,nearest_conflict_dist_km,osm_id,osm_type,religion,school:CD,source
+10277676794,-4.3617648,15.3054572,kinshasa,CD,school,2024-01-03,Strategic development,Ecole Officielle,4.67,10277676794,node,Kinshasa ,primaire,GPS
+9977033872,-4.3617574,15.3219286,kinshasa,CD,school,2024-01-03,Strategic development,CS LA TROMPETE,4.83,9977033872,node,Kinshasa ,primaire,GPS
+57364518,-4.3612437,15.3197021,kinshasa,CD,school,2024-01-03,Strategic development,École Officielle Mamelo,4.71,57364518,way,Kinshasa ,primaire,GPS
+10277676793,-4.3612242,15.3038274,kinshasa,CD,school,2024-01-03,Strategic development,Ecole Officielle,4.63,10277676793,node,Kinshasa ,primaire,GPS
+206582660,-4.3611755,15.318802,kinshasa,CD,school,2024-01-03,Strategic development,École Masamba,4.68,206582660,way,Kinshasa ,primaire,GPS
+206579125,-4.3608407,15.3199636,kinshasa,CD,school,2024-01-03,Strategic development,Lycée Boyokani,4.67,206579125,way,Kinshasa ,primaire,GPS
+217698542,-4.360755,15.3219283,kinshasa,CD,school,2024-01-03,Strategic development,École primaire Yolo,4.72,217698542,way,Kinshasa ,primaire,GPS
+206579122,-4.3606434,15.3195144,kinshasa,CD,school,2024-01-03,Strategic development,paroisse Saint Gabriel,4.64,206579122,way,Kinshasa ,primaire,GPS
+63954685,-4.3605975,15.3197862,kinshasa,CD,school,2024-01-03,Strategic development,École Catholique,4.64,63954685,way,Kinshasa ,primaire,GPS
+206579123,-4.3605636,15.3202265,kinshasa,CD,school,2024-01-03,Strategic development,,4.65,206579123,way,Kinshasa ,primaire,GPS
+715863893,-4.3605004,15.3014055,kinshasa,CD,school,2024-01-03,Strategic development,École officielle,4.6,715863893,node,Kinshasa ,primaire,GPS
+206579124,-4.3604399,15.3197918,kinshasa,CD,school,2024-01-03,Strategic development,Lycée Boyokani,4.63,206579124,way,Kinshasa ,primaire,GPS
+742073626,-4.3587759,15.3276715,kinshasa,CD,school,2024-01-03,Strategic development,Collège Saint Amand,4.74,742073626,way,Kinshasa ,primaire,GPS
+57738675,-4.3585104,15.2951524,kinshasa,CD,school,2024-01-03,Strategic development,École catholique,4.59,57738675,way,Kinshasa ,primaire,GPS
+4469949070,-4.3581576,15.3005393,kinshasa,CD,school,2024-01-03,Strategic development,Collège Saint Pie X,4.37,4469949070,node,Kinshasa ,primaire,GPS
+336812196,-4.3578815,15.2995273,kinshasa,CD,school,2024-01-03,Strategic development,Lycée Movenda,4.37,336812196,way,Kinshasa ,primaire,GPS
+57363299,-4.3577219,15.3186557,kinshasa,CD,school,2024-01-03,Strategic development,École Protestante,4.3,57363299,way,Kinshasa ,primaire,GPS
+2273728699,-4.3566188,15.3091004,kinshasa,CD,school,2024-01-03,Strategic development,Complexe scolaire St Vincent,4.07,2273728699,node,Kinshasa ,primaire,GPS
+4483772304,-4.3562828,15.2960158,kinshasa,CD,school,2024-01-03,Strategic development,Collège Petit Prince,4.32,4483772304,node,Kinshasa ,primaire,GPS
+450071724,-4.3559922,15.2939907,kinshasa,CD,school,2024-01-03,Strategic development,Collège Abbé Loya,4.38,450071724,way,Kinshasa ,primaire,GPS
+8313433041,-4.355751,15.3082325,kinshasa,CD,school,2024-01-03,Strategic development,Complexe Scolaire Chrétien Jacques André Vernaud,3.98,8313433041,node,Kinshasa ,primaire,GPS
+335709425,-4.3552449,15.3311304,kinshasa,CD,school,2024-01-03,Strategic development,École George Washington,4.57,335709425,way,Kinshasa ,primaire,GPS
+67375763,-4.3548112,15.3216708,kinshasa,CD,school,2024-01-03,Strategic development,,4.08,67375763,way,Kinshasa ,primaire,GPS
+67375762,-4.3547035,15.3217752,kinshasa,CD,school,2024-01-03,Strategic development,École catholique,4.07,67375762,way,Kinshasa ,primaire,GPS
+67375764,-4.3545772,15.3217999,kinshasa,CD,school,2024-01-03,Strategic development,,4.06,67375764,way,Kinshasa ,primaire,GPS
+5266898490,-4.3540121,15.2878618,kinshasa,CD,school,2024-01-03,Strategic development,Collège Eben Ezer,4.51,5266898490,node,Kinshasa ,primaire,GPS
+5266898486,-4.3535602,15.2873629,kinshasa,CD,school,2024-01-03,Strategic development,Groupe Scolaire Life Line,4.5,5266898486,node,Kinshasa ,primaire,GPS
+5163173199,-4.3533007,15.2853084,kinshasa,CD,school,2024-01-03,Strategic development,EP1 et 2 Bandal Saint Cassien,4.61,5163173199,node,Kinshasa ,primaire,GPS
+5416315445,-4.3532918,15.2835511,kinshasa,CD,school,2024-01-03,Strategic development,C.S. Baraka,4.72,5416315445,node,Kinshasa ,primaire,GPS
+715862489,-4.3531403,15.2903763,kinshasa,CD,school,2024-01-03,Strategic development,Institut Diangenda,4.28,715862489,node,Kinshasa ,primaire,GPS
+5416312771,-4.3526337,15.2834166,kinshasa,CD,school,2024-01-03,Strategic development,Univers scolaire,4.67,5416312771,node,Kinshasa ,primaire,GPS
+57363223,-4.352339,15.3243,kinshasa,CD,school,2024-01-03,Strategic development,École Catholique St-Gabriel,3.93,57363223,way,Kinshasa ,primaire,GPS
+5407026099,-4.352285,15.2853794,kinshasa,CD,school,2024-01-03,Strategic development,C.S. Kiese,4.51,5407026099,node,Kinshasa ,primaire,GPS
+5266898482,-4.3522336,15.2840611,kinshasa,CD,school,2024-01-03,Strategic development,Ecole Maternel Univers Scolaire,4.6,5266898482,node,Kinshasa ,primaire,GPS
+704174495,-4.3521735,15.3316536,kinshasa,CD,school,2024-01-03,Strategic development,La Source de Vie - Limete,4.31,704174495,way,Kinshasa ,primaire,GPS
+10277664882,-4.3517023,15.2916847,kinshasa,CD,school,2024-01-03,Strategic development,Ecole Ange Raphael,4.07,10277664882,node,Kinshasa ,primaire,GPS
+5266898497,-4.3513617,15.2805904,kinshasa,CD,school,2024-01-03,Strategic development,Ecole Ange Raphael,4.77,5266898497,node,Kinshasa ,primaire,GPS
+534408566,-4.3510161,15.2840249,kinshasa,CD,school,2024-01-03,Strategic development,Joyeux lutins,4.49,534408566,way,Kinshasa ,primaire,GPS
+4235751684,-4.3509125,15.2841388,kinshasa,CD,school,2024-01-03,Strategic development,Joyeux Lutins,4.48,4235751684,node,Kinshasa ,primaire,GPS
+5287473698,-4.3508536,15.3366405,kinshasa,CD,school,2024-01-03,Strategic development,Complexe scolaire Bienheureux Isidore Bakanja,4.53,5287473698,node,Kinshasa ,primaire,GPS
+5263448468,-4.3504123,15.3398699,kinshasa,CD,school,2024-01-03,Strategic development,Lycée Technique et scientifique de Limete,4.73,5263448468,node,Kinshasa ,primaire,GPS
+403377016,-4.3502639,15.3200223,kinshasa,CD,school,2024-01-03,Strategic development,Complexe scolaire La Colombe,3.54,403377016,way,Kinshasa ,primaire,GPS
+5268094591,-4.3501903,15.2828649,kinshasa,CD,school,2024-01-03,Strategic development,EP 1 et 2 Ango Ango,4.51,5268094591,node,Kinshasa ,primaire,GPS
+731877066,-4.3500219,15.3000646,kinshasa,CD,school,2024-01-03,Strategic development,Ecole Armée du Salut,3.52,731877066,way,Kinshasa ,primaire,GPS
+13141574673,-4.3496373,15.3112205,kinshasa,CD,school,2024-01-03,Strategic development,Jean Jacques Rousseau,3.3,13141574673,node,Kinshasa ,primaire,GPS
+1474335102,-4.3486452,15.2810666,kinshasa,CD,school,2024-01-03,Strategic development,college Baron Harvard,4.52,1474335102,way,Kinshasa ,primaire,GPS
+704174502,-4.348383,15.3407798,kinshasa,CD,school,2024-01-03,Strategic development,EIB Le Cartésien,4.65,704174502,way,Kinshasa ,primaire,GPS
+5268094578,-4.3483351,15.2872272,kinshasa,CD,school,2024-01-03,Strategic development,Ecole Conventionel Adventiste,4.04,5268094578,node,Kinshasa ,primaire,GPS
+1454174919,-4.3481782,15.3410805,kinshasa,CD,school,2024-01-03,Strategic development,CS Marie La Miséricorde,4.66,1454174919,way,Kinshasa ,primaire,GPS
+715858837,-4.3475774,15.2929726,kinshasa,CD,school,2024-01-03,Strategic development,École officielle,3.6,715858837,node,Kinshasa ,primaire,GPS
+1091195861,-4.3475722,15.2874203,kinshasa,CD,school,2024-01-03,Strategic development,C.S. Simon Kimbangu-Petit Pigeon,3.96,1091195861,way,Kinshasa ,primaire,GPS
+1360696707,-4.3474296,15.3253777,kinshasa,CD,school,2024-01-03,Strategic development,École Saint-Marc,3.49,1360696707,way,Kinshasa ,primaire,GPS
+362188761,-4.3473974,15.2929316,kinshasa,CD,school,2024-01-03,Strategic development,,3.59,362188761,way,Kinshasa ,primaire,GPS
+5266898498,-4.3471187,15.2776107,kinshasa,CD,school,2024-01-03,Strategic development,Ecole Ntodo,4.69,5266898498,node,Kinshasa ,primaire,GPS
+1359424506,-4.3470209,15.2867147,kinshasa,CD,school,2024-01-03,Strategic development,,3.96,1359424506,way,Kinshasa ,primaire,GPS
+8932349013,-4.3467954,15.3409357,kinshasa,CD,school,2024-01-03,Strategic development,Saint Charles et Maison Enrica,4.54,8932349013,node,Kinshasa ,primaire,GPS
+5219801925,-4.3462634,15.2745047,kinshasa,CD,school,2024-01-03,Strategic development,Ecole Non-conventionnelle Le Vallée,4.9,5219801925,node,Kinshasa ,primaire,GPS
+9979906373,-4.3460877,15.3055912,kinshasa,CD,school,2024-01-03,Strategic development,,2.94,9979906373,node,Kinshasa ,primaire,GPS
+534408574,-4.3459567,15.278507,kinshasa,CD,school,2024-01-03,Strategic development,,4.53,534408574,way,Kinshasa ,primaire,GPS
+5499321338,-4.3458978,15.2868506,kinshasa,CD,school,2024-01-03,Strategic development,Collège Mixte de Bandalungua,3.86,5499321338,node,Kinshasa ,primaire,GPS
+2299738135,-4.3458101,15.2776009,kinshasa,CD,school,2024-01-03,Strategic development,EP1 Ngoma,4.6,2299738135,node,Kinshasa ,primaire,GPS
+534408573,-4.3458005,15.278256,kinshasa,CD,school,2024-01-03,Strategic development,,4.54,534408573,way,Kinshasa ,primaire,GPS
+2299738130,-4.3457856,15.2785116,kinshasa,CD,school,2024-01-03,Strategic development,Institut Salongo,4.52,2299738130,node,Kinshasa ,primaire,GPS
+534408572,-4.3457421,15.2785293,kinshasa,CD,school,2024-01-03,Strategic development,,4.51,534408572,way,Kinshasa ,primaire,GPS
+715858834,-4.3457112,15.293557,kinshasa,CD,school,2024-01-03,Strategic development,École St-Louis,3.39,715858834,node,Kinshasa ,primaire,GPS
+1359427042,-4.3457035,15.2936509,kinshasa,CD,school,2024-01-03,Strategic development,,3.38,1359427042,way,Kinshasa ,primaire,GPS
+9979906376,-4.3456892,15.3001812,kinshasa,CD,school,2024-01-03,Strategic development,,3.06,9979906376,node,Kinshasa ,primaire,GPS
+5266023718,-4.3456624,15.3322631,kinshasa,CD,school,2024-01-03,Strategic development,C.S. Petite Thérèse,3.77,5266023718,node,Kinshasa ,primaire,GPS
+341035699,-4.3455915,15.3015289,kinshasa,CD,school,2024-01-03,Strategic development,Lycée Motema Mpiko,3,341035699,way,Kinshasa ,primaire,GPS
+5268094537,-4.3455207,15.2788845,kinshasa,CD,school,2024-01-03,Strategic development,Lycée Les Arc-Anges,4.47,5268094537,node,Kinshasa ,primaire,GPS
+9979906372,-4.3454458,15.3082842,kinshasa,CD,school,2024-01-03,Strategic development,,2.84,9979906372,node,Kinshasa ,primaire,GPS
+9979906375,-4.3454057,15.2992907,kinshasa,CD,school,2024-01-03,Strategic development,,3.06,9979906375,node,Kinshasa ,primaire,GPS
+731877062,-4.3452849,15.2999114,kinshasa,CD,school,2024-01-03,Strategic development,Lycée Primaire,3.03,731877062,way,Kinshasa ,primaire,GPS
+9979906374,-4.3452559,15.3025764,kinshasa,CD,school,2024-01-03,Strategic development,,2.93,9979906374,node,Kinshasa ,primaire,GPS
+9979906377,-4.345173,15.3006828,kinshasa,CD,school,2024-01-03,Strategic development,,2.98,9979906377,node,Kinshasa ,primaire,GPS
+731877065,-4.3451074,15.3012106,kinshasa,CD,school,2024-01-03,Strategic development,Ecole christ roi,2.96,731877065,way,Kinshasa ,primaire,GPS
+5268094538,-4.3449162,15.279091,kinshasa,CD,school,2024-01-03,Strategic development,Lycée Technique Omisalisa,4.41,5268094538,node,Kinshasa ,primaire,GPS
+9979906379,-4.3447772,15.3016806,kinshasa,CD,school,2024-01-03,Strategic development,,2.91,9979906379,node,Kinshasa ,primaire,GPS
+5109221813,-4.3447082,15.2743345,kinshasa,CD,school,2024-01-03,Strategic development,Ecole Mpieko,4.82,5109221813,node,Kinshasa ,primaire,GPS
+341035700,-4.3446892,15.2990348,kinshasa,CD,school,2024-01-03,Strategic development,Lycée Toyokana,3,341035700,way,Kinshasa ,primaire,GPS
+5268094543,-4.3446515,15.2791983,kinshasa,CD,school,2024-01-03,Strategic development,C.S. Saint Michel,4.38,5268094543,node,Kinshasa ,primaire,GPS
+731877063,-4.3445753,15.3001553,kinshasa,CD,school,2024-01-03,Strategic development,lycée 2 et 3 kasa-vubu,2.94,731877063,way,Kinshasa ,primaire,GPS
+9979906378,-4.344507,15.3005058,kinshasa,CD,school,2024-01-03,Strategic development,,2.92,9979906378,node,Kinshasa ,primaire,GPS
+5176715275,-4.3444428,15.2763632,kinshasa,CD,school,2024-01-03,Strategic development,Ecole CBCO,4.61,5176715275,node,Kinshasa ,primaire,GPS
+6939161814,-4.3442302,15.2833986,kinshasa,CD,school,2024-01-03,Strategic development,C.S Outres neuves Academie,3.99,6939161814,node,Kinshasa ,primaire,GPS
+9977044011,-4.3439133,15.3131684,kinshasa,CD,school,2024-01-03,Strategic development,EP 1&2 DJOLU,2.68,9977044011,node,Kinshasa ,primaire,GPS
+5499321332,-4.3438999,15.297837,kinshasa,CD,school,2024-01-03,Strategic development,Institut Charles Kisolokele,2.98,5499321332,node,Kinshasa ,primaire,GPS
+5268094545,-4.343587,15.2808291,kinshasa,CD,school,2024-01-03,Strategic development,Institut Bokolo,4.16,5268094545,node,Kinshasa ,primaire,GPS
+6113207115,-4.3434319,15.3478789,kinshasa,CD,school,2024-01-03,Strategic development,Magnificate,4.94,6113207115,node,Kinshasa ,primaire,GPS
+6853565957,-4.3432273,15.2739465,kinshasa,CD,school,2024-01-03,Strategic development,C.S. Bukama,4.76,6853565957,node,Kinshasa ,primaire,GPS
+5268094548,-4.34302,15.2820924,kinshasa,CD,school,2024-01-03,Strategic development,C.S. Marie Stella,4.02,5268094548,node,Kinshasa ,primaire,GPS
+5292873862,-4.34279,15.3153652,kinshasa,CD,school,2024-01-03,Strategic development,École Monseigneur Moke,2.6,5292873862,node,Kinshasa ,primaire,GPS
+5291677394,-4.3427621,15.317369,kinshasa,CD,school,2024-01-03,Strategic development,La Grâce,2.66,5291677394,node,Kinshasa ,primaire,GPS
+9979906369,-4.3427231,15.3044513,kinshasa,CD,school,2024-01-03,Strategic development,,2.6,9979906369,node,Kinshasa ,primaire,GPS
+8442701017,-4.3426955,15.3034218,kinshasa,CD,school,2024-01-03,Strategic development,Complexe Scolaire KANDA,2.63,8442701017,node,Kinshasa ,primaire,GPS
+5182837553,-4.3424186,15.2825918,kinshasa,CD,school,2024-01-03,Strategic development,Ecole Madame de Sévigné Secondaire,3.93,5182837553,node,Kinshasa ,primaire,GPS
+5268094520,-4.3423648,15.2734664,kinshasa,CD,school,2024-01-03,Strategic development,Ecole Le Bambin,4.75,5268094520,node,Kinshasa ,primaire,GPS
+5194466112,-4.3421562,15.2808573,kinshasa,CD,school,2024-01-03,Strategic development,Ecole Madame de Sévigné Maternelle,4.06,5194466112,node,Kinshasa ,primaire,GPS
+1360696706,-4.3420548,15.3209701,kinshasa,CD,school,2024-01-03,Strategic development,École de navigation,2.74,1360696706,way,Kinshasa ,primaire,GPS
+1359427039,-4.3417663,15.2830573,kinshasa,CD,school,2024-01-03,Strategic development,Ecole d'Excellence de Kinshasa,3.84,1359427039,way,Kinshasa ,primaire,GPS
+2299738186,-4.3416957,15.2772237,kinshasa,CD,school,2024-01-03,Strategic development,,4.36,2299738186,node,Kinshasa ,primaire,GPS
+9979906368,-4.3415838,15.3037217,kinshasa,CD,school,2024-01-03,Strategic development,,2.5,9979906368,node,Kinshasa ,primaire,GPS
+5268176448,-4.341533,15.2753413,kinshasa,CD,school,2024-01-03,Strategic development,EP 3 et 4 Institut Makelele,4.53,5268176448,node,Kinshasa ,primaire,GPS
+5268094535,-4.3415009,15.2745607,kinshasa,CD,school,2024-01-03,Strategic development,C.S. Les Bambins,4.6,5268094535,node,Kinshasa ,primaire,GPS
+6115470311,-4.3414126,15.3468463,kinshasa,CD,school,2024-01-03,Strategic development,College Royal,4.73,6115470311,node,Kinshasa ,primaire,GPS
+5499321327,-4.3407654,15.2990976,kinshasa,CD,school,2024-01-03,Strategic development,Ecole La Main Ouverte,2.61,5499321327,node,Kinshasa ,primaire,GPS
+5268094533,-4.3407025,15.2740417,kinshasa,CD,school,2024-01-03,Strategic development,C.S. Makanisi,4.6,5268094533,node,Kinshasa ,primaire,GPS
+2299738122,-4.3406895,15.2757864,kinshasa,CD,school,2024-01-03,Strategic development,Ecole Publique Saint Jean Baptiste,4.44,2299738122,node,Kinshasa ,primaire,GPS
+2299738119,-4.3398453,15.2772631,kinshasa,CD,school,2024-01-03,Strategic development,Collège Saint Michel,4.25,2299738119,node,Kinshasa ,primaire,GPS
+486512032,-4.3397785,15.3027124,kinshasa,CD,school,2024-01-03,Strategic development,Ecole primaire,2.34,486512032,way,Kinshasa ,primaire,GPS
+331313849,-4.3395332,15.3267984,kinshasa,CD,school,2024-01-03,Strategic development,Collège Saint Raphaël,2.86,331313849,way,Kinshasa ,primaire,GPS
+6044190350,-4.339365,15.3463878,kinshasa,CD,school,2024-01-03,Strategic development,Complexe Scolaire The Winner's,4.57,6044190350,node,Kinshasa ,primaire,GPS
+1204107927,-4.3393068,15.3259804,kinshasa,CD,school,2024-01-03,Strategic development,Complexe scolaire Cardinal Monsengwo,2.78,1204107927,way,Kinshasa ,primaire,GPS
+6043731754,-4.3392248,15.3473746,kinshasa,CD,school,2024-01-03,Strategic development,Saint Joseph de Cluny,4.66,6043731754,node,Kinshasa ,primaire,GPS
+5268094515,-4.3391901,15.2743247,kinshasa,CD,school,2024-01-03,Strategic development,"Madame de Sévigné- Maternel, Primaire",4.49,5268094515,node,Kinshasa ,primaire,GPS
+5268094493,-4.3388745,15.2784473,kinshasa,CD,school,2024-01-03,Strategic development,Village Bondeko,4.08,5268094493,node,Kinshasa ,primaire,GPS
+5292873865,-4.3387782,15.3068304,kinshasa,CD,school,2024-01-03,Strategic development,G.S. Mama Zoya,2.12,5292873865,node,Kinshasa ,primaire,GPS
+6044078049,-4.3382915,15.3498973,kinshasa,CD,school,2024-01-03,Strategic development,Groupe Scolaire Dinanga,4.87,6044078049,node,Kinshasa ,primaire,GPS
+6043767829,-4.3381821,15.3462524,kinshasa,CD,school,2024-01-03,Strategic development,Ecole Primaire Kiwanuka,4.5,6043767829,node,Kinshasa ,primaire,GPS
+1359580707,-4.3380198,15.3032671,kinshasa,CD,school,2024-01-03,Strategic development,Athénée de la Victoire,2.14,1359580707,way,Kinshasa ,primaire,GPS
+5268094495,-4.3379625,15.2768218,kinshasa,CD,school,2024-01-03,Strategic development,C.S. Beni 2,4.19,5268094495,node,Kinshasa ,primaire,GPS
+6043767831,-4.3379599,15.3455133,kinshasa,CD,school,2024-01-03,Strategic development,Collège Saint Francois,4.42,6043767831,node,Kinshasa ,primaire,GPS
+6105989204,-4.3373125,15.3486152,kinshasa,CD,school,2024-01-03,Strategic development,Le Prodige Divin,4.69,6105989204,node,Kinshasa ,primaire,GPS
+5268094504,-4.3369622,15.2757758,kinshasa,CD,school,2024-01-03,Strategic development,C.S. Mont des Oliviers,4.24,5268094504,node,Kinshasa ,primaire,GPS
+532181202,-4.3368624,15.2773339,kinshasa,CD,school,2024-01-03,Strategic development,Ecole Primaire Laïque,4.08,532181202,way,Kinshasa ,primaire,GPS
+539437849,-4.3367729,15.2718809,kinshasa,CD,school,2024-01-03,Strategic development,,4.62,539437849,way,Kinshasa ,primaire,GPS
+5219810499,-4.3367659,15.2714103,kinshasa,CD,school,2024-01-03,Strategic development,Ecole Bolingani,4.67,5219810499,node,Kinshasa ,primaire,GPS
+6050630287,-4.3365751,15.3485133,kinshasa,CD,school,2024-01-03,Strategic development,Complexe Scolaire La Grace,4.65,6050630287,node,Kinshasa ,primaire,GPS
+1359576981,-4.3359929,15.2869029,kinshasa,CD,school,2024-01-03,Strategic development,Ecole Kokolo,3.12,1359576981,way,Kinshasa ,primaire,GPS
+6041516468,-4.3352559,15.3387889,kinshasa,CD,school,2024-01-03,Strategic development,complexe scolaire serena,3.61,6041516468,node,Kinshasa ,primaire,GPS
+6041492247,-4.3352131,15.3469375,kinshasa,CD,school,2024-01-03,Strategic development,Complexe Scolaire Monano I,4.43,6041492247,node,Kinshasa ,primaire,GPS
+704174494,-4.3340403,15.3083762,kinshasa,CD,school,2024-01-03,Strategic development,Lycée Madame de Sévigné,1.57,704174494,way,Kinshasa ,primaire,GPS
+6039240939,-4.3335428,15.346562,kinshasa,CD,school,2024-01-03,Strategic development,Saint Raphael de Karmaria,4.32,6039240939,node,Kinshasa ,primaire,GPS
+1360752803,-4.3335319,15.2815856,kinshasa,CD,school,2024-01-03,Strategic development,,3.49,1360752803,way,Kinshasa ,primaire,GPS
+6039196508,-4.3331112,15.3473542,kinshasa,CD,school,2024-01-03,Strategic development,Complexe Scolaire Saint Denis Wa,4.39,6039196508,node,Kinshasa ,primaire,GPS
+6039151839,-4.3330454,15.3461429,kinshasa,CD,school,2024-01-03,Strategic development,Groupe Scolaire Tembele,4.26,6039151839,node,Kinshasa ,primaire,GPS
+6039032208,-4.3320157,15.3464466,kinshasa,CD,school,2024-01-03,Strategic development,Complexe Scolaire Bon Berger,4.26,6039032208,node,Kinshasa ,primaire,GPS
+6039131956,-4.328405,15.3464996,kinshasa,CD,school,2024-01-03,Strategic development,Ecole Primaire,4.15,6039131956,node,Kinshasa ,primaire,GPS
+6044159189,-4.3283366,15.3465139,kinshasa,CD,school,2024-01-03,Strategic development,Complexe Scolaire Gloria,4.15,6044159189,node,Kinshasa ,primaire,GPS
+362438618,-4.3273344,15.3079845,kinshasa,CD,school,2024-01-03,Strategic development,Ecole Armée du Salut,0.85,362438618,way,Kinshasa ,primaire,GPS
+362438613,-4.3271248,15.3002248,kinshasa,CD,school,2024-01-03,Strategic development,Eglise Binguiste,1.34,362438613,way,Kinshasa ,primaire,GPS
+9979337835,-4.3260447,15.2974185,kinshasa,CD,school,2024-01-03,Strategic development,Ecole Melisa,1.55,9979337835,node,Kinshasa ,primaire,GPS
+1360870390,-4.3259503,15.2749106,kinshasa,CD,school,2024-01-03,Strategic development,Jewels International School,3.95,1360870390,way,Kinshasa ,primaire,GPS
+1360872737,-4.3257123,15.2713011,kinshasa,CD,school,2024-01-03,Strategic development,Busy Bee,4.34,1360872737,way,Kinshasa ,primaire,GPS
+1389924640,-4.3256198,15.3054489,kinshasa,CD,school,2024-01-03,Strategic development,,0.8,1389924640,way,Kinshasa ,primaire,GPS
+1359727505,-4.3236971,15.287631,kinshasa,CD,school,2024-01-03,Strategic development,Institut Monseigneur Bokeleale,2.51,1359727505,way,Kinshasa ,primaire,GPS
+1359726879,-4.3232264,15.2862417,kinshasa,CD,school,2024-01-03,Strategic development,Lycée Monseigneur Shaumba,2.66,1359726879,way,Kinshasa ,primaire,GPS
+1359429709,-4.3230478,15.2939043,kinshasa,CD,school,2024-01-03,Strategic development,Ecole Notre Dame,1.82,1359429709,way,Kinshasa ,primaire,GPS
+129297065,-4.3229502,15.3109691,kinshasa,CD,school,2024-01-03,Strategic development,Lycée Kabambare,0.35,129297065,way,Kinshasa ,primaire,GPS
+5499427140,-4.322862,15.2892861,kinshasa,CD,school,2024-01-03,Strategic development,Complexe Scolaire La Puisette Ngoika,2.32,5499427140,node,Kinshasa ,primaire,GPS
+1362816363,-4.3227732,15.3116904,kinshasa,CD,school,2024-01-03,Strategic development,Collège Saint Pierre,0.36,1362816363,way,Kinshasa ,primaire,GPS
+1372042411,-4.3227082,15.3245429,kinshasa,CD,school,2024-01-03,Strategic development,,1.64,1372042411,way,Kinshasa ,primaire,GPS
+1359429712,-4.3225413,15.2903551,kinshasa,CD,school,2024-01-03,Strategic development,Collège de la Salle,2.2,1359429712,way,Kinshasa ,primaire,GPS
+6282653585,-4.3224751,15.3051724,kinshasa,CD,school,2024-01-03,Strategic development,Institut Saint Jean Baptiste,0.6,6282653585,node,Kinshasa ,primaire,GPS
+1427299714,-4.3222981,15.2969722,kinshasa,CD,school,2024-01-03,Strategic development,LYCEE BOENDE,1.47,1427299714,way,Kinshasa ,primaire,GPS
+1389924633,-4.3222599,15.3034083,kinshasa,CD,school,2024-01-03,Strategic development,Saint Jean Marie Muzeyi,0.77,1389924633,way,Kinshasa ,primaire,GPS
+547207548,-4.3217057,15.3141017,kinshasa,CD,school,2024-01-03,Strategic development,Village Bondeko,0.49,547207548,way,Kinshasa ,primaire,GPS
+1389927147,-4.3208371,15.3048329,kinshasa,CD,school,2024-01-03,Strategic development,Complexe Scolaire Loboko Naye,0.58,1389927147,way,Kinshasa ,primaire,GPS
+1363326279,-4.3190456,15.2878138,kinshasa,CD,school,2024-01-03,Strategic development,Lycée Français René Descartes,2.46,1363326279,way,Kinshasa ,primaire,GPS
+1359602927,-4.3188857,15.3001982,kinshasa,CD,school,2024-01-03,Strategic development,,1.09,1359602927,way,Kinshasa ,primaire,GPS
+37563006,-4.318687,15.2913702,kinshasa,CD,school,2024-01-03,Strategic development,Lycée Prince de Liège,2.07,37563006,way,Kinshasa ,primaire,GPS
+1369612841,-4.3186623,15.306312,kinshasa,CD,school,2024-01-03,Strategic development,,0.44,1369612841,way,Kinshasa ,primaire,GPS
+759366037,-4.3186044,15.2896536,kinshasa,CD,school,2024-01-03,Strategic development,Prins van Luikschool,2.26,759366037,way,Kinshasa ,primaire,GPS
+5499358554,-4.3179514,15.2872369,kinshasa,CD,school,2024-01-03,Strategic development,Ecole Bilingue Les Petits Dauphins,2.53,5499358554,node,Kinshasa ,primaire,GPS
+9976991400,-4.3174329,15.2930784,kinshasa,CD,school,2024-01-03,Strategic development,Complexe Scolaire Révérend KIM,1.9,9976991400,node,Kinshasa ,primaire,GPS
+5499358552,-4.3173871,15.2899727,kinshasa,CD,school,2024-01-03,Strategic development,Ecole Eureka,2.24,5499358552,node,Kinshasa ,primaire,GPS
+5500780938,-4.3172306,15.2929687,kinshasa,CD,school,2024-01-03,Strategic development,Ecole Bambinière,1.91,5500780938,node,Kinshasa ,primaire,GPS
+362439869,-4.316873,15.3268243,kinshasa,CD,school,2024-01-03,Strategic development,,1.9,362439869,way,Kinshasa ,primaire,GPS
+5499358550,-4.3168682,15.2912924,kinshasa,CD,school,2024-01-03,Strategic development,CS Clessidra,2.1,5499358550,node,Kinshasa ,primaire,GPS
+1362818529,-4.3161073,15.3027484,kinshasa,CD,school,2024-01-03,Strategic development,Centre scolaire Lufungula,0.91,1362818529,way,Kinshasa ,primaire,GPS
+362439868,-4.3152683,15.326493,kinshasa,CD,school,2024-01-03,Strategic development,,1.9,362439868,way,Kinshasa ,primaire,GPS
+2953314337,-4.3151921,15.3263021,kinshasa,CD,school,2024-01-03,Strategic development,Collège saint charles luanga,1.88,2953314337,node,Kinshasa ,primaire,GPS
+1372048115,-4.314845,15.3226303,kinshasa,CD,school,2024-01-03,Strategic development,,1.51,1372048115,way,Kinshasa ,primaire,GPS
+907384629,-4.3141801,15.2842822,kinshasa,CD,school,2024-01-03,Strategic development,La Source de Vie - Royal,2.92,907384629,way,Kinshasa ,primaire,GPS
+1372367616,-4.3124882,15.3191581,kinshasa,CD,school,2024-01-03,Strategic development,,1.31,1372367616,way,Kinshasa ,primaire,GPS
+772918429,-4.310928,15.277268,kinshasa,CD,school,2024-01-03,Strategic development,Institut de la Gombe,3.77,772918429,way,Kinshasa ,primaire,GPS
+772918436,-4.3105731,15.2796659,kinshasa,CD,school,2024-01-03,Strategic development,École maternelle de la Gombe,3.52,772918436,way,Kinshasa ,primaire,GPS
+772918427,-4.3100253,15.2796872,kinshasa,CD,school,2024-01-03,Strategic development,École Internationale ŞAFAK,3.54,772918427,way,Kinshasa ,primaire,GPS
+57357941,-4.3100199,15.3001132,kinshasa,CD,school,2024-01-03,Strategic development,École maternelle,1.56,57357941,way,Kinshasa ,primaire,GPS
+57357940,-4.3098283,15.2995215,kinshasa,CD,school,2024-01-03,Strategic development,,1.62,57357940,way,Kinshasa ,primaire,GPS
+57357937,-4.3096521,15.2993894,kinshasa,CD,school,2024-01-03,Strategic development,,1.65,57357937,way,Kinshasa ,primaire,GPS
+4749983,-4.3095926,15.3000937,kinshasa,CD,school,2024-01-03,Strategic development,École Notre Dame de Fatima,1.6,4749983,relation,Kinshasa ,primaire,GPS
+753674320,-4.309059,15.2856787,kinshasa,CD,school,2024-01-03,Strategic development,Collège Boboto,2.96,753674320,way,Kinshasa ,primaire,GPS
+4866013704,-4.3087366,15.3178623,kinshasa,CD,school,2024-01-03,Strategic development,École portuguaise,1.53,4866013704,node,Kinshasa ,primaire,GPS
+998119240,-4.3087007,15.2990148,kinshasa,CD,school,2024-01-03,Strategic development,IFASIC,1.75,998119240,way,Kinshasa ,primaire,GPS
+5410208647,-4.3085395,15.2867889,kinshasa,CD,school,2024-01-03,Strategic development,École Maternelle Boboto,2.87,5410208647,node,Kinshasa ,primaire,GPS
+5410208648,-4.3084271,15.2871966,kinshasa,CD,school,2024-01-03,Strategic development,C.S. Manyanga,2.84,5410208648,node,Kinshasa ,primaire,GPS
+1369177816,-4.3084234,15.2916583,kinshasa,CD,school,2024-01-03,Strategic development,,2.41,1369177816,way,Kinshasa ,primaire,GPS
+3477493250,-4.3084113,15.2916664,kinshasa,CD,school,2024-01-03,Strategic development,Collège Les Saphirs,2.41,3477493250,node,Kinshasa ,primaire,GPS
+753674322,-4.3082385,15.283172,kinshasa,CD,school,2024-01-03,Strategic development,Lycée Bosangani,3.25,753674322,way,Kinshasa ,primaire,GPS
+1372367637,-4.3079533,15.3176042,kinshasa,CD,school,2024-01-03,Strategic development,,1.58,1372367637,way,Kinshasa ,primaire,GPS
+9246824078,-4.3079289,15.3173972,kinshasa,CD,school,2024-01-03,Strategic development,English International School,1.57,9246824078,node,Kinshasa ,primaire,GPS
+772918439,-4.306972,15.2852804,kinshasa,CD,school,2024-01-03,Strategic development,Institut Supérieur Pédagogique de la Gombe,3.1,772918439,way,Kinshasa ,primaire,GPS
+440111691,-4.3053231,15.3147319,kinshasa,CD,school,2024-01-03,Strategic development,Institute Georges Simenon,1.71,440111691,node,Kinshasa ,primaire,GPS
+52595375,-4.3039933,15.2935788,kinshasa,CD,school,2024-01-03,Strategic development,Lycée Français René Descartes (Site de Kalemie),2.55,52595375,way,Kinshasa ,primaire,GPS
+4945976043,-4.3004859,15.3160161,kinshasa,CD,school,2024-01-03,Strategic development,Collège Saint Joseph,2.27,4945976043,node,Kinshasa ,primaire,GPS
+7518261526,-2.5407093,28.8670839,Bukavu,CD,school,2024-01-02,Violence against civilians,Institut Mahama,4.91,7518261526,node,Kivu,primaire,GPS
+7387324594,-2.5366031,28.8563785,Bukavu,CD,school,2024-01-02,Violence against civilians,Complexe Scolaire Baraka,4.13,7387324594,node,Kivu,primaire,GPS
+7396262657,-2.536533,28.8591646,Bukavu,CD,school,2024-01-02,Violence against civilians,Ecole Primaire Salongo Lwana,4.19,7396262657,node,Kivu,primaire,GPS
+7387324589,-2.5357122,28.8464153,Bukavu,CD,school,2024-01-02,Violence against civilians,Complexe Scolaire Busiba,3.99,7387324589,node,Kivu,primaire,GPS
+7402879649,-2.5353885,28.8476052,Bukavu,CD,school,2024-01-02,Violence against civilians,Institut Astere,3.94,7402879649,node,Kivu,primaire,GPS
+7387310583,-2.5353457,28.8568944,Bukavu,CD,school,2024-01-02,Violence against civilians,Complexe Scolaire Confiance,4,7387310583,node,Kivu,primaire,GPS
+7387324597,-2.5348335,28.8572302,Bukavu,CD,school,2024-01-02,Violence against civilians,Complexe Scolaire Aksante,3.96,7387324597,node,Kivu,primaire,GPS
+7387324595,-2.5340543,28.8567455,Bukavu,CD,school,2024-01-02,Violence against civilians,Complexe Scolaire Amani,3.86,7387324595,node,Kivu,primaire,GPS
+7387324656,-2.5338495,28.8532633,Bukavu,CD,school,2024-01-02,Violence against civilians,Complexe Scolaire Incence,3.78,7387324656,node,Kivu,primaire,GPS
+7417977809,-2.531337,28.85307,Bukavu,CD,school,2024-01-02,Violence against civilians,Institut Kabuye,3.5,7417977809,node,Kivu,primaire,GPS
+7387324610,-2.5309998,28.8573566,Bukavu,CD,school,2024-01-02,Violence against civilians,Complexe Scolaire Rehema,3.54,7387324610,node,Kivu,primaire,GPS
+7387324660,-2.5309221,28.8528947,Bukavu,CD,school,2024-01-02,Violence against civilians,Complexe Scolaire Foyer du Savoir,3.45,7387324660,node,Kivu,primaire,GPS
+7396262607,-2.5307289,28.8474391,Bukavu,CD,school,2024-01-02,Violence against civilians,Ecole Primaire Kinjuba,3.43,7396262607,node,Kivu,primaire,GPS
+7387324636,-2.5305162,28.8578789,Bukavu,CD,school,2024-01-02,Violence against civilians,Complexe Scolaire la Souplexe,3.5,7387324636,node,Kivu,primaire,GPS
+7387324659,-2.5302361,28.8245192,Bukavu,CD,school,2024-01-02,Violence against civilians,Complexe Scolaire Fazili,4.4,7387324659,node,Kivu,primaire,GPS
+7518261537,-2.5294714,28.8568108,Bukavu,CD,school,2024-01-02,Violence against civilians,Institut la Vision,3.36,7518261537,node,Kivu,primaire,GPS
+7417977808,-2.5289557,28.8454962,Bukavu,CD,school,2024-01-02,Violence against civilians,Institut Kabasha,3.26,7417977808,node,Kivu,primaire,GPS
+7387324601,-2.5288374,28.8429295,Bukavu,CD,school,2024-01-02,Violence against civilians,Complexe Scolaire Safi-Kwetu,3.3,7387324601,node,Kivu,primaire,GPS
+1235017581,-2.5274167,28.8572778,Bukavu,CD,school,2024-01-02,Violence against civilians,Ecole primaire Tuendelee,3.15,1235017581,node,Kivu,primaire,GPS
+7417977818,-2.5273238,28.8566685,Bukavu,CD,school,2024-01-02,Violence against civilians,Institut Cidasa,3.13,7417977818,node,Kivu,primaire,GPS
+7533747949,-2.5271964,28.8563752,Bukavu,CD,school,2024-01-02,Violence against civilians,Institut Vangu,3.11,7533747949,node,Kivu,primaire,GPS
+7518261553,-2.5268554,28.8302893,Bukavu,CD,school,2024-01-02,Violence against civilians,Institut Mulwa,3.7,7518261553,node,Kivu,primaire,GPS
+1235015496,-2.5266621,28.8299278,Bukavu,CD,school,2024-01-02,Violence against civilians,Ecole primaire Mulwa,3.71,1235015496,node,Kivu,primaire,GPS
+7387324634,-2.5265428,28.8519589,Bukavu,CD,school,2024-01-02,Violence against civilians,Complexe Scolaire la Victoire,2.96,7387324634,node,Kivu,primaire,GPS
+7387324653,-2.5263808,28.8262397,Bukavu,CD,school,2024-01-02,Violence against civilians,Complexe Scolaire Jean-Jacques,3.95,7387324653,node,Kivu,primaire,GPS
+7396262572,-2.5259877,28.8410232,Bukavu,CD,school,2024-01-02,Violence against civilians,Ecole Primaire Malu,3.06,7396262572,node,Kivu,primaire,GPS
+1235015694,-2.5257778,28.8571111,Bukavu,CD,school,2024-01-02,Violence against civilians,Ecole primaire Nyanja,2.97,1235015694,node,Kivu,primaire,GPS
+7387324648,-2.5230821,28.8469798,Bukavu,CD,school,2024-01-02,Violence against civilians,Complexe Scolaire la Colombe,2.59,7387324648,node,Kivu,primaire,GPS
+7518261554,-2.5228032,28.8487975,Bukavu,CD,school,2024-01-02,Violence against civilians,Institut Mulindwa,2.54,7518261554,node,Kivu,primaire,GPS
+7402879657,-2.5227311,28.8469758,Bukavu,CD,school,2024-01-02,Violence against civilians,Ecole Primaire Uaminifu,2.55,7402879657,node,Kivu,primaire,GPS
+7396262633,-2.5223521,28.8480224,Bukavu,CD,school,2024-01-02,Violence against civilians,Ecole Primaire Buholo,2.5,7396262633,node,Kivu,primaire,GPS
+7387324658,-2.5222561,28.8490229,Bukavu,CD,school,2024-01-02,Violence against civilians,Complexe Scolaire Horizon,2.48,7387324658,node,Kivu,primaire,GPS
+7396262637,-2.5212362,28.8502186,Bukavu,CD,school,2024-01-02,Violence against civilians,Ecole Primaire Aden,2.36,7396262637,node,Kivu,primaire,GPS
+1235016730,-2.5210833,28.8588333,Bukavu,CD,school,2024-01-02,Violence against civilians,École primaire Elimu,2.54,1235016730,node,Kivu,primaire,GPS
+7417977819,-2.5210139,28.8352853,Bukavu,CD,school,2024-01-02,Violence against civilians,Institut Ciriri,2.85,7417977819,node,Kivu,primaire,GPS
+7387324596,-2.5209522,28.8484079,Bukavu,CD,school,2024-01-02,Violence against civilians,Complexe Scolaire Ashuza,2.34,7387324596,node,Kivu,primaire,GPS
+7387324613,-2.5203501,28.8499222,Bukavu,CD,school,2024-01-02,Violence against civilians,Complexe Scolaire Namur,2.26,7387324613,node,Kivu,primaire,GPS
+7533747978,-2.5197534,28.8365292,Bukavu,CD,school,2024-01-02,Violence against civilians,Lycée Familiya Dei,2.66,7533747978,node,Kivu,primaire,GPS
+7387324611,-2.5197083,28.8464933,Bukavu,CD,school,2024-01-02,Violence against civilians,Complexe Scolaire Oda,2.23,7387324611,node,Kivu,primaire,GPS
+1235016379,-2.5193611,28.8561667,Bukavu,CD,school,2024-01-02,Violence against civilians,École Primaire Hodari,2.26,1235016379,node,Kivu,primaire,GPS
+1235017248,-2.5189722,28.8490278,Bukavu,CD,school,2024-01-02,Violence against civilians,Ecole primaire Kahuwa,2.11,1235017248,node,Kivu,primaire,GPS
+4950829794,-2.5188995,28.8494808,Bukavu,CD,school,2024-01-02,Violence against civilians,Institut Fadhili,2.1,4950829794,node,Kivu,primaire,GPS
+7387310581,-2.5185928,28.8532641,Bukavu,CD,school,2024-01-02,Violence against civilians,Complexe Scolaire Elo Nyamugo,2.1,7387310581,node,Kivu,primaire,GPS
+1235016322,-2.5183889,28.8458611,Bukavu,CD,school,2024-01-02,Violence against civilians,Ecole primaire Nyakaliba,2.1,1235016322,node,Kivu,primaire,GPS
+7533747955,-2.5183667,28.8339942,Bukavu,CD,school,2024-01-02,Violence against civilians,Institut Saint Matthieu,2.71,7533747955,node,Kivu,primaire,GPS
+7387324588,-2.5183642,28.8350163,Bukavu,CD,school,2024-01-02,Violence against civilians,Complexe Scolaire Charme,2.63,7387324588,node,Kivu,primaire,GPS
+7387324633,-2.5182944,28.8365382,Bukavu,CD,school,2024-01-02,Violence against civilians,Complexe Scolaire le Bonheur,2.52,7387324633,node,Kivu,primaire,GPS
+7515023085,-2.5180422,28.8511026,Bukavu,CD,school,2024-01-02,Violence against civilians,Université de Proximité,2.01,7515023085,node,Kivu,primaire,GPS
+7387324623,-2.5176022,28.8505916,Bukavu,CD,school,2024-01-02,Violence against civilians,Complexe Scolaire Maria Utuangaziye,1.96,7387324623,node,Kivu,primaire,GPS
+7533747963,-2.5175833,28.8509605,Bukavu,CD,school,2024-01-02,Violence against civilians,Institut Olimba,1.96,7533747963,node,Kivu,primaire,GPS
+7387324590,-2.5175469,28.8500625,Bukavu,CD,school,2024-01-02,Violence against civilians,Complexe Scolaire Camp Cinema,1.95,7387324590,node,Kivu,primaire,GPS
+1235017145,-2.5170556,28.8553333,Bukavu,CD,school,2024-01-02,Violence against civilians,École Primaire Nidunga,1.99,1235017145,node,Kivu,primaire,GPS
+7396262595,-2.5170094,28.8436078,Bukavu,CD,school,2024-01-02,Violence against civilians,Ecole Primaire Kiriza,2.02,7396262595,node,Kivu,primaire,GPS
+199022546,-2.5168515,28.8503491,Bukavu,CD,school,2024-01-02,Violence against civilians,Institut Bahati,1.87,199022546,way,Kivu,primaire,GPS
+7387324651,-2.5167136,28.8480548,Bukavu,CD,school,2024-01-02,Violence against civilians,Complexe Scolaire Kitoko 2,1.87,7387324651,node,Kivu,primaire,GPS
+7387324622,-2.5164843,28.8483232,Bukavu,CD,school,2024-01-02,Violence against civilians,Complexe Scolaire Mapatano,1.84,7387324622,node,Kivu,primaire,GPS
+7387324649,-2.5164394,28.8387922,Bukavu,CD,school,2024-01-02,Violence against civilians,Complexe Scolaire la Conscience,2.21,7387324649,node,Kivu,primaire,GPS
+1235017396,-2.5163333,28.8436389,Bukavu,CD,school,2024-01-02,Violence against civilians,Ecole primaire Furaha,1.95,1235017396,node,Kivu,primaire,GPS
+199022530,-2.5163225,28.849955,Bukavu,CD,school,2024-01-02,Violence against civilians,École Primaire Saint François Xavier,1.81,199022530,way,Kivu,primaire,GPS
+199022538,-2.5163137,28.8501404,Bukavu,CD,school,2024-01-02,Violence against civilians,École Primaire Saint François Xavier,1.81,199022538,way,Kivu,primaire,GPS
+7533747979,-2.5161706,28.839689,Bukavu,CD,school,2024-01-02,Violence against civilians,Lycée Cesar,2.13,7533747979,node,Kivu,primaire,GPS
+7387324640,-2.5159348,28.8618897,Bukavu,CD,school,2024-01-02,Violence against civilians,Complexe Scolaire la Persévérance,2.21,7387324640,node,Kivu,primaire,GPS
+7387324646,-2.5156991,28.8519664,Bukavu,CD,school,2024-01-02,Violence against civilians,Complexe Scolaire la Croisière,1.76,7387324646,node,Kivu,primaire,GPS
+7396262642,-2.5156275,28.8528429,Bukavu,CD,school,2024-01-02,Violence against civilians,Ecole Primaire Amkeni,1.77,7396262642,node,Kivu,primaire,GPS
+7387324629,-2.5139017,28.8482483,Bukavu,CD,school,2024-01-02,Violence against civilians,Complexe Scolaire Levert,1.56,7387324629,node,Kivu,primaire,GPS
+7387310582,-2.5137934,28.8401478,Bukavu,CD,school,2024-01-02,Violence against civilians,Complexe Scolaire Dane,1.88,7387310582,node,Kivu,primaire,GPS
+1235015951,-2.5122393,28.8478166,Bukavu,CD,school,2024-01-02,Violence against civilians,Ecole primaire Ntwali,1.38,1235015951,node,Kivu,primaire,GPS
+7399890681,-2.5122101,28.8525975,Bukavu,CD,school,2024-01-02,Violence against civilians,Ecole Primaire Kabika,1.39,7399890681,node,Kivu,primaire,GPS
+7518261539,-2.5119215,28.8657752,Bukavu,CD,school,2024-01-02,Violence against civilians,Institut la Varonique,2.2,7518261539,node,Kivu,primaire,GPS
+1235017167,-2.5117049,28.8482021,Bukavu,CD,school,2024-01-02,Violence against civilians,École primaire Ulindi,1.32,1235017167,node,Kivu,primaire,GPS
+195645608,-2.5114774,28.853226,Bukavu,CD,school,2024-01-02,Violence against civilians,Ecole de la paix - Communaute de Sant 'Egidio,1.33,195645608,way,Kivu,primaire,Bing
+7396262582,-2.511076,28.8659506,Bukavu,CD,school,2024-01-02,Violence against civilians,Ecole Primaire la Veronica,2.16,7396262582,node,Kivu,primaire,GPS
+1001811912,-2.5106692,28.857085,Bukavu,CD,school,2024-01-02,Violence against civilians,Institut Superieur Pédagogique de Bukavu,1.42,1001811912,way,Kivu,primaire,GPS
+7387324599,-2.5104341,28.8450055,Bukavu,CD,school,2024-01-02,Violence against civilians,Complexe Scolaire Aigle de Vision,1.29,7387324599,node,Kivu,primaire,GPS
+1235015522,-2.5100556,28.8450556,Bukavu,CD,school,2024-01-02,Violence against civilians,Ecole primaire Camp Mweze,1.25,1235015522,node,Kivu,primaire,GPS
+7533747960,-2.5098495,28.8449002,Bukavu,CD,school,2024-01-02,Violence against civilians,Institut Plateau,1.23,7533747960,node,Kivu,primaire,GPS
+7387324587,-2.5097334,28.8580862,Bukavu,CD,school,2024-01-02,Violence against civilians,Complexe Scolaire Cebya,1.41,7387324587,node,Kivu,primaire,GPS
+7387324657,-2.5095872,28.8697014,Bukavu,CD,school,2024-01-02,Violence against civilians,Complexe Scolaire Gracia,2.43,7387324657,node,Kivu,primaire,GPS
+7387324631,-2.5094668,28.86396,Bukavu,CD,school,2024-01-02,Violence against civilians,Complexe Scolaire le Prophète,1.87,7387324631,node,Kivu,primaire,GPS
+7518261541,-2.5089138,28.8533624,Bukavu,CD,school,2024-01-02,Violence against civilians,Institut la Trinite,1.06,7518261541,node,Kivu,primaire,GPS
+12511805627,-2.5085711,28.8460794,Bukavu,CD,school,2024-01-02,Violence against civilians,Complexe Scolaire Saint Israël,1.05,12511805627,node,Kivu,primaire,GPS
+7402879650,-2.5084623,28.8450729,Bukavu,CD,school,2024-01-02,Violence against civilians,Institut Augustino,1.09,7402879650,node,Kivu,primaire,GPS
+7396262566,-2.5083976,28.8539836,Bukavu,CD,school,2024-01-02,Violence against civilians,Ecole Primaire Matendo,1.03,7396262566,node,Kivu,primaire,GPS
+7387324627,-2.5078351,28.863423,Bukavu,CD,school,2024-01-02,Violence against civilians,Complexe Scolaire Maendeleo,1.73,7387324627,node,Kivu,primaire,GPS
+730056255,-2.5076172,28.8663426,Bukavu,CD,school,2024-01-02,Violence against civilians,Complexe Scolaire Merci Wesha,2,730056255,way,Kivu,primaire,GPS
+7518261561,-2.5074309,28.8702836,Bukavu,CD,school,2024-01-02,Violence against civilians,Institut Mgr Bya'Ene,2.4,7518261561,node,Kivu,primaire,GPS
+968512399,-2.5065031,28.8488488,Bukavu,CD,school,2024-01-02,Violence against civilians,Wima School,0.73,968512399,way,Kivu,primaire,GPS
+4587841796,-2.5063935,28.845158,Bukavu,CD,school,2024-01-02,Violence against civilians,ITFM: Institut Technique Fundi Maendeleo,0.89,4587841796,node,Kivu,primaire,GPS
+7387310580,-2.5058838,28.8687166,Bukavu,CD,school,2024-01-02,Violence against civilians,Complexe Scolaire Elite,2.18,7387310580,node,Kivu,primaire,GPS
+12511849791,-2.5058555,28.8694623,Bukavu,CD,school,2024-01-02,Violence against civilians,Complexe Scolaire la Découverte,2.26,12511849791,node,Kivu,primaire,GPS
+7387324647,-2.5056618,28.8695049,Bukavu,CD,school,2024-01-02,Violence against civilians,Complexe Scolaire la Decouverte,2.26,7387324647,node,Kivu,primaire,GPS
+7335621786,-2.5055617,28.8590894,Bukavu,CD,school,2024-01-02,Violence against civilians,Groupe Scolaire Gardienat,1.18,7335621786,node,Kivu,primaire,GPS
+12511849794,-2.5053478,28.8690879,Bukavu,CD,school,2024-01-02,Violence against civilians,Complexe Scolaire Saint Joseph,2.2,12511849794,node,Kivu,primaire,GPS
+7387324644,-2.5051545,28.8402023,Bukavu,CD,school,2024-01-02,Violence against civilians,Complexe Scolaire la Famille,1.23,7387324644,node,Kivu,primaire,GPS
+7335626585,-2.505119,28.8587121,Bukavu,CD,school,2024-01-02,Violence against civilians,Complexe Scolaire Saint Michel,1.12,7335626585,node,Kivu,primaire,GPS
+12511849792,-2.5050235,28.8689512,Bukavu,CD,school,2024-01-02,Violence against civilians,Complexe Scolaire Elite,2.18,12511849792,node,Kivu,primaire,GPS
+7387324619,-2.5038017,28.8791262,Bukavu,CD,school,2024-01-02,Violence against civilians,Complexe Scolaire Michel,3.26,7387324619,node,Kivu,primaire,GPS
+7399893392,-2.5037192,28.8699548,Bukavu,CD,school,2024-01-02,Violence against civilians,Ecole Primaire Mignos,2.26,7399893392,node,Kivu,primaire,GPS
+7402879655,-2.5036269,28.8759322,Bukavu,CD,school,2024-01-02,Violence against civilians,Institut Akya,2.91,7402879655,node,Kivu,primaire,GPS
+7396262585,-2.5033303,28.8833941,Bukavu,CD,school,2024-01-02,Violence against civilians,École Primaire la Référence,3.73,7396262585,node,Kivu,primaire,GPS
+7387324630,-2.5028617,28.869508,Bukavu,CD,school,2024-01-02,Violence against civilians,Complexe Scolaire le Miracle,2.19,7387324630,node,Kivu,primaire,GPS
+7387324632,-2.5006853,28.8826516,Bukavu,CD,school,2024-01-02,Violence against civilians,Complexe Scolaire Lapereau,3.63,7387324632,node,Kivu,primaire,GPS
+7139744385,-2.5006292,28.8805823,Bukavu,CD,school,2024-01-02,Violence against civilians,ISM,3.4,7139744385,node,Kivu,primaire,GPS
+12512080043,-2.500625,28.8673756,Bukavu,CD,school,2024-01-02,Violence against civilians,Complexe scolaire LA FONTAINE,1.93,12512080043,node,Kivu,primaire,GPS
+7528077485,-2.5004875,28.8824685,Bukavu,CD,school,2024-01-02,Violence against civilians,Complexe Scolaire Laperaux,3.61,7528077485,node,Kivu,primaire,GPS
+7528073687,-2.5003168,28.8809813,Bukavu,CD,school,2024-01-02,Violence against civilians,Lucée Arche de l’unité,3.44,7528073687,node,Kivu,primaire,GPS
+7387324638,-2.4999743,28.8889416,Bukavu,CD,school,2024-01-02,Violence against civilians,Complexe Scolaire la Reine,4.33,7387324638,node,Kivu,primaire,GPS
+12511802981,-2.4999675,28.885873,Bukavu,CD,school,2024-01-02,Violence against civilians,Complexe Scolaire Notre Dame de la Paix/Nguba,3.99,12511802981,node,Kivu,primaire,GPS
+7533747980,-2.4999338,28.873106,Bukavu,CD,school,2024-01-02,Violence against civilians,Lycée Cirezi,2.57,7533747980,node,Kivu,primaire,GPS
+1001811907,-2.499909,28.8767025,Bukavu,CD,school,2024-01-02,Violence against civilians,Collège Alfajiri,2.97,1001811907,way,Kivu,primaire,GPS
+7387324617,-2.4997755,28.8568709,Bukavu,CD,school,2024-01-02,Violence against civilians,Complexe Scolaire Mon Bon Village,0.76,7387324617,node,Kivu,primaire,GPS
+7528079285,-2.4995748,28.8791471,Bukavu,CD,school,2024-01-02,Violence against civilians,École primaire l’Estonac,3.24,7528079285,node,Kivu,primaire,GPS
+7396262666,-2.4991714,28.8792308,Bukavu,CD,school,2024-01-02,Violence against civilians,École Primaire Sainte Jeanne de Lestonnac,3.25,7396262666,node,Kivu,primaire,GPS
+7396262586,-2.4991556,28.8343339,Bukavu,CD,school,2024-01-02,Violence against civilians,Ecole Primaire Luganda,1.74,7396262586,node,Kivu,primaire,GPS
+1235017597,-2.4989352,28.8875337,Bukavu,CD,school,2024-01-02,Violence against civilians,École Primaire Nguba,4.17,1235017597,node,Kivu,primaire,GPS
+7387324624,-2.4987036,28.8776864,Bukavu,CD,school,2024-01-02,Violence against civilians,Complexe Scolaire Maman Gloria,3.08,7387324624,node,Kivu,primaire,GPS
+7533747971,-2.4983272,28.888311,Bukavu,CD,school,2024-01-02,Violence against civilians,Institut Mushere,4.26,7533747971,node,Kivu,primaire,GPS
+7387324618,-2.4981123,28.8376244,Bukavu,CD,school,2024-01-02,Violence against civilians,Complexe Scolaire Merci Wesha,1.39,7387324618,node,Kivu,primaire,GPS
+7292354785,-2.4979997,28.8865352,Bukavu,CD,school,2024-01-02,Violence against civilians,Complexe Scolaire Étoile,4.06,7292354785,node,Kivu,primaire,GPS
+7387324591,-2.4978915,28.8792302,Bukavu,CD,school,2024-01-02,Violence against civilians,Complexe Scolaire Brain,3.26,7387324591,node,Kivu,primaire,GPS
+7387324643,-2.4971207,28.8309555,Bukavu,CD,school,2024-01-02,Violence against civilians,Complexe Scolaire la Gloire,2.14,7387324643,node,Kivu,primaire,GPS
+7387324620,-2.4966758,28.8870037,Bukavu,CD,school,2024-01-02,Violence against civilians,Complexe Scolaire Matimanyi,4.13,7387324620,node,Kivu,primaire,GPS
+7396262559,-2.4966383,28.8283176,Bukavu,CD,school,2024-01-02,Violence against civilians,Ecole Primaire Mushekere,2.44,7396262559,node,Kivu,primaire,GPS
+7387324603,-2.4950883,28.846592,Bukavu,CD,school,2024-01-02,Violence against civilians,Complexe Scolaire Karhale,0.66,7387324603,node,Kivu,primaire,GPS
+7387324655,-2.4948781,28.8393075,Bukavu,CD,school,2024-01-02,Violence against civilians,Complexe Scolaire Ibuye,1.32,7387324655,node,Kivu,primaire,GPS
+316719244,-2.4947133,28.8327591,Bukavu,CD,school,2024-01-02,Violence against civilians,Complexe Scolaire Mwanzo,2,316719244,way,Kivu,primaire,GPS
+7396262650,-2.4939785,28.8234335,Bukavu,CD,school,2024-01-02,Violence against civilians,Ecole Primaire Ushindi Cikera,3.03,7396262650,node,Kivu,primaire,GPS
+7302102385,-2.4939217,28.8886799,Bukavu,CD,school,2024-01-02,Violence against civilians,Complexe Scolaire Espoir,4.35,7302102385,node,Kivu,primaire,GPS
+7399890672,-2.4935437,28.8474589,Bukavu,CD,school,2024-01-02,Violence against civilians,École Primaire Kataliko,0.77,7399890672,node,Kivu,primaire,GPS
+7387324642,-2.4928802,28.8452002,Bukavu,CD,school,2024-01-02,Violence against civilians,Complexe Scolaire la Franchise,0.95,7387324642,node,Kivu,primaire,GPS
+5809109053,-2.4928373,28.840995,Bukavu,CD,school,2024-01-02,Violence against civilians,SOS Villages D’Efants,1.28,5809109053,node,Kivu,primaire,GPS
+7387324639,-2.4909031,28.8348116,Bukavu,CD,school,2024-01-02,Violence against civilians,Complexe Scolaire la Puissance Divine,1.97,7387324639,node,Kivu,primaire,GPS
+7387324600,-2.4905073,28.8459703,Bukavu,CD,school,2024-01-02,Violence against civilians,Complexe Scolaire Rubangisa,1.15,7387324600,node,Kivu,primaire,GPS
+7402879670,-2.4903234,28.839576,Bukavu,CD,school,2024-01-02,Violence against civilians,Ecole Primaire Nyarwizimya,1.58,7402879670,node,Kivu,primaire,GPS
+7396262659,-2.4898017,28.8438558,Bukavu,CD,school,2024-01-02,Violence against civilians,Ecole Primaire Tuungane,1.32,7396262659,node,Kivu,primaire,GPS
+7387324628,-2.4895857,28.8430496,Bukavu,CD,school,2024-01-02,Violence against civilians,Complexe Scolaire l'Héritage,1.39,7387324628,node,Kivu,primaire,GPS
+7518261521,-2.4887453,28.832938,Bukavu,CD,school,2024-01-02,Violence against civilians,Institut Matumaini,2.27,7518261521,node,Kivu,primaire,GPS
+7533747950,-2.4885711,28.8426558,Bukavu,CD,school,2024-01-02,Violence against civilians,Institut Tupendane,1.51,7533747950,node,Kivu,primaire,GPS
+317418796,-2.4861687,28.8593653,Bukavu,CD,school,2024-01-02,Violence against civilians,,1.86,317418796,way,Kivu,primaire,GPS
+7387324625,-2.4854612,28.8347795,Bukavu,CD,school,2024-01-02,Violence against civilians,Complexe Scolaire Malkiya,2.34,7387324625,node,Kivu,primaire,GPS
+7387324641,-2.4852941,28.8273723,Bukavu,CD,school,2024-01-02,Violence against civilians,Complexe Scolaire la Production,3,7387324641,node,Kivu,primaire,GPS
+7396262556,-2.4847735,28.8279648,Bukavu,CD,school,2024-01-02,Violence against civilians,Ecole Primaire Mulambula,2.98,7396262556,node,Kivu,primaire,GPS
+7533747977,-2.4802064,28.8178244,Bukavu,CD,school,2024-01-02,Violence against civilians,Lycée Nyakavogo,4.2,7533747977,node,Kivu,primaire,GPS
+7396262664,-2.4800551,28.8172572,Bukavu,CD,school,2024-01-02,Violence against civilians,Ecole Primaire Robozo,4.26,7396262664,node,Kivu,primaire,GPS
+7387324614,-2.4779361,28.8385326,Bukavu,CD,school,2024-01-02,Violence against civilians,Complexe Scolaire Noella,2.76,7387324614,node,Kivu,primaire,GPS
+1235017763,-2.4757041,28.8379998,Bukavu,CD,school,2024-01-02,Violence against civilians,Bwindi,3.01,1235017763,node,Kivu,primaire,GPS
+7402881286,-2.473248,28.8228246,Bukavu,CD,school,2024-01-02,Violence against civilians,Institut Bangu,4.24,7402881286,node,Kivu,primaire,GPS
+7387324612,-2.467368,28.8340489,Bukavu,CD,school,2024-01-02,Violence against civilians,Complexe Scolaire Omega La Merveille,4.04,7387324612,node,Kivu,primaire,GPS
+7402879684,-2.4645206,28.8358197,Bukavu,CD,school,2024-01-02,Violence against civilians,Institut Bora,4.25,7402879684,node,Kivu,primaire,GPS
+8543217172,-1.6816189,29.2288497,Goma,CD,school,2024-01-01,Battle,École Privée des Volcans,1.62,8543217172,node,Kivu,primaire,GPS
+7533747981,-1.6812129,29.2316446,Goma,CD,school,2024-01-01,Battle,Lycée Amani,1.8,7533747981,node,Kivu,primaire,GPS
+653736391,-1.6804566,29.2316218,Goma,CD,school,2024-01-01,Battle,Lycée Amani,1.74,653736391,way,Kivu,primaire,GPS
+193155352,-1.6803101,29.2289121,Goma,CD,school,2024-01-01,Battle,Elementary School,1.52,193155352,way,Kivu,primaire,Bing
+13012214473,-1.6796823,29.2294049,Goma,CD,school,2024-01-01,Battle,Institut Superieur de Tourisme et de Gestion Goma,1.5,13012214473,node,Kivu,primaire,GPS
+8680659876,-1.6796398,29.2319856,Goma,CD,school,2024-01-01,Battle,Lycée amani,1.71,8680659876,node,Kivu,primaire,GPS
+12318270857,-1.6793078,29.235118,Goma,CD,school,2024-01-01,Battle,Institut Maendeleo,1.97,12318270857,node,Kivu,primaire,IGC_Goma
+7417977817,-1.679077,29.2278604,Goma,CD,school,2024-01-01,Battle,Institut Communautaire du Lac,1.33,7417977817,node,Kivu,primaire,GPS
+2636526,-1.6790143,29.2296357,Goma,CD,school,2024-01-01,Battle,Institut de Goma,1.47,2636526,relation,Kivu,primaire,GPS
+8540452711,-1.6788138,29.2145231,Goma,CD,school,2024-01-01,Battle,Institut Himbi,1.15,8540452711,node,Kivu,primaire,GPS
+653728665,-1.6783936,29.2364451,Goma,CD,school,2024-01-01,Battle,Collège Mwanga,2.05,653728665,way,Kivu,primaire,GPS
+7518261560,-1.6781038,29.2305352,Goma,CD,school,2024-01-01,Battle,Institut Mikeno,1.48,7518261560,node,Kivu,primaire,GPS
+653728666,-1.6777696,29.2362868,Goma,CD,school,2024-01-01,Battle,EP Karisimbi & Sabinyo,2.01,653728666,way,Kivu,primaire,GPS
+653960882,-1.6777327,29.2170049,Goma,CD,school,2024-01-01,Battle,ISTA Goma,0.92,653960882,way,Kivu,primaire,GPS
+7077075886,-1.6775415,29.2167944,Goma,CD,school,2024-01-01,Battle,Campus Universitaire du Lac,0.91,7077075886,node,Kivu,primaire,GPS
+1415954706,-1.6775151,29.231014,Goma,CD,school,2024-01-01,Battle,Complexe Scolaire Maman Mulezi,1.48,1415954706,way,Kivu,primaire,GPS
+7077077286,-1.677355,29.2166729,Goma,CD,school,2024-01-01,Battle,UNIGOM,0.9,7077077286,node,Kivu,primaire,GPS
+7518261529,-1.6766749,29.231414,Goma,CD,school,2024-01-01,Battle,Institut Maendeleo,1.47,7518261529,node,Kivu,primaire,GPS
+1415954707,-1.6766719,29.2296398,Goma,CD,school,2024-01-01,Battle,Complexe scolaire Mama Yetu,1.3,1415954707,way,Kivu,primaire,GPS
+7387324616,-1.6765573,29.2329316,Goma,CD,school,2024-01-01,Battle,Complexe Scolaire Misericorde,1.61,7387324616,node,Kivu,primaire,GPS
+7417977815,-1.676506,29.2313263,Goma,CD,school,2024-01-01,Battle,Institut Faraja,1.45,7417977815,node,Kivu,primaire,GPS
+7533747984,-1.6764252,29.2201447,Goma,CD,school,2024-01-01,Battle,Institut Zanner,0.71,7533747984,node,Kivu,primaire,GPS
+7387324621,-1.67642,29.2302525,Goma,CD,school,2024-01-01,Battle,Complexe Scolaire Matumaini,1.34,7387324621,node,Kivu,primaire,GPS
+7387324654,-1.6760485,29.2305976,Goma,CD,school,2024-01-01,Battle,Complexe Scolaire Jericho,1.36,7387324654,node,Kivu,primaire,GPS
+7402879668,-1.6749767,29.2311283,Goma,CD,school,2024-01-01,Battle,École Primaire Nyiragongo,1.36,7402879668,node,Kivu,primaire,GPS
+7849859015,-1.67477,29.2268095,Goma,CD,school,2024-01-01,Battle,Complexe Scolaire KASIMBI,0.92,7849859015,node,Kivu,primaire,GPS
+7518261519,-1.6744417,29.2307434,Goma,CD,school,2024-01-01,Battle,Institut Mgr Masimango,1.29,7518261519,node,Kivu,primaire,GPS
+7387324645,-1.6744095,29.2290823,Goma,CD,school,2024-01-01,Battle,Complexe Scolaire la Fontaine,1.12,7387324645,node,Kivu,primaire,GPS
+7533747951,-1.6730995,29.2363268,Goma,CD,school,2024-01-01,Battle,Institut Tuungane,1.85,7533747951,node,Kivu,primaire,GPS
+9543333884,-1.671614,29.2042639,Goma,CD,school,2024-01-01,Battle,Institut Himbi,1.76,9543333884,node,Kivu,primaire,OSM-RDC
+7396262667,-1.6702267,29.2219683,Goma,CD,school,2024-01-01,Battle,École Primaire Rutoboko,0.22,7396262667,node,Kivu,primaire,GPS
+8566587197,-1.6688443,29.1957232,Goma,CD,school,2024-01-01,Battle,Kratos,2.7,8566587197,node,Kivu,primaire,GPS
+8572982918,-1.6676331,29.2054678,Goma,CD,school,2024-01-01,Battle,Theresa mira,1.64,8572982918,node,Kivu,primaire,GPS
+7149766046,-1.6670862,29.2119063,Goma,CD,school,2024-01-01,Battle,Complexe Scolaire la Reference,0.96,7149766046,node,Kivu,primaire,MSFsurvey
+7396262567,-1.6659545,29.2281646,Goma,CD,school,2024-01-01,Battle,École Primaire Maranatha,1.01,7396262567,node,Kivu,primaire,GPS
+7396262665,-1.6652012,29.2254083,Goma,CD,school,2024-01-01,Battle,École Primaire Sainte Famille,0.8,7396262665,node,Kivu,primaire,GPS
+193238722,-1.6651279,29.1835936,Goma,CD,school,2024-01-01,Battle,Ecole Maternelle et Primaire Kauta,4.08,193238722,way,Kivu,primaire,GPS
+7396262609,-1.6649265,29.2265863,Goma,CD,school,2024-01-01,Battle,École Primaire Katoyi,0.92,7396262609,node,Kivu,primaire,GPS
+7533747948,-1.6647255,29.2269184,Goma,CD,school,2024-01-01,Battle,Institut Uzima,0.97,7533747948,node,Kivu,primaire,GPS
+7518261557,-1.6647041,29.2187298,Goma,CD,school,2024-01-01,Battle,Institut Mugunga,0.61,7518261557,node,Kivu,primaire,GPS
+12444856564,-1.6646412,29.1777564,Goma,CD,school,2024-01-01,Battle,Complexe Scolaire Technique UJUZI,4.73,12444856564,node,Kivu,primaire,GPS
+7396262661,-1.6645247,29.2178173,Goma,CD,school,2024-01-01,Battle,École Primaire Tanganyika,0.66,7396262661,node,Kivu,primaire,GPS
+7396262640,-1.6636331,29.2134107,Goma,CD,school,2024-01-01,Battle,École Primaire Baraka,1.02,7396262640,node,Kivu,primaire,GPS
+7533747945,-1.6632159,29.2257685,Goma,CD,school,2024-01-01,Battle,Institut Visoke,0.99,7533747945,node,Kivu,primaire,GPS
+7396262660,-1.662856,29.2224202,Goma,CD,school,2024-01-01,Battle,École Primaire Sivyolo,0.84,7396262660,node,Kivu,primaire,GPS
+7396262580,-1.6627693,29.2231831,Goma,CD,school,2024-01-01,Battle,École Primaire Mabanga,0.88,7396262580,node,Kivu,primaire,GPS
+7387324586,-1.6627132,29.2304799,Goma,CD,school,2024-01-01,Battle,Complexe Scolaire Children'S Voice,1.42,7387324586,node,Kivu,primaire,GPS
+298889634,-1.6626886,29.1899873,Goma,CD,school,2024-01-01,Battle,Lycée Sainte Ursule,3.43,298889634,way,Kivu,primaire,Bing
+7396262571,-1.6622899,29.2253652,Goma,CD,school,2024-01-01,Battle,École Primaire Maliki,1.04,7396262571,node,Kivu,primaire,GPS
+7396262579,-1.6619888,29.2227488,Goma,CD,school,2024-01-01,Battle,École Primaire Majengo,0.94,7396262579,node,Kivu,primaire,GPS
+653728651,-1.661893,29.1824676,Goma,CD,school,2024-01-01,Battle,Institut Kyeshero,4.27,653728651,way,Kivu,primaire,GPS
+7387310584,-1.661657,29.2299712,Goma,CD,school,2024-01-01,Battle,Complexe Scolaire Cross Style,1.45,7387310584,node,Kivu,primaire,GPS
+7518261524,-1.661637,29.2232922,Goma,CD,school,2024-01-01,Battle,Institut Majengo,1,7518261524,node,Kivu,primaire,GPS
+7387324602,-1.6611732,29.2143614,Goma,CD,school,2024-01-01,Battle,Complexe Scolaire Buke Lumière,1.16,7387324602,node,Kivu,primaire,GPS
+7396262618,-1.6603862,29.2268367,Goma,CD,school,2024-01-01,Battle,École Primaire Galilaya,1.31,7396262618,node,Kivu,primaire,GPS
+653728664,-1.6593828,29.2068637,Goma,CD,school,2024-01-01,Battle,Shabaa,1.88,653728664,way,Kivu,primaire,GPS
+7399890683,-1.6584416,29.2205675,Goma,CD,school,2024-01-01,Battle,École Primaire Kaba,1.29,7399890683,node,Kivu,primaire,GPS
+7518261538,-1.6583279,29.2138392,Goma,CD,school,2024-01-01,Battle,Institut Lady Baden-Powell,1.47,7518261538,node,Kivu,primaire,GPS
+7417977820,-1.6582498,29.226836,Goma,CD,school,2024-01-01,Battle,Institut Cameron Scott,1.51,7417977820,node,Kivu,primaire,GPS
+653728661,-1.6581891,29.1894708,Goma,CD,school,2024-01-01,Battle,Complexe Scolaire Amani,3.64,653728661,way,Kivu,primaire,GPS
+8680663264,-1.6577267,29.193437,Goma,CD,school,2024-01-01,Battle,Complexe scolaire mwanga,3.25,8680663264,node,Kivu,primaire,GPS
+7518261532,-1.6576343,29.218725,Goma,CD,school,2024-01-01,Battle,Institut Lukwangomo,1.38,7518261532,node,Kivu,primaire,GPS
+7396262600,-1.6575917,29.2264806,Goma,CD,school,2024-01-01,Battle,École Primaire Kisandu,1.56,7396262600,node,Kivu,primaire,GPS
+12442081972,-1.657063,29.1828659,Goma,CD,school,2024-01-01,Battle,Institut TOROTO,4.37,12442081972,node,Kivu,primaire,GPS
+653728663,-1.6564367,29.1954268,Goma,CD,school,2024-01-01,Battle,Institut Bakanja,3.12,653728663,way,Kivu,primaire,GPS
+7396262630,-1.6551432,29.2276911,Goma,CD,school,2024-01-01,Battle,École Primaire Bethel,1.86,7396262630,node,Kivu,primaire,GPS
+7396262553,-1.6543574,29.2335977,Goma,CD,school,2024-01-01,Battle,École Primaire Neema,2.3,7396262553,node,Kivu,primaire,GPS
+7149760762,-1.65416,29.1960717,Goma,CD,school,2024-01-01,Battle,Complexe Scolaire la Joie,3.19,7149760762,node,Kivu,primaire,MSFsurvey
+7402879651,-1.6541457,29.2199069,Goma,CD,school,2024-01-01,Battle,Institut Amina,1.76,7402879651,node,Kivu,primaire,GPS
+653728662,-1.6538356,29.212167,Goma,CD,school,2024-01-01,Battle,Institut Muzizi,2,653728662,way,Kivu,primaire,GPS
+7396262552,-1.6537761,29.2315696,Goma,CD,school,2024-01-01,Battle,École Primaire Nazardenne,2.22,7396262552,node,Kivu,primaire,GPS
+266411874,-1.6533257,29.2191163,Goma,CD,school,2024-01-01,Battle,École Primaire Ujumbe,1.86,266411874,way,Kivu,primaire,GPS
+7149760769,-1.6528903,29.1978252,Goma,CD,school,2024-01-01,Battle,Complexe Scolaire Tom-mas,3.11,7149760769,node,Kivu,primaire,MSFsurvey
+7149760761,-1.6528663,29.196333,Goma,CD,school,2024-01-01,Battle,École Primaire Sebyera,3.25,7149760761,node,Kivu,primaire,MSFsurvey
+7149760774,-1.650303,29.1981688,Goma,CD,school,2024-01-01,Battle,Institut Mwangaza,3.27,7149760774,node,Kivu,primaire,MSFsurvey
+7533747957,-1.6500437,29.2223594,Goma,CD,school,2024-01-01,Battle,Institut Saint Marc,2.23,7533747957,node,Kivu,primaire,GPS
+7149737529,-1.6499088,29.2143024,Goma,CD,school,2024-01-01,Battle,Complexe Scolaire Anane,2.32,7149737529,node,Kivu,primaire,MSFsurvey
+7399890662,-1.6489987,29.2319207,Goma,CD,school,2024-01-01,Battle,École Primaire la Joie,2.68,7399890662,node,Kivu,primaire,GPS
+10990517,-1.6489407,29.2319377,Goma,CD,school,2024-01-01,Battle,École Primaire Mont Miko,2.69,10990517,relation,Kivu,primaire,GPS
+7149737530,-1.6488994,29.214079,Goma,CD,school,2024-01-01,Battle,Coplexe Scolaire open minds,2.44,7149737530,node,Kivu,primaire,MSFsurvey
+653710793,-1.6487616,29.1818923,Goma,CD,school,2024-01-01,Battle,Complexe Scolaire Juhudi,4.85,653710793,way,Kivu,primaire,GPS
+8304968555,-1.6484908,29.1813189,Goma,CD,school,2024-01-01,Battle,Erudit International school,4.92,8304968555,node,Kivu,primaire,GPS
+8237516077,-1.6484276,29.1887088,Goma,CD,school,2024-01-01,Battle,Complexe scolaire la convivance,4.22,8237516077,node,Kivu,primaire,GPS
+7149760778,-1.648384,29.2017901,Goma,CD,school,2024-01-01,Battle,Complexe Scolaire Taji/Dankier,3.14,7149760778,node,Kivu,primaire,MSFsurvey
+7149737534,-1.6482446,29.212712,Goma,CD,school,2024-01-01,Battle,Complexe Scolaire la restitution/ AROMA,2.55,7149737534,node,Kivu,primaire,MSFsurvey
+7387324615,-1.6478551,29.2315251,Goma,CD,school,2024-01-01,Battle,Complexe Scolaire Mont Miko,2.78,7387324615,node,Kivu,primaire,GPS
+8237948302,-1.6475948,29.1825799,Goma,CD,school,2024-01-01,Battle,Complexe scolaire de l'atlantique,4.85,8237948302,node,Kivu,primaire,GPS
+7149760767,-1.6471767,29.1990983,Goma,CD,school,2024-01-01,Battle,Institut 2 Injili,3.44,7149760767,node,Kivu,primaire,MSFsurvey
+7149760775,-1.6470183,29.19923,Goma,CD,school,2024-01-01,Battle,Ecole Primaire Lumiere,3.44,7149760775,node,Kivu,primaire,MSFsurvey
+7149760777,-1.6462062,29.2020982,Goma,CD,school,2024-01-01,Battle,École Chance Elysee,3.31,7149760777,node,Kivu,primaire,MSFsurvey
+7149760771,-1.6458633,29.2018083,Goma,CD,school,2024-01-01,Battle,Complexe Scolaire la Grace,3.36,7149760771,node,Kivu,primaire,MSFsurvey
+7149760772,-1.6455254,29.201091,Goma,CD,school,2024-01-01,Battle,Complexe Scolaire Muzalimu,3.44,7149760772,node,Kivu,primaire,MSFsurvey
+7149760776,-1.6453904,29.2024247,Goma,CD,school,2024-01-01,Battle,Institut Bethanie,3.36,7149760776,node,Kivu,primaire,MSFsurvey
+7149737533,-1.6452548,29.2122406,Goma,CD,school,2024-01-01,Battle,Complexe Scolaire Kanaume,2.88,7149737533,node,Kivu,primaire,MSFsurvey
+7149760763,-1.6452164,29.1989694,Goma,CD,school,2024-01-01,Battle,École Primaire Kyezye,3.61,7149760763,node,Kivu,primaire,MSFsurvey
+7149760760,-1.6451084,29.1987456,Goma,CD,school,2024-01-01,Battle,Institut Mbula,3.64,7149760760,node,Kivu,primaire,MSFsurvey
+7149760768,-1.6451018,29.1979273,Goma,CD,school,2024-01-01,Battle,Institut Avenir,3.7,7149760768,node,Kivu,primaire,MSFsurvey
+7149737526,-1.6448956,29.2200532,Goma,CD,school,2024-01-01,Battle,Complexe Scolaire Elaka,2.79,7149737526,node,Kivu,primaire,MSFsurvey
+7149760773,-1.6447838,29.2029067,Goma,CD,school,2024-01-01,Battle,Groupe scolaire la Reconciliation,3.39,7149760773,node,Kivu,primaire,MSFsurvey
+7149760766,-1.6447317,29.2008367,Goma,CD,school,2024-01-01,Battle,Complexe Scolaire Linda,3.53,7149760766,node,Kivu,primaire,MSFsurvey
+7149760779,-1.6446817,29.204599,Goma,CD,school,2024-01-01,Battle,Complexe Scolaire Soleil Levant,3.29,7149760779,node,Kivu,primaire,MSFsurvey
+7149760770,-1.6446803,29.1919734,Goma,CD,school,2024-01-01,Battle,Institut Nyabushongo,4.2,7149760770,node,Kivu,primaire,MSFsurvey
+7149760765,-1.6441219,29.1977444,Goma,CD,school,2024-01-01,Battle,École Primaire Kigogo,3.79,7149760765,node,Kivu,primaire,MSFsurvey
+7149737537,-1.6434637,29.219412,Goma,CD,school,2024-01-01,Battle,Complexe scolaire Saint Benoit,2.95,7149737537,node,Kivu,primaire,MSFsurvey
+7149737535,-1.6432052,29.2076796,Goma,CD,school,2024-01-01,Battle,Complexe scolaire Bon Berger,3.28,7149737535,node,Kivu,primaire,MSFsurvey
+7149760764,-1.6427933,29.1955671,Goma,CD,school,2024-01-01,Battle,Complexe Scolaire Saint Jacques,4.07,7149760764,node,Kivu,primaire,MSFsurvey
+7149737532,-1.642436,29.2086403,Goma,CD,school,2024-01-01,Battle,Complexe scolaire Ahadi,3.31,7149737532,node,Kivu,primaire,MSFsurvey
+7149737531,-1.6422086,29.2110233,Goma,CD,school,2024-01-01,Battle,Complexe Scolaire Don Beni,3.25,7149737531,node,Kivu,primaire,MSFsurvey
+7387324592,-1.6414301,29.1986549,Goma,CD,school,2024-01-01,Battle,Complexe Scolaire Berceau du Savoir,3.96,7387324592,node,Kivu,primaire,GPS
+7149683343,-1.6414274,29.2059281,Goma,CD,school,2024-01-01,Battle,Institut Kisima,3.54,7149683343,node,Kivu,primaire,MSFsurvey
+7149683340,-1.6408592,29.2043654,Goma,CD,school,2024-01-01,Battle,Ecole Primaire A Melissa,3.68,7149683340,node,Kivu,primaire,MSFsurvey
+7149683336,-1.6387598,29.2065337,Goma,CD,school,2024-01-01,Battle,Ecole St Ubald,3.78,7149683336,node,Kivu,primaire,MSFsurvey
+7149766045,-1.6381178,29.24024,Goma,CD,school,2024-01-01,Battle,Complexe Scolaire NZIYI,4.2,7149766045,node,Kivu,primaire,MSFsurvey
+7149683345,-1.6376687,29.1928961,Goma,CD,school,2024-01-01,Battle,Complexe Scolaire Buuma,4.69,7149683345,node,Kivu,primaire,MSFsurvey
+7149683342,-1.637475,29.2024817,Goma,CD,school,2024-01-01,Battle,Complexe Scolaire Musamariya Mwema,4.11,7149683342,node,Kivu,primaire,MSFsurvey
+7149683341,-1.6374533,29.2031217,Goma,CD,school,2024-01-01,Battle,Comlexe Scolaire la source,4.08,7149683341,node,Kivu,primaire,MSFsurvey
+7149683338,-1.6372467,29.206,Goma,CD,school,2024-01-01,Battle,Complexe SColaire Elim,3.96,7149683338,node,Kivu,primaire,MSFsurvey
+7149683344,-1.6372351,29.1927457,Goma,CD,school,2024-01-01,Battle,Complexe Scolaire Lutula,4.74,7149683344,node,Kivu,primaire,MSFsurvey
+10116544019,-1.6366123,29.2498273,Goma,CD,school,2024-01-01,Battle,Institut Kayembe,4.98,10116544019,node,Kivu,primaire,GPS
+7149683337,-1.6362286,29.2046189,Goma,CD,school,2024-01-01,Battle,École Secondaire Kibali,4.13,7149683337,node,Kivu,primaire,MSFsurvey
+7149683348,-1.6354951,29.1932443,Goma,CD,school,2024-01-01,Battle,Complexe Scolaire la Perfection,4.85,7149683348,node,Kivu,primaire,MSFsurvey
+906863381,-1.6350323,29.204698,Goma,CD,school,2024-01-01,Battle,Ecole St Guido Maria Fortifi,4.24,906863381,way,Kivu,primaire,MSF Survey
