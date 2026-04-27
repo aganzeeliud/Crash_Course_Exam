@@ -1,0 +1,817 @@
+name,latitude,longitude,risk_status,distance_km,nearest_conflict_type,nearest_conflict_date,osm_id
+Institute Georges Simenon,-4.3053231,15.3147319,at-risk,1.71,Strategic development,2024-01-03,440111691
+École Presbyterienne,-4.3772481,15.3351266,at-risk,6.95,Strategic development,2024-01-03,712894085
+École Massemba,-4.3812127,15.3359821,at-risk,7.39,Strategic development,2024-01-03,713203651
+Ecole Maternelle Massamba,-4.3849285,15.3369215,at-risk,7.81,Strategic development,2024-01-03,713306937
+École St-Louis,-4.3457112,15.293557,at-risk,3.39,Strategic development,2024-01-03,715858834
+École officielle,-4.3475774,15.2929726,at-risk,3.6,Strategic development,2024-01-03,715858837
+Institut Diangenda,-4.3531403,15.2903763,at-risk,4.28,Strategic development,2024-01-03,715862489
+École officielle,-4.3605004,15.3014055,at-risk,4.6,Strategic development,2024-01-03,715863893
+Ecole Technique ITIP Bumbu,-4.3621937,15.2881578,at-risk,5.28,Strategic development,2024-01-03,715863894
+École catholique Sainte Christine,-4.3890772,15.3126137,at-risk,7.69,Strategic development,2024-01-03,759214401
+Institut Wabakulu,-4.347404,15.2321757,at-risk,9.15,Strategic development,2024-01-03,790833373
+École privé,-4.3669125,15.3198048,at-risk,5.33,Strategic development,2024-01-03,813748771
+École,-4.3685492,15.318766,at-risk,5.49,Strategic development,2024-01-03,829315038
+Ecole primaire Mulwa,-2.5266621,28.8299278,at-risk,3.71,Violence against civilians,2024-01-02,1235015496
+Ecole primaire Camp Mweze,-2.5100556,28.8450556,at-risk,1.25,Violence against civilians,2024-01-02,1235015522
+Ecole primaire Nyanja,-2.5257778,28.8571111,at-risk,2.97,Violence against civilians,2024-01-02,1235015694
+Ecole primaire Ntwali,-2.5122393,28.8478166,at-risk,1.38,Violence against civilians,2024-01-02,1235015951
+Ecole primaire Nyakaliba,-2.5183889,28.8458611,at-risk,2.1,Violence against civilians,2024-01-02,1235016322
+École Primaire Hodari,-2.5193611,28.8561667,at-risk,2.26,Violence against civilians,2024-01-02,1235016379
+Ecole primaire Canya,-2.4701111,28.7752222,at-risk,8.95,Violence against civilians,2024-01-02,1235016658
+École primaire Elimu,-2.5210833,28.8588333,at-risk,2.54,Violence against civilians,2024-01-02,1235016730
+École Primaire Nidunga,-2.5170556,28.8553333,at-risk,1.99,Violence against civilians,2024-01-02,1235017145
+École primaire Ulindi,-2.5117049,28.8482021,at-risk,1.32,Violence against civilians,2024-01-02,1235017167
+Ecole primaire Kahuwa,-2.5189722,28.8490278,at-risk,2.11,Violence against civilians,2024-01-02,1235017248
+Ecole primaire Cifuma,-2.5108056,28.7711944,at-risk,8.84,Violence against civilians,2024-01-02,1235017377
+Ecole primaire Furaha,-2.5163333,28.8436389,at-risk,1.95,Violence against civilians,2024-01-02,1235017396
+Ecole primaire Tuendelee,-2.5274167,28.8572778,at-risk,3.15,Violence against civilians,2024-01-02,1235017581
+École Primaire Nguba,-2.4989352,28.8875337,at-risk,4.17,Violence against civilians,2024-01-02,1235017597
+Bwindi,-2.4757041,28.8379998,at-risk,3.01,Violence against civilians,2024-01-02,1235017763
+Primary School Myange,-2.5800707,28.881815,at-risk,9.58,Violence against civilians,2024-01-02,1356428105
+Institut Dominique Ileo,-4.3425168,15.2636659,at-risk,5.72,Strategic development,2024-01-03,1640267112
+Ecole primaire de Kintambo 1,-4.3404896,15.2626111,at-risk,5.73,Strategic development,2024-01-03,1640305538
+Collège Alingwa,-4.3492863,15.2678971,at-risk,5.69,Strategic development,2024-01-03,2162744660
+Complexe scolaire St Vincent,-4.3566188,15.3091004,at-risk,4.07,Strategic development,2024-01-03,2273728699
+Collège Saint Michel,-4.3398453,15.2772631,at-risk,4.25,Strategic development,2024-01-03,2299738119
+Ecole Publique Saint Jean Baptiste,-4.3406895,15.2757864,at-risk,4.44,Strategic development,2024-01-03,2299738122
+Institut Salongo,-4.3457856,15.2785116,at-risk,4.52,Strategic development,2024-01-03,2299738130
+EP1 Ngoma,-4.3458101,15.2776009,at-risk,4.6,Strategic development,2024-01-03,2299738135
+Unnamed School,-4.3416957,15.2772237,at-risk,4.36,Strategic development,2024-01-03,2299738186
+Collège saint charles luanga,-4.3151921,15.3263021,at-risk,1.88,Strategic development,2024-01-03,2953314337
+Collège Les Saphirs,-4.3084113,15.2916664,at-risk,2.41,Strategic development,2024-01-03,3477493250
+Joyeux Lutins,-4.3509125,15.2841388,at-risk,4.48,Strategic development,2024-01-03,4235751684
+Maï-ndombe,-4.3826829,15.3500204,at-risk,8.26,Strategic development,2024-01-03,4328067009
+Collège Saint Pie X,-4.3581576,15.3005393,at-risk,4.37,Strategic development,2024-01-03,4469949070
+Collège Petit Prince,-4.3562828,15.2960158,at-risk,4.32,Strategic development,2024-01-03,4483772304
+ITFM: Institut Technique Fundi Maendeleo,-2.5063935,28.845158,at-risk,0.89,Violence against civilians,2024-01-02,4587841796
+Ecole Bahumbu,-4.3763274,15.3719,at-risk,9.29,Strategic development,2024-01-03,4650134578
+École portuguaise,-4.3087366,15.3178623,at-risk,1.53,Strategic development,2024-01-03,4866013704
+Collège Saint Joseph,-4.3004859,15.3160161,at-risk,2.27,Strategic development,2024-01-03,4945976043
+Institut Fadhili,-2.5188995,28.8494808,at-risk,2.1,Violence against civilians,2024-01-02,4950829794
+Ecole Mpieko,-4.3447082,15.2743345,at-risk,4.82,Strategic development,2024-01-03,5109221813
+EP1 et 2 Bandal Saint Cassien,-4.3533007,15.2853084,at-risk,4.61,Strategic development,2024-01-03,5163173199
+Institut Ebenga,-4.3911919,15.3217412,at-risk,8.02,Strategic development,2024-01-03,5168100762
+Ecole CBCO,-4.3444428,15.2763632,at-risk,4.61,Strategic development,2024-01-03,5176715275
+Académie des Sciences et des Technologies,-4.3991291,15.2682924,at-risk,9.94,Strategic development,2024-01-03,5178480944
+Ecole Madame de Sévigné Secondaire,-4.3424186,15.2825918,at-risk,3.93,Strategic development,2024-01-03,5182837553
+Ecole Bamoyo,-4.3327029,15.2515827,at-risk,6.63,Strategic development,2024-01-03,5185129479
+Ecole Kilimani,-4.334716,15.2546754,at-risk,6.35,Strategic development,2024-01-03,5185129480
+Ecole Technique,-4.3352431,15.2538846,at-risk,6.45,Strategic development,2024-01-03,5185129481
+Ecole Loupio,-4.331204,15.2630028,at-risk,5.36,Strategic development,2024-01-03,5185129482
+Ecole Chez Mickey,-4.3315644,15.2625636,at-risk,5.41,Strategic development,2024-01-03,5185129483
+Joviemly High School,-4.3325369,15.2643699,at-risk,5.25,Strategic development,2024-01-03,5185129484
+Ecole Saint-Georges,-4.3381148,15.267321,at-risk,5.14,Strategic development,2024-01-03,5194424338
+Ecole Madame de Sévigné Maternelle,-4.3421562,15.2808573,at-risk,4.06,Strategic development,2024-01-03,5194466112
+Ecole Non-conventionnelle Le Vallée,-4.3462634,15.2745047,at-risk,4.9,Strategic development,2024-01-03,5219801925
+Ecole Bolingani,-4.3367659,15.2714103,at-risk,4.67,Strategic development,2024-01-03,5219810499
+Ecole Catholique Sainte Famille,-4.3940265,15.3152686,at-risk,8.25,Strategic development,2024-01-03,5241592807
+Complexe Scolaire Trésors,-4.3973052,15.3165668,at-risk,8.63,Strategic development,2024-01-03,5241592808
+Complexe Scolaire Washington School,-4.3975459,15.3161806,at-risk,8.65,Strategic development,2024-01-03,5241592809
+Complexe Scolaire Sacré Coeur,-4.4013434,15.3165615,at-risk,9.07,Strategic development,2024-01-03,5241592810
+EP1 & 2 ITAV Saint Esprit,-4.4081388,15.3164488,at-risk,9.83,Strategic development,2024-01-03,5241592811
+I.T.M. Kikeva,-4.4093074,15.3164005,at-risk,9.96,Strategic development,2024-01-03,5241592812
+Ecole Anuarite,-4.3923042,15.3231999,at-risk,8.17,Strategic development,2024-01-03,5241628099
+Lycée Technique et scientifique de Limete,-4.3504123,15.3398699,at-risk,4.73,Strategic development,2024-01-03,5263448468
+EP1 Kingabwa,-4.3643302,15.3574061,at-risk,7.21,Strategic development,2024-01-03,5264013777
+C.S. Petite Thérèse,-4.3456624,15.3322631,at-risk,3.77,Strategic development,2024-01-03,5266023718
+Ecole BERE Limete,-4.3730381,15.3475785,at-risk,7.22,Strategic development,2024-01-03,5266864034
+Ecole Maternel Univers Scolaire,-4.3522336,15.2840611,at-risk,4.6,Strategic development,2024-01-03,5266898482
+Groupe Scolaire Life Line,-4.3535602,15.2873629,at-risk,4.5,Strategic development,2024-01-03,5266898486
+Collège Eben Ezer,-4.3540121,15.2878618,at-risk,4.51,Strategic development,2024-01-03,5266898490
+Ecole Ange Raphael,-4.3513617,15.2805904,at-risk,4.77,Strategic development,2024-01-03,5266898497
+Ecole Ntodo,-4.3471187,15.2776107,at-risk,4.69,Strategic development,2024-01-03,5266898498
+Village Bondeko,-4.3388745,15.2784473,at-risk,4.08,Strategic development,2024-01-03,5268094493
+C.S. Beni 2,-4.3379625,15.2768218,at-risk,4.19,Strategic development,2024-01-03,5268094495
+C.S. Mont des Oliviers,-4.3369622,15.2757758,at-risk,4.24,Strategic development,2024-01-03,5268094504
+"Madame de Sévigné- Maternel, Primaire",-4.3391901,15.2743247,at-risk,4.49,Strategic development,2024-01-03,5268094515
+Ecole Le Bambin,-4.3423648,15.2734664,at-risk,4.75,Strategic development,2024-01-03,5268094520
+C.S. Makanisi,-4.3407025,15.2740417,at-risk,4.6,Strategic development,2024-01-03,5268094533
+C.S. Les Bambins,-4.3415009,15.2745607,at-risk,4.6,Strategic development,2024-01-03,5268094535
+Lycée Les Arc-Anges,-4.3455207,15.2788845,at-risk,4.47,Strategic development,2024-01-03,5268094537
+Lycée Technique Omisalisa,-4.3449162,15.279091,at-risk,4.41,Strategic development,2024-01-03,5268094538
+C.S. Saint Michel,-4.3446515,15.2791983,at-risk,4.38,Strategic development,2024-01-03,5268094543
+Institut Bokolo,-4.343587,15.2808291,at-risk,4.16,Strategic development,2024-01-03,5268094545
+C.S. Marie Stella,-4.34302,15.2820924,at-risk,4.02,Strategic development,2024-01-03,5268094548
+Ecole Conventionel Adventiste,-4.3483351,15.2872272,at-risk,4.04,Strategic development,2024-01-03,5268094578
+EP 1 et 2 Ango Ango,-4.3501903,15.2828649,at-risk,4.51,Strategic development,2024-01-03,5268094591
+Ecole Beree Ngaliema,-4.3576734,15.2519229,at-risk,7.68,Strategic development,2024-01-03,5268176447
+EP 3 et 4 Institut Makelele,-4.341533,15.2753413,at-risk,4.53,Strategic development,2024-01-03,5268176448
+Complexe scolaire Bienheureux Isidore Bakanja,-4.3508536,15.3366405,at-risk,4.53,Strategic development,2024-01-03,5287473698
+Complexe scolaire Sainte Faustine,-4.3836968,15.315451,at-risk,7.11,Strategic development,2024-01-03,5287474926
+La Grâce,-4.3427621,15.317369,at-risk,2.66,Strategic development,2024-01-03,5291677394
+École Monseigneur Moke,-4.34279,15.3153652,at-risk,2.6,Strategic development,2024-01-03,5292873862
+G.S. Mama Zoya,-4.3387782,15.3068304,at-risk,2.12,Strategic development,2024-01-03,5292873865
+C.S. Tilano Tyranus,-4.4041354,15.2943098,at-risk,9.52,Strategic development,2024-01-03,5295927117
+G.S. Kalonda,-4.3991424,15.3016993,at-risk,8.85,Strategic development,2024-01-03,5295927118
+C.S. Les Pélerins,-4.3977197,15.305205,at-risk,8.66,Strategic development,2024-01-03,5295927119
+Collège Frére Alingba,-4.347449,15.2659053,at-risk,5.76,Strategic development,2024-01-03,5296008516
+"Ecole Madame de Sévigné Maternel, Primaire",-4.3488023,15.2642477,at-risk,6.0,Strategic development,2024-01-03,5296008517
+C.S. La Sommite,-4.3545631,15.263266,at-risk,6.45,Strategic development,2024-01-03,5296008518
+Ecole Le Bambin,-4.3879611,15.2604228,at-risk,9.34,Strategic development,2024-01-03,5296008828
+C.S. La Grace,-4.3925235,15.259887,at-risk,9.79,Strategic development,2024-01-03,5296008829
+Tome School,-4.3933205,15.2597469,at-risk,9.87,Strategic development,2024-01-03,5296008830
+CS Eveil,-4.3508055,15.2709907,at-risk,5.52,Strategic development,2024-01-03,5329685749
+CS La Couronne,-4.3581977,15.265114,at-risk,6.54,Strategic development,2024-01-03,5329686110
+Institut Batela,-4.3569166,15.267292,at-risk,6.27,Strategic development,2024-01-03,5329686116
+CS Bolamu,-4.3571734,15.2660072,at-risk,6.39,Strategic development,2024-01-03,5329686117
+CS Nyota,-4.3560956,15.263384,at-risk,6.54,Strategic development,2024-01-03,5329686119
+Ecole Kama,-4.3510783,15.2639928,at-risk,6.16,Strategic development,2024-01-03,5329686124
+Ecole Les petits Lutins,-4.3413163,15.2661172,at-risk,5.41,Strategic development,2024-01-03,5329686133
+C.S. Les Hortensias,-4.3438972,15.2666643,at-risk,5.49,Strategic development,2024-01-03,5329686134
+ILS,-4.4028677,15.2922553,at-risk,9.42,Strategic development,2024-01-03,5372939687
+C.S. Kiese,-4.352285,15.2853794,at-risk,4.51,Strategic development,2024-01-03,5407026099
+École Maternelle Boboto,-4.3085395,15.2867889,at-risk,2.87,Strategic development,2024-01-03,5410208647
+C.S. Manyanga,-4.3084271,15.2871966,at-risk,2.84,Strategic development,2024-01-03,5410208648
+Univers scolaire,-4.3526337,15.2834166,at-risk,4.67,Strategic development,2024-01-03,5416312771
+C.S. Baraka,-4.3532918,15.2835511,at-risk,4.72,Strategic development,2024-01-03,5416315445
+Ecole Mama Nkuakadi,-4.3843619,15.2595709,at-risk,9.08,Strategic development,2024-01-03,5496855512
+Ecole Maternel,-4.3855435,15.2598327,at-risk,9.17,Strategic development,2024-01-03,5496855513
+CS Saint Georges,-4.3397469,15.2656913,at-risk,5.38,Strategic development,2024-01-03,5499221917
+Ecole Rev. Kim,-4.3325279,15.2629817,at-risk,5.4,Strategic development,2024-01-03,5499221918
+GS Aurore,-4.331105,15.2634993,at-risk,5.3,Strategic development,2024-01-03,5499221920
+Ecole La Main Ouverte,-4.3407654,15.2990976,at-risk,2.61,Strategic development,2024-01-03,5499321327
+Institut Charles Kisolokele,-4.3438999,15.297837,at-risk,2.98,Strategic development,2024-01-03,5499321332
+Collège Mixte de Bandalungua,-4.3458978,15.2868506,at-risk,3.86,Strategic development,2024-01-03,5499321338
+CS Clessidra,-4.3168682,15.2912924,at-risk,2.1,Strategic development,2024-01-03,5499358550
+Ecole Eureka,-4.3173871,15.2899727,at-risk,2.24,Strategic development,2024-01-03,5499358552
+Ecole Bilingue Les Petits Dauphins,-4.3179514,15.2872369,at-risk,2.53,Strategic development,2024-01-03,5499358554
+Complexe Scolaire La Puisette Ngoika,-4.322862,15.2892861,at-risk,2.32,Strategic development,2024-01-03,5499427140
+Ecole Bambinière,-4.3172306,15.2929687,at-risk,1.91,Strategic development,2024-01-03,5500780938
+Collège Saint Thomas,-4.4004716,15.3481083,at-risk,9.9,Strategic development,2024-01-03,5744539985
+Ecole Wasson,-4.404701,15.3382136,at-risk,9.92,Strategic development,2024-01-03,5765411104
+Ecole Mika,-4.4039301,15.338362,at-risk,9.85,Strategic development,2024-01-03,5765423529
+Ecole Maranata,-4.401786,15.3333051,at-risk,9.45,Strategic development,2024-01-03,5765430453
+Centre de formation Collège AUXANO,-4.4035082,15.3418078,at-risk,9.93,Strategic development,2024-01-03,5765843767
+Unnamed School,-4.4002349,15.3475812,at-risk,9.85,Strategic development,2024-01-03,5765970916
+Collège Emérite,-4.3872283,15.3571996,at-risk,9.13,Strategic development,2024-01-03,5766095033
+CS/Institut Mpyncha,-4.3963264,15.3550706,at-risk,9.85,Strategic development,2024-01-03,5768072708
+Ecole EMERCO,-4.3923323,15.3588572,at-risk,9.7,Strategic development,2024-01-03,5768103357
+La foi,-4.3923704,15.3570923,at-risk,9.59,Strategic development,2024-01-03,5768131526
+Kangudi,-4.3930423,15.3572137,at-risk,9.66,Strategic development,2024-01-03,5768199852
+SOS Villages D’Efants,-2.4928373,28.840995,at-risk,1.28,Violence against civilians,2024-01-02,5809109053
+Imani,-4.3797508,15.3734833,at-risk,9.68,Strategic development,2024-01-03,5922020563
+Kasa Mbanza,-4.3662571,15.3740571,at-risk,8.77,Strategic development,2024-01-03,5922084587
+Complexe Scolaire Bon Berger,-4.3320157,15.3464466,at-risk,4.26,Strategic development,2024-01-03,6039032208
+Ecole Primaire,-4.328405,15.3464996,at-risk,4.15,Strategic development,2024-01-03,6039131956
+Groupe Scolaire Tembele,-4.3330454,15.3461429,at-risk,4.26,Strategic development,2024-01-03,6039151839
+Complexe Scolaire Saint Denis Wa,-4.3331112,15.3473542,at-risk,4.39,Strategic development,2024-01-03,6039196508
+Saint Raphael de Karmaria,-4.3335428,15.346562,at-risk,4.32,Strategic development,2024-01-03,6039240939
+Complexe Scolaire Monano I,-4.3352131,15.3469375,at-risk,4.43,Strategic development,2024-01-03,6041492247
+complexe scolaire serena,-4.3352559,15.3387889,at-risk,3.61,Strategic development,2024-01-03,6041516468
+Saint Joseph de Cluny,-4.3392248,15.3473746,at-risk,4.66,Strategic development,2024-01-03,6043731754
+Ecole Primaire Kiwanuka,-4.3381821,15.3462524,at-risk,4.5,Strategic development,2024-01-03,6043767829
+Collège Saint Francois,-4.3379599,15.3455133,at-risk,4.42,Strategic development,2024-01-03,6043767831
+Groupe Scolaire Dinanga,-4.3382915,15.3498973,at-risk,4.87,Strategic development,2024-01-03,6044078049
+Complexe Scolaire Maman bien aimé,-4.3404151,15.3504833,at-risk,5.03,Strategic development,2024-01-03,6044105693
+Complexe Scolaire Gloria,-4.3283366,15.3465139,at-risk,4.15,Strategic development,2024-01-03,6044159189
+Complexe Scolaire The Winner's,-4.339365,15.3463878,at-risk,4.57,Strategic development,2024-01-03,6044190350
+Complexe Scolaire La Grace,-4.3365751,15.3485133,at-risk,4.65,Strategic development,2024-01-03,6050630287
+Complexe Scolaire Divine Charité,-4.3446147,15.3546951,at-risk,5.66,Strategic development,2024-01-03,6105710431
+Unnamed School,-4.341418,15.3534687,at-risk,5.38,Strategic development,2024-01-03,6105748338
+Le Prodige Divin,-4.3373125,15.3486152,at-risk,4.69,Strategic development,2024-01-03,6105989204
+Saint Kizito,-4.3424457,15.3509232,at-risk,5.18,Strategic development,2024-01-03,6109085489
+Ecole maternelle Saint Kizito,-4.343932,15.3521128,at-risk,5.37,Strategic development,2024-01-03,6109093818
+Lycee Moderne le concept,-4.3437703,15.3516018,at-risk,5.32,Strategic development,2024-01-03,6109118472
+C.S Pain de vie,-4.3502605,15.3573424,at-risk,6.24,Strategic development,2024-01-03,6113120205
+Magnificate,-4.3434319,15.3478789,at-risk,4.94,Strategic development,2024-01-03,6113207115
+College Royal,-4.3414126,15.3468463,at-risk,4.73,Strategic development,2024-01-03,6115470311
+Complexe Scolaire Saint Jean Pierre Nzungu,-4.3452659,15.3535397,at-risk,5.59,Strategic development,2024-01-03,6115566229
+College Père divin,-4.3464795,15.3520967,at-risk,5.52,Strategic development,2024-01-03,6115728656
+Complexe scolaire Cyprien Isungu,-4.3455735,15.3542277,at-risk,5.67,Strategic development,2024-01-03,6115804064
+Polytechnique,-4.3453849,15.3539367,at-risk,5.63,Strategic development,2024-01-03,6115804065
+Institut Saint Jean Baptiste,-4.3224751,15.3051724,at-risk,0.6,Strategic development,2024-01-03,6282653585
+CS Makilu,-4.3907638,15.3539515,at-risk,9.26,Strategic development,2024-01-03,6293490339
+École Samuzulu,-4.3930102,15.3574491,at-risk,9.67,Strategic development,2024-01-03,6293491314
+Collège Saint Albert,-4.4030229,15.3427935,at-risk,9.92,Strategic development,2024-01-03,6293491340
+CE Angelia,-4.3913415,15.3537369,at-risk,9.3,Strategic development,2024-01-03,6293492138
+Complexe Scolaire Akiva,-4.4031726,15.3368497,at-risk,9.72,Strategic development,2024-01-03,6293492139
+Ecole CELAM,-4.3689067,15.2851633,at-risk,6.1,Strategic development,2024-01-03,6341179972
+École Supérieure de Management de Kinshasa,-4.3636255,15.2490127,at-risk,8.32,Strategic development,2024-01-03,6415551388
+Complexe Scolaire Saint Joseph de Cuneo,-4.40115,15.2960299,at-risk,9.16,Strategic development,2024-01-03,6419120290
+EP Lutangu,-4.3561865,15.3626605,at-risk,7.09,Strategic development,2024-01-03,6581404740
+E.P.5 Camp Kabila,-4.3887724,15.3380101,at-risk,8.25,Strategic development,2024-01-03,6581477267
+Institut Lumumba,-4.3745331,15.3478602,at-risk,7.38,Strategic development,2024-01-03,6581485353
+Beka,-4.3970314,15.3521079,at-risk,9.76,Strategic development,2024-01-03,6581608784
+École les Béatitudes,-4.3902931,15.3588867,at-risk,9.51,Strategic development,2024-01-03,6583776012
+collège saint Gervais,-4.3726092,15.3791659,at-risk,9.65,Strategic development,2024-01-03,6583975585
+Collège Saint Jean Apôtre,-4.3801881,15.3607727,at-risk,8.75,Strategic development,2024-01-03,6584026391
+Institut Loboko,-4.3799523,15.3608866,at-risk,8.73,Strategic development,2024-01-03,6584026400
+Complexe Scolaire la Maintenance,-4.3794782,15.3610417,at-risk,8.7,Strategic development,2024-01-03,6584026403
+Ecole Armée du Salut,-4.3708504,15.373195,at-risk,9.0,Strategic development,2024-01-03,6584448787
+Ecole Republicain 2,-4.3658813,15.3697443,at-risk,8.36,Strategic development,2024-01-03,6584448812
+Ecole la Fortune,-4.3704366,15.3745401,at-risk,9.09,Strategic development,2024-01-03,6584448855
+Ecole Bilingue,-4.3744823,15.371182,at-risk,9.09,Strategic development,2024-01-03,6584448930
+Collège Don Frédéric,-4.3721504,15.37729,at-risk,9.45,Strategic development,2024-01-03,6584448934
+Complexe Scolaire Makuala,-4.4009717,15.3477998,at-risk,9.93,Strategic development,2024-01-03,6588613214
+Sainte Marie Faustine,-4.3966803,15.3479836,at-risk,9.51,Strategic development,2024-01-03,6588718345
+Complexe Scolaire Diyavanga,-4.3746507,15.3741592,at-risk,9.36,Strategic development,2024-01-03,6660651736
+C.S. Bukama,-4.3432273,15.2739465,at-risk,4.76,Strategic development,2024-01-03,6853565957
+École Le Rocher,-4.3926091,15.351921,at-risk,9.32,Strategic development,2024-01-03,6915707865
+École Malandi II,-4.3931105,15.3529698,at-risk,9.42,Strategic development,2024-01-03,6915707866
+Ecole Père Damien,-4.3703637,15.3691448,at-risk,8.62,Strategic development,2024-01-03,6937620709
+C.S Outres neuves Academie,-4.3442302,15.2833986,at-risk,3.99,Strategic development,2024-01-03,6939161814
+Campus Universitaire du Lac,-1.6775415,29.2167944,at-risk,0.91,Battle,2024-01-01,7077075886
+UNIGOM,-1.677355,29.2166729,at-risk,0.9,Battle,2024-01-01,7077077286
+ISM,-2.5006292,28.8805823,at-risk,3.4,Violence against civilians,2024-01-02,7139744385
+Ecole St Ubald,-1.6387598,29.2065337,at-risk,3.78,Battle,2024-01-01,7149683336
+École Secondaire Kibali,-1.6362286,29.2046189,at-risk,4.13,Battle,2024-01-01,7149683337
+Complexe SColaire Elim,-1.6372467,29.206,at-risk,3.96,Battle,2024-01-01,7149683338
+Ecole Primaire A Melissa,-1.6408592,29.2043654,at-risk,3.68,Battle,2024-01-01,7149683340
+Comlexe Scolaire la source,-1.6374533,29.2031217,at-risk,4.08,Battle,2024-01-01,7149683341
+Complexe Scolaire Musamariya Mwema,-1.637475,29.2024817,at-risk,4.11,Battle,2024-01-01,7149683342
+Institut Kisima,-1.6414274,29.2059281,at-risk,3.54,Battle,2024-01-01,7149683343
+Complexe Scolaire Lutula,-1.6372351,29.1927457,at-risk,4.74,Battle,2024-01-01,7149683344
+Complexe Scolaire Buuma,-1.6376687,29.1928961,at-risk,4.69,Battle,2024-01-01,7149683345
+Complexe Scolaire Savoir Vivre,-1.6343779,29.1922875,at-risk,5.02,Battle,2024-01-01,7149683346
+Complexe Scolaire Providence,-1.6345514,29.1919483,at-risk,5.03,Battle,2024-01-01,7149683347
+Complexe Scolaire la Perfection,-1.6354951,29.1932443,at-risk,4.85,Battle,2024-01-01,7149683348
+Ecole Lacolombe,-1.6160264,29.1494561,at-risk,9.87,Battle,2024-01-01,7149688756
+Institut Angalisho,-1.6113356,29.1551932,at-risk,9.72,Battle,2024-01-01,7149688761
+École Primaire Uamusho,-1.6110133,29.1555739,at-risk,9.71,Battle,2024-01-01,7149688762
+Ecole Primaire Nengapeta,-1.6152552,29.1496262,at-risk,9.91,Battle,2024-01-01,7149688764
+Complexes scolaire Student Fund Mugunga,-1.6133529,29.1597203,at-risk,9.2,Battle,2024-01-01,7149688765
+Institut Nyabyunyu,-1.6279098,29.1540563,at-risk,8.7,Battle,2024-01-01,7149688766
+Institut Dissassi,-1.624075,29.1560773,at-risk,8.75,Battle,2024-01-01,7149688767
+Complexe Scolaire Elaka,-1.6448956,29.2200532,at-risk,2.79,Battle,2024-01-01,7149737526
+Complexe Scolaire Anane,-1.6499088,29.2143024,at-risk,2.32,Battle,2024-01-01,7149737529
+Coplexe Scolaire open minds,-1.6488994,29.214079,at-risk,2.44,Battle,2024-01-01,7149737530
+Complexe Scolaire Don Beni,-1.6422086,29.2110233,at-risk,3.25,Battle,2024-01-01,7149737531
+Complexe scolaire Ahadi,-1.642436,29.2086403,at-risk,3.31,Battle,2024-01-01,7149737532
+Complexe Scolaire Kanaume,-1.6452548,29.2122406,at-risk,2.88,Battle,2024-01-01,7149737533
+Complexe Scolaire la restitution/ AROMA,-1.6482446,29.212712,at-risk,2.55,Battle,2024-01-01,7149737534
+Complexe scolaire Bon Berger,-1.6432052,29.2076796,at-risk,3.28,Battle,2024-01-01,7149737535
+Complexe scolaire Saint Benoit,-1.6434637,29.219412,at-risk,2.95,Battle,2024-01-01,7149737537
+Institut Mbula,-1.6451084,29.1987456,at-risk,3.64,Battle,2024-01-01,7149760760
+École Primaire Sebyera,-1.6528663,29.196333,at-risk,3.25,Battle,2024-01-01,7149760761
+Complexe Scolaire la Joie,-1.65416,29.1960717,at-risk,3.19,Battle,2024-01-01,7149760762
+École Primaire Kyezye,-1.6452164,29.1989694,at-risk,3.61,Battle,2024-01-01,7149760763
+Complexe Scolaire Saint Jacques,-1.6427933,29.1955671,at-risk,4.07,Battle,2024-01-01,7149760764
+École Primaire Kigogo,-1.6441219,29.1977444,at-risk,3.79,Battle,2024-01-01,7149760765
+Complexe Scolaire Linda,-1.6447317,29.2008367,at-risk,3.53,Battle,2024-01-01,7149760766
+Institut 2 Injili,-1.6471767,29.1990983,at-risk,3.44,Battle,2024-01-01,7149760767
+Institut Avenir,-1.6451018,29.1979273,at-risk,3.7,Battle,2024-01-01,7149760768
+Complexe Scolaire Tom-mas,-1.6528903,29.1978252,at-risk,3.11,Battle,2024-01-01,7149760769
+Institut Nyabushongo,-1.6446803,29.1919734,at-risk,4.2,Battle,2024-01-01,7149760770
+Complexe Scolaire la Grace,-1.6458633,29.2018083,at-risk,3.36,Battle,2024-01-01,7149760771
+Complexe Scolaire Muzalimu,-1.6455254,29.201091,at-risk,3.44,Battle,2024-01-01,7149760772
+Groupe scolaire la Reconciliation,-1.6447838,29.2029067,at-risk,3.39,Battle,2024-01-01,7149760773
+Institut Mwangaza,-1.650303,29.1981688,at-risk,3.27,Battle,2024-01-01,7149760774
+Ecole Primaire Lumiere,-1.6470183,29.19923,at-risk,3.44,Battle,2024-01-01,7149760775
+Institut Bethanie,-1.6453904,29.2024247,at-risk,3.36,Battle,2024-01-01,7149760776
+École Chance Elysee,-1.6462062,29.2020982,at-risk,3.31,Battle,2024-01-01,7149760777
+Complexe Scolaire Taji/Dankier,-1.648384,29.2017901,at-risk,3.14,Battle,2024-01-01,7149760778
+Complexe Scolaire Soleil Levant,-1.6446817,29.204599,at-risk,3.29,Battle,2024-01-01,7149760779
+Complexe Scolaire NZIYI,-1.6381178,29.24024,at-risk,4.2,Battle,2024-01-01,7149766045
+Complexe Scolaire la Reference,-1.6670862,29.2119063,at-risk,0.96,Battle,2024-01-01,7149766046
+La conscience,-4.381317,15.372942,at-risk,9.76,Strategic development,2024-01-03,7211573152
+Complexe Scolaire Étoile,-2.4979997,28.8865352,at-risk,4.06,Violence against civilians,2024-01-02,7292354785
+Complexe Scolaire Espoir,-2.4939217,28.8886799,at-risk,4.35,Violence against civilians,2024-01-02,7302102385
+Groupe Scolaire Gardienat,-2.5055617,28.8590894,at-risk,1.18,Violence against civilians,2024-01-02,7335621786
+Complexe Scolaire Saint Michel,-2.505119,28.8587121,at-risk,1.12,Violence against civilians,2024-01-02,7335626585
+Complexe Scolaire Elite,-2.5058838,28.8687166,at-risk,2.18,Violence against civilians,2024-01-02,7387310580
+Complexe Scolaire Elo Nyamugo,-2.5185928,28.8532641,at-risk,2.1,Violence against civilians,2024-01-02,7387310581
+Complexe Scolaire Dane,-2.5137934,28.8401478,at-risk,1.88,Violence against civilians,2024-01-02,7387310582
+Complexe Scolaire Confiance,-2.5353457,28.8568944,at-risk,4.0,Violence against civilians,2024-01-02,7387310583
+Complexe Scolaire Cross Style,-1.661657,29.2299712,at-risk,1.45,Battle,2024-01-01,7387310584
+Complexe Scolaire Chem Chem,-2.5525811,28.8716185,at-risk,6.32,Violence against civilians,2024-01-02,7387324585
+Complexe Scolaire Children'S Voice,-1.6627132,29.2304799,at-risk,1.42,Battle,2024-01-01,7387324586
+Complexe Scolaire Cebya,-2.5097334,28.8580862,at-risk,1.41,Violence against civilians,2024-01-02,7387324587
+Complexe Scolaire Charme,-2.5183642,28.8350163,at-risk,2.63,Violence against civilians,2024-01-02,7387324588
+Complexe Scolaire Busiba,-2.5357122,28.8464153,at-risk,3.99,Violence against civilians,2024-01-02,7387324589
+Complexe Scolaire Camp Cinema,-2.5175469,28.8500625,at-risk,1.95,Violence against civilians,2024-01-02,7387324590
+Complexe Scolaire Brain,-2.4978915,28.8792302,at-risk,3.26,Violence against civilians,2024-01-02,7387324591
+Complexe Scolaire Berceau du Savoir,-1.6414301,29.1986549,at-risk,3.96,Battle,2024-01-01,7387324592
+Complexe Scolaire Bon Berger,-2.5445203,28.8641653,at-risk,5.19,Violence against civilians,2024-01-02,7387324593
+Complexe Scolaire Baraka,-2.5366031,28.8563785,at-risk,4.13,Violence against civilians,2024-01-02,7387324594
+Complexe Scolaire Amani,-2.5340543,28.8567455,at-risk,3.86,Violence against civilians,2024-01-02,7387324595
+Complexe Scolaire Ashuza,-2.5209522,28.8484079,at-risk,2.34,Violence against civilians,2024-01-02,7387324596
+Complexe Scolaire Aksante,-2.5348335,28.8572302,at-risk,3.96,Violence against civilians,2024-01-02,7387324597
+Complexe Scolaire Adora,-2.5449694,28.863744,at-risk,5.23,Violence against civilians,2024-01-02,7387324598
+Complexe Scolaire Aigle de Vision,-2.5104341,28.8450055,at-risk,1.29,Violence against civilians,2024-01-02,7387324599
+Complexe Scolaire Rubangisa,-2.4905073,28.8459703,at-risk,1.15,Violence against civilians,2024-01-02,7387324600
+Complexe Scolaire Safi-Kwetu,-2.5288374,28.8429295,at-risk,3.3,Violence against civilians,2024-01-02,7387324601
+Complexe Scolaire Buke Lumière,-1.6611732,29.2143614,at-risk,1.16,Battle,2024-01-01,7387324602
+Complexe Scolaire Karhale,-2.4950883,28.846592,at-risk,0.66,Violence against civilians,2024-01-02,7387324603
+Complexe Scolaire Rehema,-2.5309998,28.8573566,at-risk,3.54,Violence against civilians,2024-01-02,7387324610
+Complexe Scolaire Oda,-2.5197083,28.8464933,at-risk,2.23,Violence against civilians,2024-01-02,7387324611
+Complexe Scolaire Omega La Merveille,-2.467368,28.8340489,at-risk,4.04,Violence against civilians,2024-01-02,7387324612
+Complexe Scolaire Namur,-2.5203501,28.8499222,at-risk,2.26,Violence against civilians,2024-01-02,7387324613
+Complexe Scolaire Noella,-2.4779361,28.8385326,at-risk,2.76,Violence against civilians,2024-01-02,7387324614
+Complexe Scolaire Mont Miko,-1.6478551,29.2315251,at-risk,2.78,Battle,2024-01-01,7387324615
+Complexe Scolaire Misericorde,-1.6765573,29.2329316,at-risk,1.61,Battle,2024-01-01,7387324616
+Complexe Scolaire Mon Bon Village,-2.4997755,28.8568709,at-risk,0.76,Violence against civilians,2024-01-02,7387324617
+Complexe Scolaire Merci Wesha,-2.4981123,28.8376244,at-risk,1.39,Violence against civilians,2024-01-02,7387324618
+Complexe Scolaire Michel,-2.5038017,28.8791262,at-risk,3.26,Violence against civilians,2024-01-02,7387324619
+Complexe Scolaire Matimanyi,-2.4966758,28.8870037,at-risk,4.13,Violence against civilians,2024-01-02,7387324620
+Complexe Scolaire Matumaini,-1.67642,29.2302525,at-risk,1.34,Battle,2024-01-01,7387324621
+Complexe Scolaire Mapatano,-2.5164843,28.8483232,at-risk,1.84,Violence against civilians,2024-01-02,7387324622
+Complexe Scolaire Maria Utuangaziye,-2.5176022,28.8505916,at-risk,1.96,Violence against civilians,2024-01-02,7387324623
+Complexe Scolaire Maman Gloria,-2.4987036,28.8776864,at-risk,3.08,Violence against civilians,2024-01-02,7387324624
+Complexe Scolaire Malkiya,-2.4854612,28.8347795,at-risk,2.34,Violence against civilians,2024-01-02,7387324625
+Complexe Scolaire Maendeleo,-2.5078351,28.863423,at-risk,1.73,Violence against civilians,2024-01-02,7387324627
+Complexe Scolaire l'Héritage,-2.4895857,28.8430496,at-risk,1.39,Violence against civilians,2024-01-02,7387324628
+Complexe Scolaire Levert,-2.5139017,28.8482483,at-risk,1.56,Violence against civilians,2024-01-02,7387324629
+Complexe Scolaire le Miracle,-2.5028617,28.869508,at-risk,2.19,Violence against civilians,2024-01-02,7387324630
+Complexe Scolaire le Prophète,-2.5094668,28.86396,at-risk,1.87,Violence against civilians,2024-01-02,7387324631
+Complexe Scolaire Lapereau,-2.5006853,28.8826516,at-risk,3.63,Violence against civilians,2024-01-02,7387324632
+Complexe Scolaire le Bonheur,-2.5182944,28.8365382,at-risk,2.52,Violence against civilians,2024-01-02,7387324633
+Complexe Scolaire la Victoire,-2.5265428,28.8519589,at-risk,2.96,Violence against civilians,2024-01-02,7387324634
+Complexe Scolaire l'Amitié,-2.5466589,28.8711046,at-risk,5.69,Violence against civilians,2024-01-02,7387324635
+Complexe Scolaire la Souplexe,-2.5305162,28.8578789,at-risk,3.5,Violence against civilians,2024-01-02,7387324636
+Complexe Scolaire la Reflexion,-2.545257,28.8642565,at-risk,5.28,Violence against civilians,2024-01-02,7387324637
+Complexe Scolaire la Reine,-2.4999743,28.8889416,at-risk,4.33,Violence against civilians,2024-01-02,7387324638
+Complexe Scolaire la Puissance Divine,-2.4909031,28.8348116,at-risk,1.97,Violence against civilians,2024-01-02,7387324639
+Complexe Scolaire la Persévérance,-2.5159348,28.8618897,at-risk,2.21,Violence against civilians,2024-01-02,7387324640
+Complexe Scolaire la Production,-2.4852941,28.8273723,at-risk,3.0,Violence against civilians,2024-01-02,7387324641
+Complexe Scolaire la Franchise,-2.4928802,28.8452002,at-risk,0.95,Violence against civilians,2024-01-02,7387324642
+Complexe Scolaire la Gloire,-2.4971207,28.8309555,at-risk,2.14,Violence against civilians,2024-01-02,7387324643
+Complexe Scolaire la Famille,-2.5051545,28.8402023,at-risk,1.23,Violence against civilians,2024-01-02,7387324644
+Complexe Scolaire la Fontaine,-1.6744095,29.2290823,at-risk,1.12,Battle,2024-01-01,7387324645
+Complexe Scolaire la Croisière,-2.5156991,28.8519664,at-risk,1.76,Violence against civilians,2024-01-02,7387324646
+Complexe Scolaire la Decouverte,-2.5056618,28.8695049,at-risk,2.26,Violence against civilians,2024-01-02,7387324647
+Complexe Scolaire la Colombe,-2.5230821,28.8469798,at-risk,2.59,Violence against civilians,2024-01-02,7387324648
+Complexe Scolaire la Conscience,-2.5164394,28.8387922,at-risk,2.21,Violence against civilians,2024-01-02,7387324649
+Complexe Scolaire Kitoko 2,-2.5167136,28.8480548,at-risk,1.87,Violence against civilians,2024-01-02,7387324651
+Complexe Scolaire Kamanzema,-2.5447156,28.8629241,at-risk,5.18,Violence against civilians,2024-01-02,7387324652
+Complexe Scolaire Jean-Jacques,-2.5263808,28.8262397,at-risk,3.95,Violence against civilians,2024-01-02,7387324653
+Complexe Scolaire Jericho,-1.6760485,29.2305976,at-risk,1.36,Battle,2024-01-01,7387324654
+Complexe Scolaire Ibuye,-2.4948781,28.8393075,at-risk,1.32,Violence against civilians,2024-01-02,7387324655
+Complexe Scolaire Incence,-2.5338495,28.8532633,at-risk,3.78,Violence against civilians,2024-01-02,7387324656
+Complexe Scolaire Gracia,-2.5095872,28.8697014,at-risk,2.43,Violence against civilians,2024-01-02,7387324657
+Complexe Scolaire Horizon,-2.5222561,28.8490229,at-risk,2.48,Violence against civilians,2024-01-02,7387324658
+Complexe Scolaire Fazili,-2.5302361,28.8245192,at-risk,4.4,Violence against civilians,2024-01-02,7387324659
+Complexe Scolaire Foyer du Savoir,-2.5309221,28.8528947,at-risk,3.45,Violence against civilians,2024-01-02,7387324660
+École Primaire Nazardenne,-1.6537761,29.2315696,at-risk,2.22,Battle,2024-01-01,7396262552
+École Primaire Neema,-1.6543574,29.2335977,at-risk,2.3,Battle,2024-01-01,7396262553
+Ecole Primaire Mulamba,-2.5521312,28.8760438,at-risk,6.48,Violence against civilians,2024-01-02,7396262555
+Ecole Primaire Mulambula,-2.4847735,28.8279648,at-risk,2.98,Violence against civilians,2024-01-02,7396262556
+Ecole Primaire Mushekere,-2.4966383,28.8283176,at-risk,2.44,Violence against civilians,2024-01-02,7396262559
+Ecole Primaire Matendo,-2.5083976,28.8539836,at-risk,1.03,Violence against civilians,2024-01-02,7396262566
+École Primaire Maranatha,-1.6659545,29.2281646,at-risk,1.01,Battle,2024-01-01,7396262567
+École Primaire Maliki,-1.6622899,29.2253652,at-risk,1.04,Battle,2024-01-01,7396262571
+Ecole Primaire Malu,-2.5259877,28.8410232,at-risk,3.06,Violence against civilians,2024-01-02,7396262572
+École Primaire Majengo,-1.6619888,29.2227488,at-risk,0.94,Battle,2024-01-01,7396262579
+École Primaire Mabanga,-1.6627693,29.2231831,at-risk,0.88,Battle,2024-01-01,7396262580
+Ecole Primaire la Veronica,-2.511076,28.8659506,at-risk,2.16,Violence against civilians,2024-01-02,7396262582
+École Primaire la Référence,-2.5033303,28.8833941,at-risk,3.73,Violence against civilians,2024-01-02,7396262585
+Ecole Primaire Luganda,-2.4991556,28.8343339,at-risk,1.74,Violence against civilians,2024-01-02,7396262586
+Ecole Primaire Kiriza,-2.5170094,28.8436078,at-risk,2.02,Violence against civilians,2024-01-02,7396262595
+École Primaire Kisandu,-1.6575917,29.2264806,at-risk,1.56,Battle,2024-01-01,7396262600
+Ecole Primaire Kinjuba,-2.5307289,28.8474391,at-risk,3.43,Violence against civilians,2024-01-02,7396262607
+École Primaire Katoyi,-1.6649265,29.2265863,at-risk,0.92,Battle,2024-01-01,7396262609
+École Primaire Galilaya,-1.6603862,29.2268367,at-risk,1.31,Battle,2024-01-01,7396262618
+École Primaire Bethel,-1.6551432,29.2276911,at-risk,1.86,Battle,2024-01-01,7396262630
+Ecole Primaire Buholo,-2.5223521,28.8480224,at-risk,2.5,Violence against civilians,2024-01-02,7396262633
+Ecole Primaire Aden,-2.5212362,28.8502186,at-risk,2.36,Violence against civilians,2024-01-02,7396262637
+École Primaire Baraka,-1.6636331,29.2134107,at-risk,1.02,Battle,2024-01-01,7396262640
+Ecole Primaire Amkeni,-2.5156275,28.8528429,at-risk,1.77,Violence against civilians,2024-01-02,7396262642
+Ecole Primaire Ushindi Cikera,-2.4939785,28.8234335,at-risk,3.03,Violence against civilians,2024-01-02,7396262650
+Ecole Primaire Salongo Lwana,-2.536533,28.8591646,at-risk,4.19,Violence against civilians,2024-01-02,7396262657
+Ecole Primaire Tuungane,-2.4898017,28.8438558,at-risk,1.32,Violence against civilians,2024-01-02,7396262659
+École Primaire Sivyolo,-1.662856,29.2224202,at-risk,0.84,Battle,2024-01-01,7396262660
+École Primaire Tanganyika,-1.6645247,29.2178173,at-risk,0.66,Battle,2024-01-01,7396262661
+Ecole Primaire Robozo,-2.4800551,28.8172572,at-risk,4.26,Violence against civilians,2024-01-02,7396262664
+École Primaire Sainte Famille,-1.6652012,29.2254083,at-risk,0.8,Battle,2024-01-01,7396262665
+École Primaire Sainte Jeanne de Lestonnac,-2.4991714,28.8792308,at-risk,3.25,Violence against civilians,2024-01-02,7396262666
+École Primaire Rutoboko,-1.6702267,29.2219683,at-risk,0.22,Battle,2024-01-01,7396262667
+École Primaire la Joie,-1.6489987,29.2319207,at-risk,2.68,Battle,2024-01-01,7399890662
+École Primaire Kataliko,-2.4935437,28.8474589,at-risk,0.77,Violence against civilians,2024-01-02,7399890672
+Ecole Primaire Kabika,-2.5122101,28.8525975,at-risk,1.39,Violence against civilians,2024-01-02,7399890681
+École Primaire Kaba,-1.6584416,29.2205675,at-risk,1.29,Battle,2024-01-01,7399890683
+Ecole Primaire Mignos,-2.5037192,28.8699548,at-risk,2.26,Violence against civilians,2024-01-02,7399893392
+Institut Astere,-2.5353885,28.8476052,at-risk,3.94,Violence against civilians,2024-01-02,7402879649
+Institut Augustino,-2.5084623,28.8450729,at-risk,1.09,Violence against civilians,2024-01-02,7402879650
+Institut Amina,-1.6541457,29.2199069,at-risk,1.76,Battle,2024-01-01,7402879651
+Institut Alpha,-2.5454241,28.8592428,at-risk,5.15,Violence against civilians,2024-01-02,7402879654
+Institut Akya,-2.5036269,28.8759322,at-risk,2.91,Violence against civilians,2024-01-02,7402879655
+Ecole Primaire Uaminifu,-2.5227311,28.8469758,at-risk,2.55,Violence against civilians,2024-01-02,7402879657
+École Primaire Nyiragongo,-1.6749767,29.2311283,at-risk,1.36,Battle,2024-01-01,7402879668
+Ecole Primaire Nyarwizimya,-2.4903234,28.839576,at-risk,1.58,Violence against civilians,2024-01-02,7402879670
+Institut Bora,-2.4645206,28.8358197,at-risk,4.25,Violence against civilians,2024-01-02,7402879684
+Institut Bangu,-2.473248,28.8228246,at-risk,4.24,Violence against civilians,2024-01-02,7402881286
+Institut Kabasha,-2.5289557,28.8454962,at-risk,3.26,Violence against civilians,2024-01-02,7417977808
+Institut Kabuye,-2.531337,28.85307,at-risk,3.5,Violence against civilians,2024-01-02,7417977809
+Institut Faraja,-1.676506,29.2313263,at-risk,1.45,Battle,2024-01-01,7417977815
+Institut Communautaire du Lac,-1.679077,29.2278604,at-risk,1.33,Battle,2024-01-01,7417977817
+Institut Cidasa,-2.5273238,28.8566685,at-risk,3.13,Violence against civilians,2024-01-02,7417977818
+Institut Ciriri,-2.5210139,28.8352853,at-risk,2.85,Violence against civilians,2024-01-02,7417977819
+Institut Cameron Scott,-1.6582498,29.226836,at-risk,1.51,Battle,2024-01-01,7417977820
+Institut Katibu,-2.5499114,28.8723948,at-risk,6.08,Violence against civilians,2024-01-02,7417977830
+Université de Proximité,-2.5180422,28.8511026,at-risk,2.01,Violence against civilians,2024-01-02,7515023085
+Institut Mgr Masimango,-1.6744417,29.2307434,at-risk,1.29,Battle,2024-01-01,7518261519
+Institut Matumaini,-2.4887453,28.832938,at-risk,2.27,Violence against civilians,2024-01-02,7518261521
+Institut Majengo,-1.661637,29.2232922,at-risk,1.0,Battle,2024-01-01,7518261524
+Institut Mahama,-2.5407093,28.8670839,at-risk,4.91,Violence against civilians,2024-01-02,7518261526
+Institut Maendeleo,-2.5494874,28.8706931,at-risk,5.96,Violence against civilians,2024-01-02,7518261528
+Institut Maendeleo,-1.6766749,29.231414,at-risk,1.47,Battle,2024-01-01,7518261529
+Institut Lukwangomo,-1.6576343,29.218725,at-risk,1.38,Battle,2024-01-01,7518261532
+Institut la Vision,-2.5294714,28.8568108,at-risk,3.36,Violence against civilians,2024-01-02,7518261537
+Institut Lady Baden-Powell,-1.6583279,29.2138392,at-risk,1.47,Battle,2024-01-01,7518261538
+Institut la Varonique,-2.5119215,28.8657752,at-risk,2.2,Violence against civilians,2024-01-02,7518261539
+Institut la Clochette,-2.5436447,28.8625274,at-risk,5.05,Violence against civilians,2024-01-02,7518261540
+Institut la Trinite,-2.5089138,28.8533624,at-risk,1.06,Violence against civilians,2024-01-02,7518261541
+Institut Mulwa,-2.5268554,28.8302893,at-risk,3.7,Violence against civilians,2024-01-02,7518261553
+Institut Mulindwa,-2.5228032,28.8487975,at-risk,2.54,Violence against civilians,2024-01-02,7518261554
+Institut Mugunga,-1.6647041,29.2187298,at-risk,0.61,Battle,2024-01-01,7518261557
+Institut Mulamba,-2.5518713,28.8753439,at-risk,6.42,Violence against civilians,2024-01-02,7518261558
+Institut Mikeno,-1.6781038,29.2305352,at-risk,1.48,Battle,2024-01-01,7518261560
+Institut Mgr Bya'Ene,-2.5074309,28.8702836,at-risk,2.4,Violence against civilians,2024-01-02,7518261561
+Lucée Arche de l’unité,-2.5003168,28.8809813,at-risk,3.44,Violence against civilians,2024-01-02,7528073687
+Complexe Scolaire Laperaux,-2.5004875,28.8824685,at-risk,3.61,Violence against civilians,2024-01-02,7528077485
+École primaire l’Estonac,-2.4995748,28.8791471,at-risk,3.24,Violence against civilians,2024-01-02,7528079285
+Institut Visoke,-1.6632159,29.2257685,at-risk,0.99,Battle,2024-01-01,7533747945
+Institut Uzima,-1.6647255,29.2269184,at-risk,0.97,Battle,2024-01-01,7533747948
+Institut Vangu,-2.5271964,28.8563752,at-risk,3.11,Violence against civilians,2024-01-02,7533747949
+Institut Tupendane,-2.4885711,28.8426558,at-risk,1.51,Violence against civilians,2024-01-02,7533747950
+Institut Tuungane,-1.6730995,29.2363268,at-risk,1.85,Battle,2024-01-01,7533747951
+Institut Saint Matthieu,-2.5183667,28.8339942,at-risk,2.71,Violence against civilians,2024-01-02,7533747955
+Institut Saint Marc,-1.6500437,29.2223594,at-risk,2.23,Battle,2024-01-01,7533747957
+Institut Plateau,-2.5098495,28.8449002,at-risk,1.23,Violence against civilians,2024-01-02,7533747960
+Institut Olimba,-2.5175833,28.8509605,at-risk,1.96,Violence against civilians,2024-01-02,7533747963
+Institut Mushere,-2.4983272,28.888311,at-risk,4.26,Violence against civilians,2024-01-02,7533747971
+Lycée Nyakavogo,-2.4802064,28.8178244,at-risk,4.2,Violence against civilians,2024-01-02,7533747977
+Lycée Familiya Dei,-2.5197534,28.8365292,at-risk,2.66,Violence against civilians,2024-01-02,7533747978
+Lycée Cesar,-2.5161706,28.839689,at-risk,2.13,Violence against civilians,2024-01-02,7533747979
+Lycée Cirezi,-2.4999338,28.873106,at-risk,2.57,Violence against civilians,2024-01-02,7533747980
+Lycée Amani,-1.6812129,29.2316446,at-risk,1.8,Battle,2024-01-01,7533747981
+Institut Zanner,-1.6764252,29.2201447,at-risk,0.71,Battle,2024-01-01,7533747984
+Complexe Scolaire Lofudu,-4.3779543,15.3612129,at-risk,8.59,Strategic development,2024-01-03,7817434015
+Complexe Scolaire Ngami,-4.3751896,15.3601313,at-risk,8.28,Strategic development,2024-01-03,7817434018
+Complexe Scolaire KASIMBI,-1.67477,29.2268095,at-risk,0.92,Battle,2024-01-01,7849859015
+Collège Sainte Claire II,-4.3326482,15.2619705,at-risk,5.51,Strategic development,2024-01-03,8048475105
+Complexe scolaire la convivance,-1.6484276,29.1887088,at-risk,4.22,Battle,2024-01-01,8237516077
+Complexe scolaire de l'atlantique,-1.6475948,29.1825799,at-risk,4.85,Battle,2024-01-01,8237948302
+Erudit International school,-1.6484908,29.1813189,at-risk,4.92,Battle,2024-01-01,8304968555
+Institut Elizabeth de la Trinité,-1.649396,29.1799683,at-risk,5.0,Battle,2024-01-01,8305004450
+EP la Gloire,-1.6508318,29.1721289,at-risk,5.73,Battle,2024-01-01,8305007963
+Complexe Scolaire Chrétien Jacques André Vernaud,-4.355751,15.3082325,at-risk,3.98,Strategic development,2024-01-03,8313433041
+Complexe Scolaire KANDA,-4.3426955,15.3034218,at-risk,2.63,Strategic development,2024-01-03,8442701017
+Institut Himbi,-1.6788138,29.2145231,at-risk,1.15,Battle,2024-01-01,8540452711
+École Privée des Volcans,-1.6816189,29.2288497,at-risk,1.62,Battle,2024-01-01,8543217172
+Kratos,-1.6688443,29.1957232,at-risk,2.7,Battle,2024-01-01,8566587197
+Theresa mira,-1.6676331,29.2054678,at-risk,1.64,Battle,2024-01-01,8572982918
+Lycée amani,-1.6796398,29.2319856,at-risk,1.71,Battle,2024-01-01,8680659876
+Complexe scolaire mwanga,-1.6577267,29.193437,at-risk,3.25,Battle,2024-01-01,8680663264
+Saint Charles et Maison Enrica,-4.3467954,15.3409357,at-risk,4.54,Strategic development,2024-01-03,8932349013
+Armée du Salut,-4.4008397,15.2951877,at-risk,9.14,Strategic development,2024-01-03,8936088324
+Ecole Vision,-4.3847825,15.2598068,at-risk,9.1,Strategic development,2024-01-03,9084713394
+Complexe Scolaire La Somité,-4.3580296,15.2520626,at-risk,7.69,Strategic development,2024-01-03,9084713410
+English International School,-4.3079289,15.3173972,at-risk,1.57,Strategic development,2024-01-03,9246824078
+Unnamed School,-2.5616857,28.8300642,at-risk,7.21,Violence against civilians,2024-01-02,9275816276
+Unnamed School,-2.5046855,28.784818,at-risk,7.26,Violence against civilians,2024-01-02,9297053726
+Institut Himbi,-1.671614,29.2042639,at-risk,1.76,Battle,2024-01-01,9543333884
+Complexe Scolaire Siama,-4.3925596,15.3303869,at-risk,8.38,Strategic development,2024-01-03,9657190727
+Collège GSG,-4.371477,15.3692263,at-risk,8.71,Strategic development,2024-01-03,9974916019
+Complexe Scolaire Révérend KIM,-4.3174329,15.2930784,at-risk,1.9,Strategic development,2024-01-03,9976991400
+CS LA TROMPETE,-4.3617574,15.3219286,at-risk,4.83,Strategic development,2024-01-03,9977033872
+AGRICOLE,-4.3674539,15.3218561,at-risk,5.44,Strategic development,2024-01-03,9977033876
+EP 1&2 DJOLU,-4.3439133,15.3131684,at-risk,2.68,Strategic development,2024-01-03,9977044011
+Ecole Melisa,-4.3260447,15.2974185,at-risk,1.55,Strategic development,2024-01-03,9979337835
+Unnamed School,-4.3415838,15.3037217,at-risk,2.5,Strategic development,2024-01-03,9979906368
+Unnamed School,-4.3427231,15.3044513,at-risk,2.6,Strategic development,2024-01-03,9979906369
+Unnamed School,-4.3454458,15.3082842,at-risk,2.84,Strategic development,2024-01-03,9979906372
+Unnamed School,-4.3460877,15.3055912,at-risk,2.94,Strategic development,2024-01-03,9979906373
+Unnamed School,-4.3452559,15.3025764,at-risk,2.93,Strategic development,2024-01-03,9979906374
+Unnamed School,-4.3454057,15.2992907,at-risk,3.06,Strategic development,2024-01-03,9979906375
+Unnamed School,-4.3456892,15.3001812,at-risk,3.06,Strategic development,2024-01-03,9979906376
+Unnamed School,-4.345173,15.3006828,at-risk,2.98,Strategic development,2024-01-03,9979906377
+Unnamed School,-4.344507,15.3005058,at-risk,2.92,Strategic development,2024-01-03,9979906378
+Unnamed School,-4.3447772,15.3016806,at-risk,2.91,Strategic development,2024-01-03,9979906379
+CS. BWANYA,-4.3668896,15.3196594,at-risk,5.32,Strategic development,2024-01-03,9979954308
+CS. MWINDA,-4.3674967,15.3208423,at-risk,5.42,Strategic development,2024-01-03,9979954309
+EP. 10 NGABA,-4.3782692,15.3226018,at-risk,6.63,Strategic development,2024-01-03,9979954310
+Collège La compassion de Dieu,-4.3772342,15.3247073,at-risk,6.57,Strategic development,2024-01-03,9979954311
+CS. Charles MBUTAMUTU,-4.3737134,15.3205432,at-risk,6.09,Strategic development,2024-01-03,9979954313
+CS. MWINDA,-4.3748486,15.3230551,at-risk,6.27,Strategic development,2024-01-03,9979954314
+Ecole St Adrien,-4.3750024,15.3231409,at-risk,6.29,Strategic development,2024-01-03,9979954315
+CS. MBUKU,-4.3759933,15.3237793,at-risk,6.41,Strategic development,2024-01-03,9979954316
+Ecole De la paix,-4.3836607,15.3232509,at-risk,7.23,Strategic development,2024-01-03,9979967317
+Collège Saint CYPRIEN,-4.3814196,15.3224999,at-risk,6.97,Strategic development,2024-01-03,9979967319
+Collège Les amis de la réussite,-4.3807216,15.3199035,at-risk,6.84,Strategic development,2024-01-03,9979967320
+CS. SEDIA,-4.380505,15.3205043,at-risk,6.83,Strategic development,2024-01-03,9979967321
+CS. TELE MUKWANGA,-4.3786356,15.3203742,at-risk,6.62,Strategic development,2024-01-03,9979967322
+CS. SUBLIME,-4.378675,15.3197204,at-risk,6.61,Strategic development,2024-01-03,9979967323
+CS. Charles MBUTAMUTU,-4.3788107,15.32103,at-risk,6.65,Strategic development,2024-01-03,9979967324
+CS. SEDIA,-4.3796144,15.3218642,at-risk,6.76,Strategic development,2024-01-03,9979967325
+CS. NZEY,-4.3789378,15.3232241,at-risk,6.72,Strategic development,2024-01-03,9979967326
+Collège Saint Albert,-4.3778974,15.3187421,at-risk,6.51,Strategic development,2024-01-03,9979967327
+Ecole Maman MAZA,-4.3771312,15.3187354,at-risk,6.43,Strategic development,2024-01-03,9979967328
+Ecole NLEMVO,-4.3772342,15.3185114,at-risk,6.43,Strategic development,2024-01-03,9979967329
+CS. Sainte-Marie,-4.3766004,15.3187944,at-risk,6.37,Strategic development,2024-01-03,9979967330
+EP. 2 & 7 Saint ADRIEN,-4.3752605,15.3219822,at-risk,6.29,Strategic development,2024-01-03,9979967331
+Institut Kayembe,-1.6366123,29.2498273,at-risk,4.98,Battle,2024-01-01,10116544019
+E.P. Mapendo,-1.6289147,29.1855847,at-risk,5.96,Battle,2024-01-01,10116544120
+Ecole Ange Raphael,-4.3517023,15.2916847,at-risk,4.07,Strategic development,2024-01-03,10277664882
+Ecole Officielle,-4.3612242,15.3038274,at-risk,4.63,Strategic development,2024-01-03,10277676793
+Ecole Officielle,-4.3617648,15.3054572,at-risk,4.67,Strategic development,2024-01-03,10277676794
+Unnamed School,-1.5994957,29.1644634,at-risk,9.98,Battle,2024-01-01,11350843745
+Unnamed School,-1.6374197,29.1695461,at-risk,6.68,Battle,2024-01-01,11350860787
+Ste Thérèse de l'enfant Jésus,-4.3483725,15.2314841,at-risk,9.26,Strategic development,2024-01-03,11875090069
+COSMOL,-4.3471945,15.2309928,at-risk,9.27,Strategic development,2024-01-03,11933756569
+Collège St Cyprien,-4.3478266,15.2305721,at-risk,9.33,Strategic development,2024-01-03,11933756570
+Sainte Monique,-4.3504969,15.2307166,at-risk,9.42,Strategic development,2024-01-03,12193886601
+Institut Maendeleo,-1.6793078,29.235118,at-risk,1.97,Battle,2024-01-01,12318270857
+EP.Toroto,-1.6477057,29.180804,at-risk,5.01,Battle,2024-01-01,12435869078
+Institut TOROTO,-1.657063,29.1828659,at-risk,4.37,Battle,2024-01-01,12442081972
+Complexe Scolaire Technique UJUZI,-1.6646412,29.1777564,at-risk,4.73,Battle,2024-01-01,12444856564
+Complexe Scolaire Notre Dame de la Paix/Nguba,-2.4999675,28.885873,at-risk,3.99,Violence against civilians,2024-01-02,12511802981
+Complexe Scolaire Saint Israël,-2.5085711,28.8460794,at-risk,1.05,Violence against civilians,2024-01-02,12511805627
+Complexe Scolaire la Découverte,-2.5058555,28.8694623,at-risk,2.26,Violence against civilians,2024-01-02,12511849791
+Complexe Scolaire Elite,-2.5050235,28.8689512,at-risk,2.18,Violence against civilians,2024-01-02,12511849792
+Complexe Scolaire Saint Joseph,-2.5053478,28.8690879,at-risk,2.2,Violence against civilians,2024-01-02,12511849794
+Complexe scolaire LA FONTAINE,-2.500625,28.8673756,at-risk,1.93,Violence against civilians,2024-01-02,12512080043
+Groupe Scolaire BANZA,-4.3742859,15.2820814,at-risk,6.78,Strategic development,2024-01-03,12534572926
+Bosco Lac,-1.6316043,29.1581479,at-risk,8.09,Battle,2024-01-01,13012214419
+Kivu International School,-1.6503154,29.1658688,at-risk,6.4,Battle,2024-01-01,13012214436
+Institut Superieur de Tourisme et de Gestion Goma,-1.6796823,29.2294049,at-risk,1.5,Battle,2024-01-01,13012214473
+Jean Jacques Rousseau,-4.3496373,15.3112205,at-risk,3.3,Strategic development,2024-01-03,13141574673
+Lycée Marie France,-4.401637,15.291206,at-risk,9.31,Strategic development,2024-01-03,13686022001
+Lycée Prince de Liège,-4.318687,15.2913702,at-risk,2.07,Strategic development,2024-01-03,37563006
+Lycée Français René Descartes (Site de Kalemie),-4.3039933,15.2935788,at-risk,2.55,Strategic development,2024-01-03,52595375
+Unnamed School,-4.3096521,15.2993894,at-risk,1.65,Strategic development,2024-01-03,57357937
+Unnamed School,-4.3098283,15.2995215,at-risk,1.62,Strategic development,2024-01-03,57357940
+École maternelle,-4.3100199,15.3001132,at-risk,1.56,Strategic development,2024-01-03,57357941
+École Catholique St-Gabriel,-4.352339,15.3243,at-risk,3.93,Strategic development,2024-01-03,57363223
+École Protestante,-4.3577219,15.3186557,at-risk,4.3,Strategic development,2024-01-03,57363299
+École Officielle Mamelo,-4.3612437,15.3197021,at-risk,4.71,Strategic development,2024-01-03,57364518
+École Agricole,-4.3672666,15.3222444,at-risk,5.43,Strategic development,2024-01-03,57370576
+Institut Biochemie/Mombele (IBM),-4.367532,15.3215681,at-risk,5.44,Strategic development,2024-01-03,57370638
+Institut Téchnique Agricole (ITA),-4.3669629,15.3214858,at-risk,5.38,Strategic development,2024-01-03,57370639
+Ecole Protestante de Lemba,-4.3833305,15.3366009,at-risk,7.63,Strategic development,2024-01-03,57376817
+Collège Saint Théophile,-4.3851286,15.33423,at-risk,7.72,Strategic development,2024-01-03,57376896
+Ecole Catholique Lycée Mpiko,-4.3855376,15.3359054,at-risk,7.83,Strategic development,2024-01-03,57377009
+École catholique,-4.3585104,15.2951524,at-risk,4.59,Strategic development,2024-01-03,57738675
+Lycée notre dame de la Providence,-4.3475513,15.2412105,at-risk,8.22,Strategic development,2024-01-03,57898015
+Athénée Ngaliema,-4.348375,15.2367312,at-risk,8.72,Strategic development,2024-01-03,57898018
+École Primaire Bondeko,-4.3395843,15.2646363,at-risk,5.48,Strategic development,2024-01-03,57898190
+Institut Bobokoli,-4.381352,15.261171,at-risk,8.71,Strategic development,2024-01-03,57913408
+École Catholique,-4.3605975,15.3197862,at-risk,4.64,Strategic development,2024-01-03,63954685
+École catholique,-4.3547035,15.3217752,at-risk,4.07,Strategic development,2024-01-03,67375762
+Unnamed School,-4.3548112,15.3216708,at-risk,4.08,Strategic development,2024-01-03,67375763
+Unnamed School,-4.3545772,15.3217999,at-risk,4.06,Strategic development,2024-01-03,67375764
+Lycée Kabambare,-4.3229502,15.3109691,at-risk,0.35,Strategic development,2024-01-03,129297065
+Elementary School,-1.6803101,29.2289121,at-risk,1.52,Battle,2024-01-01,193155352
+Ecole Maternelle et Primaire Kauta,-1.6651279,29.1835936,at-risk,4.08,Battle,2024-01-01,193238722
+Ecole de la paix - Communaute de Sant 'Egidio,-2.5114774,28.853226,at-risk,1.33,Violence against civilians,2024-01-02,195645608
+École Primaire Saint François Xavier,-2.5163225,28.849955,at-risk,1.81,Violence against civilians,2024-01-02,199022530
+École Primaire Saint François Xavier,-2.5163137,28.8501404,at-risk,1.81,Violence against civilians,2024-01-02,199022538
+Institut Bahati,-2.5168515,28.8503491,at-risk,1.87,Violence against civilians,2024-01-02,199022546
+Ecole Arche de l'Alliance,-4.3796564,15.3686497,at-risk,9.29,Strategic development,2024-01-03,206087637
+Unnamed School,-4.3491714,15.2676821,at-risk,5.7,Strategic development,2024-01-03,206274847
+paroisse Saint Gabriel,-4.3606434,15.3195144,at-risk,4.64,Strategic development,2024-01-03,206579122
+Unnamed School,-4.3605636,15.3202265,at-risk,4.65,Strategic development,2024-01-03,206579123
+Lycée Boyokani,-4.3604399,15.3197918,at-risk,4.63,Strategic development,2024-01-03,206579124
+Lycée Boyokani,-4.3608407,15.3199636,at-risk,4.67,Strategic development,2024-01-03,206579125
+École Masamba,-4.3611755,15.318802,at-risk,4.68,Strategic development,2024-01-03,206582660
+École primaire Yolo,-4.360755,15.3219283,at-risk,4.72,Strategic development,2024-01-03,217698542
+Complex scolaire Dibasana,-4.390214,15.3340835,at-risk,8.25,Strategic development,2024-01-03,226752800
+Athénées de Lemba,-4.3820762,15.3294707,at-risk,7.23,Strategic development,2024-01-03,226854081
+École Primaire Ujumbe,-1.6533257,29.2191163,at-risk,1.86,Battle,2024-01-01,266411874
+Lycée Sainte Ursule,-1.6626886,29.1899873,at-risk,3.43,Battle,2024-01-01,298889634
+Complexe Scolaire Mwanzo,-2.4947133,28.8327591,at-risk,2.0,Violence against civilians,2024-01-02,316719244
+Unnamed School,-2.4861687,28.8593653,at-risk,1.86,Violence against civilians,2024-01-02,317418796
+Collège Saint Raphaël,-4.3395332,15.3267984,at-risk,2.86,Strategic development,2024-01-03,331313849
+École George Washington,-4.3552449,15.3311304,at-risk,4.57,Strategic development,2024-01-03,335709425
+Lycée Movenda,-4.3578815,15.2995273,at-risk,4.37,Strategic development,2024-01-03,336812196
+Lycée Motema Mpiko,-4.3455915,15.3015289,at-risk,3.0,Strategic development,2024-01-03,341035699
+Lycée Toyokana,-4.3446892,15.2990348,at-risk,3.0,Strategic development,2024-01-03,341035700
+Unnamed School,-4.3473974,15.2929316,at-risk,3.59,Strategic development,2024-01-03,362188761
+Eglise Binguiste,-4.3271248,15.3002248,at-risk,1.34,Strategic development,2024-01-03,362438613
+Ecole Armée du Salut,-4.3273344,15.3079845,at-risk,0.85,Strategic development,2024-01-03,362438618
+Unnamed School,-4.3152683,15.326493,at-risk,1.9,Strategic development,2024-01-03,362439868
+Unnamed School,-4.316873,15.3268243,at-risk,1.9,Strategic development,2024-01-03,362439869
+Unnamed School,-4.3480149,15.3515273,at-risk,5.56,Strategic development,2024-01-03,362879543
+Mokengeli,-4.3772675,15.3354387,at-risk,6.96,Strategic development,2024-01-03,363665142
+École Catholique Notre Dame d'Afrique,-4.3761108,15.3404383,at-risk,7.09,Strategic development,2024-01-03,363665144
+Arche de Noé,-4.386465,15.3630568,at-risk,9.45,Strategic development,2024-01-03,367616821
+Concession Don Bosco,-4.377413,15.3693467,at-risk,9.17,Strategic development,2024-01-03,385903555
+Complexe scolaire La Colombe,-4.3502639,15.3200223,at-risk,3.54,Strategic development,2024-01-03,403377016
+Ecole Primaire Sainte Trinité,-4.3864723,15.3553991,at-risk,8.94,Strategic development,2024-01-03,434882748
+Institut Sainte Trinité,-4.3865721,15.3554281,at-risk,8.95,Strategic development,2024-01-03,434882751
+Maman Amba,-4.3970604,15.3531851,at-risk,9.82,Strategic development,2024-01-03,435483083
+École Bilenge,-4.3958789,15.3542379,at-risk,9.76,Strategic development,2024-01-03,435488328
+Collège Abbé Loya,-4.3559922,15.2939907,at-risk,4.38,Strategic development,2024-01-03,450071724
+Unnamed School,-4.3797506,15.3682675,at-risk,9.27,Strategic development,2024-01-03,470526432
+Unnamed School,-4.3795176,15.3682703,at-risk,9.25,Strategic development,2024-01-03,470526434
+Unnamed School,-4.3794428,15.3678342,at-risk,9.21,Strategic development,2024-01-03,470526435
+Unnamed School,-4.3792805,15.3682852,at-risk,9.23,Strategic development,2024-01-03,470526436
+Unnamed School,-4.3792192,15.367842,at-risk,9.19,Strategic development,2024-01-03,470526437
+Unnamed School,-4.3893758,15.3142155,at-risk,7.73,Strategic development,2024-01-03,476664289
+Ecole primaire,-4.3397785,15.3027124,at-risk,2.34,Strategic development,2024-01-03,486512032
+Complexe Scolaire Lubudi,-4.3940948,15.3499739,at-risk,9.36,Strategic development,2024-01-03,531674259
+Complexe Scolaire Bahumbu,-4.3949622,15.3504738,at-risk,9.47,Strategic development,2024-01-03,531704774
+Ecole Primaire Laïque,-4.3368624,15.2773339,at-risk,4.08,Strategic development,2024-01-03,532181202
+Complexe Scolaire Maxel,-4.3896837,15.3608587,at-risk,9.58,Strategic development,2024-01-03,532196574
+Complexe Scolaire Sainte Famille,-4.3940567,15.3153007,at-risk,8.26,Strategic development,2024-01-03,532618595
+Joyeux lutins,-4.3510161,15.2840249,at-risk,4.49,Strategic development,2024-01-03,534408566
+Unnamed School,-4.3457421,15.2785293,at-risk,4.51,Strategic development,2024-01-03,534408572
+Unnamed School,-4.3458005,15.278256,at-risk,4.54,Strategic development,2024-01-03,534408573
+Unnamed School,-4.3459567,15.278507,at-risk,4.53,Strategic development,2024-01-03,534408574
+Unnamed School,-4.3367729,15.2718809,at-risk,4.62,Strategic development,2024-01-03,539437849
+Groupe Scolaire Gombele,-4.3930598,15.3181641,at-risk,8.17,Strategic development,2024-01-03,545194604
+Village Bondeko,-4.3217057,15.3141017,at-risk,0.49,Strategic development,2024-01-03,547207548
+Ecole Les Elites de Ngaba,-4.384332,15.317761,at-risk,7.2,Strategic development,2024-01-03,547232357
+Unnamed School,-4.3893061,15.3144951,at-risk,7.72,Strategic development,2024-01-03,547232365
+Ecole chrétienne de Kinshasa,-4.3924515,15.3135429,at-risk,8.07,Strategic development,2024-01-03,547232374
+Ecole chrétienne de Kinshasa,-4.3923735,15.3135565,at-risk,8.06,Strategic development,2024-01-03,547232375
+Ecole chrétienne de Kinshasa,-4.392368,15.3134381,at-risk,8.06,Strategic development,2024-01-03,547232376
+Colège Sainte Véronique,-4.3928528,15.3125339,at-risk,8.11,Strategic development,2024-01-03,547232382
+Collège Emerite,-4.4032063,15.3175137,at-risk,9.29,Strategic development,2024-01-03,547232393
+Collège Saint Esprit,-4.4092218,15.3179106,at-risk,9.96,Strategic development,2024-01-03,547232397
+Collège Saint Esprit,-4.4091626,15.3181287,at-risk,9.96,Strategic development,2024-01-03,547232398
+Institut Réverend Samba,-4.3760182,15.2575606,at-risk,8.52,Strategic development,2024-01-03,559886078
+École Eben Ezer,-4.3903715,15.3563982,at-risk,9.36,Strategic development,2024-01-03,595915852
+Complexe Scolaire May Mpankia,-4.3962309,15.3572011,at-risk,9.96,Strategic development,2024-01-03,596023951
+Institut Libongo,-4.3867075,15.3605638,at-risk,9.3,Strategic development,2024-01-03,596752557
+Complexe Scolaire Lengi,-4.3952192,15.3553091,at-risk,9.76,Strategic development,2024-01-03,597331956
+Complexe Scolaire Réveillez-Vous,-4.3955821,15.3554118,at-risk,9.8,Strategic development,2024-01-03,597331964
+Collège Sainte Sarah,-4.3866945,15.3568846,at-risk,9.06,Strategic development,2024-01-03,597410224
+Complexe Scolaire Yeba,-4.3963331,15.3539732,at-risk,9.79,Strategic development,2024-01-03,597417687
+Collège Soeur Esther,-4.3964262,15.3551849,at-risk,9.86,Strategic development,2024-01-03,597429467
+Institut de la Rivière,-4.3807216,15.3564171,at-risk,8.49,Strategic development,2024-01-03,597431897
+Collège Emérite,-4.3873855,15.3570552,at-risk,9.13,Strategic development,2024-01-03,597432460
+Complexe Scolaire Mpumbu,-4.3833343,15.360654,at-risk,9.01,Strategic development,2024-01-03,597467448
+Complexe Scolaire Le Bambino,-4.3846224,15.3607508,at-risk,9.13,Strategic development,2024-01-03,597478507
+Ecole EMERCO,-4.3927664,15.3587917,at-risk,9.73,Strategic development,2024-01-03,597918546
+École Chretienne,-4.3903048,15.3594866,at-risk,9.55,Strategic development,2024-01-03,597926707
+Complexe Scolaire Akiva,-4.4031908,15.3368908,at-risk,9.72,Strategic development,2024-01-03,597928746
+Complexe Scolaire Anunga,-4.3890413,15.3448851,at-risk,8.6,Strategic development,2024-01-03,598061180
+Unnamed School,-4.39002,15.3436242,at-risk,8.63,Strategic development,2024-01-03,598061321
+Complexe Scolaire Losa,-4.3870746,15.3558534,at-risk,9.03,Strategic development,2024-01-03,598063852
+Mandela,-4.4004325,15.3370317,at-risk,9.43,Strategic development,2024-01-03,598099843
+Ecam,-4.3995749,15.3376413,at-risk,9.36,Strategic development,2024-01-03,598107564
+Institut Technique Moteyi,-4.3845124,15.3420462,at-risk,8.01,Strategic development,2024-01-03,598128532
+Groupe Scolaire Lumumba,-4.3791804,15.3504172,at-risk,7.96,Strategic development,2024-01-03,598170464
+Collège Saint Joachim,-4.3846228,15.3420206,at-risk,8.01,Strategic development,2024-01-03,598179977
+Révélation divine,-4.4021535,15.3393709,at-risk,9.7,Strategic development,2024-01-03,598207589
+La Gloire de Dieu,-4.4022762,15.340479,at-risk,9.75,Strategic development,2024-01-03,598274164
+Piaka Pia,-4.4037011,15.3281851,at-risk,9.52,Strategic development,2024-01-03,598567069
+Groupe Scolaire la Marguerite,-4.3847045,15.347015,at-risk,8.28,Strategic development,2024-01-03,598871789
+Ecole la Delicieuse 2,-4.387002,15.3491912,at-risk,8.62,Strategic development,2024-01-03,598946716
+Ecole la Delicieuse 2,-4.3869727,15.3494346,at-risk,8.64,Strategic development,2024-01-03,598946736
+Makuala,-4.400289,15.3325638,at-risk,9.27,Strategic development,2024-01-03,598960747
+Beka,-4.3968608,15.3521683,at-risk,9.74,Strategic development,2024-01-03,599173226
+Groupe Scolaire BKT,-4.3865415,15.3468347,at-risk,8.45,Strategic development,2024-01-03,599295151
+École Sainte Therèse,-4.3930193,15.337604,at-risk,8.68,Strategic development,2024-01-03,599305840
+E.P.5 Camp Kabila,-4.3889202,15.3378246,at-risk,8.26,Strategic development,2024-01-03,599366659
+C.S les Marnettes,-4.384693,15.3547232,at-risk,8.74,Strategic development,2024-01-03,600713365
+C.S Kaolti,-4.3831245,15.3533808,at-risk,8.51,Strategic development,2024-01-03,600713492
+Ecole Primaire Bolingo,-4.3837332,15.3667137,at-risk,9.47,Strategic development,2024-01-03,601348557
+Miradi,-4.400603,15.3336935,at-risk,9.34,Strategic development,2024-01-03,604054221
+Complexe Scolaire Serena,-4.3993791,15.3176364,at-risk,8.87,Strategic development,2024-01-03,605944457
+Ste Famille de bergame,-4.3856721,15.3589547,at-risk,9.1,Strategic development,2024-01-03,608917156
+Swengi les aiglons,-4.3987136,15.3463169,at-risk,9.63,Strategic development,2024-01-03,608917160
+Complexe Scolaire Papa Nzau,-4.4005309,15.3467299,at-risk,9.84,Strategic development,2024-01-03,608917166
+Collège Marakena,-4.4012002,15.3457266,at-risk,9.86,Strategic development,2024-01-03,608917168
+Mulebe,-4.4028385,15.3431524,at-risk,9.92,Strategic development,2024-01-03,608939719
+Collège Saint Albert,-4.4028464,15.3427982,at-risk,9.9,Strategic development,2024-01-03,608939720
+Unnamed School,-4.393117,15.344732,at-risk,9.0,Strategic development,2024-01-03,619354744
+Centre de Formation Camael,-4.3978525,15.3445986,at-risk,9.47,Strategic development,2024-01-03,620972188
+Collège Auxano,-4.4036898,15.342074,at-risk,9.96,Strategic development,2024-01-03,635641013
+Complexe Scolaire Malebe,-4.4030626,15.3429265,at-risk,9.93,Strategic development,2024-01-03,635955883
+Complèxe Scolaire Goshen,-4.4035537,15.3430353,at-risk,9.99,Strategic development,2024-01-03,635955915
+Complexe Scolaire Swengi,-4.3987841,15.3460712,at-risk,9.63,Strategic development,2024-01-03,635989709
+Complexe Scolaire la Victoire,-4.4012239,15.3460282,at-risk,9.88,Strategic development,2024-01-03,636013724
+Collège Allegria,-4.3996087,15.3477088,at-risk,9.79,Strategic development,2024-01-03,636022667
+Complexe Scolaire Juhudi,-1.6487616,29.1818923,at-risk,4.85,Battle,2024-01-01,653710793
+Complexe Scolaire Virunga,-1.6545139,29.1757362,at-risk,5.21,Battle,2024-01-01,653710794
+Institut Kyeshero,-1.661893,29.1824676,at-risk,4.27,Battle,2024-01-01,653728651
+Lycée Anuarite,-1.6560662,29.1756995,at-risk,5.16,Battle,2024-01-01,653728653
+E. P. Karibu,-1.6564243,29.175056,at-risk,5.22,Battle,2024-01-01,653728654
+Complexe Scolaire La Source,-1.6493539,29.1758727,at-risk,5.42,Battle,2024-01-01,653728655
+Complexe Scolaire Amani,-1.6581891,29.1894708,at-risk,3.64,Battle,2024-01-01,653728661
+Institut Muzizi,-1.6538356,29.212167,at-risk,2.0,Battle,2024-01-01,653728662
+Institut Bakanja,-1.6564367,29.1954268,at-risk,3.12,Battle,2024-01-01,653728663
+Shabaa,-1.6593828,29.2068637,at-risk,1.88,Battle,2024-01-01,653728664
+Collège Mwanga,-1.6783936,29.2364451,at-risk,2.05,Battle,2024-01-01,653728665
+EP Karisimbi & Sabinyo,-1.6777696,29.2362868,at-risk,2.01,Battle,2024-01-01,653728666
+Lycée Amani,-1.6804566,29.2316218,at-risk,1.74,Battle,2024-01-01,653736391
+ISTA Goma,-1.6777327,29.2170049,at-risk,0.92,Battle,2024-01-01,653960882
+Ecole Bérée,-4.3731673,15.3480333,at-risk,7.26,Strategic development,2024-01-03,677021443
+Ecole Maman Kilubu,-4.3726845,15.366904,at-risk,8.61,Strategic development,2024-01-03,677025209
+Collége Sante Élisabeth,-4.3630572,15.3566169,at-risk,7.05,Strategic development,2024-01-03,677040614
+Complexe Scolaire ASIE 2,-4.372065,15.3623791,at-risk,8.2,Strategic development,2024-01-03,677083621
+Complexe Scolaire Umani,-4.3677597,15.359937,at-risk,7.67,Strategic development,2024-01-03,677096789
+Lwayi,-4.4049122,15.3192169,at-risk,9.5,Strategic development,2024-01-03,677615570
+Ecole Diabena,-4.4018029,15.318062,at-risk,9.14,Strategic development,2024-01-03,677845895
+Complexe Scolaire Saint Joseph de Cuneo,-4.4018231,15.2961253,at-risk,9.23,Strategic development,2024-01-03,684298867
+Groupe Scolaire Sadisana,-4.3779768,15.371155,at-risk,9.36,Strategic development,2024-01-03,696416349
+Complexe Scolaire les Gedeons,-4.361743,15.3603823,at-risk,7.26,Strategic development,2024-01-03,696425594
+Akila Anderson,-4.3614197,15.3607037,at-risk,7.27,Strategic development,2024-01-03,696627494
+Sainte-Trinité,-4.3891396,15.3581281,at-risk,9.36,Strategic development,2024-01-03,698713664
+Shalom School,-4.3893506,15.3391121,at-risk,8.36,Strategic development,2024-01-03,700821344
+Ecole polyvalente Les Perseverants,-4.3909033,15.33898,at-risk,8.51,Strategic development,2024-01-03,700821349
+Unnamed School,-4.3692264,15.3616342,at-risk,7.92,Strategic development,2024-01-03,700875625
+Lusi,-4.3962468,15.3506778,at-risk,9.6,Strategic development,2024-01-03,700883028
+Complexe Scolaire la Base,-4.3890945,15.3412298,at-risk,8.43,Strategic development,2024-01-03,701044534
+CS Iziba,-4.3900539,15.3416871,at-risk,8.55,Strategic development,2024-01-03,701044544
+Lycée Bugape,-4.3731923,15.3819349,at-risk,9.93,Strategic development,2024-01-03,701063101
+Sainte Marie des Anged,-4.3728456,15.3807808,at-risk,9.8,Strategic development,2024-01-03,701098849
+Ecole les Vissionnaires,-4.3745116,15.3728695,at-risk,9.24,Strategic development,2024-01-03,701121415
+Complexe Scolaire La Miséricorde,-4.3750251,15.3757461,at-risk,9.52,Strategic development,2024-01-03,701121430
+Complexe Scolaire Cerveau,-4.3696975,15.3741819,at-risk,9.01,Strategic development,2024-01-03,701121433
+Ecole Intelligence,-4.3732885,15.3696785,at-risk,8.88,Strategic development,2024-01-03,701121436
+Ecole Makaya,-4.3733538,15.3706002,at-risk,8.96,Strategic development,2024-01-03,701121438
+ITI Moteyi,-4.3681349,15.3766002,at-risk,9.12,Strategic development,2024-01-03,701121440
+Ecole Père Nestore,-4.3695191,15.3736956,at-risk,8.96,Strategic development,2024-01-03,701121450
+Ecole Complexe Scolaire Tatama,-4.3771556,15.3765615,at-risk,9.74,Strategic development,2024-01-03,701304667
+Ecole Primaire Kabundi,-4.3772179,15.3772817,at-risk,9.8,Strategic development,2024-01-03,701356195
+Saint Theophile,-4.3773926,15.3762778,at-risk,9.73,Strategic development,2024-01-03,701371750
+Lycée Madame de Sévigné,-4.3340403,15.3083762,at-risk,1.57,Strategic development,2024-01-03,704174494
+La Source de Vie - Limete,-4.3521735,15.3316536,at-risk,4.31,Strategic development,2024-01-03,704174495
+EIB Le Cartésien,-4.348383,15.3407798,at-risk,4.65,Strategic development,2024-01-03,704174502
+Collège Saint Gervais,-4.3727104,15.3791898,at-risk,9.65,Strategic development,2024-01-03,708529168
+Ecole Primaire Bolingo,-4.3765408,15.3677038,at-risk,8.97,Strategic development,2024-01-03,708814926
+C.S Luimance,-4.4054401,15.3171002,at-risk,9.53,Strategic development,2024-01-03,711279341
+Ecole Bertin Louis,-4.3654284,15.3710707,at-risk,8.45,Strategic development,2024-01-03,712304099
+Ecole Bertin Louis,-4.3654305,15.370988,at-risk,8.44,Strategic development,2024-01-03,712304100
+Collège GSG,-4.3715149,15.3692449,at-risk,8.72,Strategic development,2024-01-03,713294601
+Complexe Scolaire Merci Wesha,-2.5076172,28.8663426,at-risk,2.0,Violence against civilians,2024-01-02,730056255
+Lycée Primaire,-4.3452849,15.2999114,at-risk,3.03,Strategic development,2024-01-03,731877062
+lycée 2 et 3 kasa-vubu,-4.3445753,15.3001553,at-risk,2.94,Strategic development,2024-01-03,731877063
+Ecole christ roi,-4.3451074,15.3012106,at-risk,2.96,Strategic development,2024-01-03,731877065
+Ecole Armée du Salut,-4.3500219,15.3000646,at-risk,3.52,Strategic development,2024-01-03,731877066
+Ecole Shekinah,-4.3741288,15.282903,at-risk,6.73,Strategic development,2024-01-03,731880005
+Ecole Saint Etienne,-4.3736485,15.2824443,at-risk,6.7,Strategic development,2024-01-03,731880006
+Ecole Amour,-4.3735194,15.3681517,at-risk,8.77,Strategic development,2024-01-03,741021936
+Collège Saint Amand,-4.3587759,15.3276715,at-risk,4.74,Strategic development,2024-01-03,742073626
+The American School of Kinshasa,-4.3360103,15.2437316,at-risk,7.56,Strategic development,2024-01-03,747802793
+Collège Boboto,-4.309059,15.2856787,at-risk,2.96,Strategic development,2024-01-03,753674320
+Lycée Bosangani,-4.3082385,15.283172,at-risk,3.25,Strategic development,2024-01-03,753674322
+Prins van Luikschool,-4.3186044,15.2896536,at-risk,2.26,Strategic development,2024-01-03,759366037
+École Internationale ŞAFAK,-4.3100253,15.2796872,at-risk,3.54,Strategic development,2024-01-03,772918427
+Institut de la Gombe,-4.310928,15.277268,at-risk,3.77,Strategic development,2024-01-03,772918429
+École maternelle de la Gombe,-4.3105731,15.2796659,at-risk,3.52,Strategic development,2024-01-03,772918436
+Institut Supérieur Pédagogique de la Gombe,-4.306972,15.2852804,at-risk,3.1,Strategic development,2024-01-03,772918439
+College Othniel École Primaire et Secondaire,-4.358771,15.22985,at-risk,9.88,Strategic development,2024-01-03,895614355
+Ecole St Guido Maria Fortifi,-1.6350323,29.204698,at-risk,4.24,Battle,2024-01-01,906863381
+La Source de Vie - Royal,-4.3141801,15.2842822,at-risk,2.92,Strategic development,2024-01-03,907384629
+La Source de Vie - Spring of Life,-4.3435776,15.2533535,at-risk,6.81,Strategic development,2024-01-03,907384630
+Collège Saint Dominique,-4.3640487,15.3403358,at-risk,5.94,Strategic development,2024-01-03,946608934
+Wima School,-2.5065031,28.8488488,at-risk,0.73,Violence against civilians,2024-01-02,968512399
+IFASIC,-4.3087007,15.2990148,at-risk,1.75,Strategic development,2024-01-03,998119240
+Collège Alfajiri,-2.499909,28.8767025,at-risk,2.97,Violence against civilians,2024-01-02,1001811907
+Institut Superieur Pédagogique de Bukavu,-2.5106692,28.857085,at-risk,1.42,Violence against civilians,2024-01-02,1001811912
+Collège Ivemarcel,-4.3922861,15.3132829,at-risk,8.05,Strategic development,2024-01-03,1011014991
+Complexe Scolaire Les Chérubins,-4.392338,15.3304496,at-risk,8.36,Strategic development,2024-01-03,1035110923
+Ecole CBCO ITC Révolution,-4.3771048,15.290867,at-risk,6.69,Strategic development,2024-01-03,1062582244
+C.S. Simon Kimbangu-Petit Pigeon,-4.3475722,15.2874203,at-risk,3.96,Strategic development,2024-01-03,1091195861
+Complexe scolaire Cardinal Monsengwo,-4.3393068,15.3259804,at-risk,2.78,Strategic development,2024-01-03,1204107927
+Ecole Armée du Salut,-4.3891347,15.3142755,at-risk,7.7,Strategic development,2024-01-03,1214450116
+Unnamed School,-4.3470209,15.2867147,at-risk,3.96,Strategic development,2024-01-03,1359424506
+Ecole d'Excellence de Kinshasa,-4.3417663,15.2830573,at-risk,3.84,Strategic development,2024-01-03,1359427039
+Unnamed School,-4.3457035,15.2936509,at-risk,3.38,Strategic development,2024-01-03,1359427042
+Ecole Notre Dame,-4.3230478,15.2939043,at-risk,1.82,Strategic development,2024-01-03,1359429709
+Collège de la Salle,-4.3225413,15.2903551,at-risk,2.2,Strategic development,2024-01-03,1359429712
+Ecole Kokolo,-4.3359929,15.2869029,at-risk,3.12,Strategic development,2024-01-03,1359576981
+Athénée de la Victoire,-4.3380198,15.3032671,at-risk,2.14,Strategic development,2024-01-03,1359580707
+Unnamed School,-4.3188857,15.3001982,at-risk,1.09,Strategic development,2024-01-03,1359602927
+Lycée Monseigneur Shaumba,-4.3232264,15.2862417,at-risk,2.66,Strategic development,2024-01-03,1359726879
+Institut Monseigneur Bokeleale,-4.3236971,15.287631,at-risk,2.51,Strategic development,2024-01-03,1359727505
+Unnamed School,-4.3622866,15.2880354,at-risk,5.3,Strategic development,2024-01-03,1360664328
+École de navigation,-4.3420548,15.3209701,at-risk,2.74,Strategic development,2024-01-03,1360696706
+École Saint-Marc,-4.3474296,15.3253777,at-risk,3.49,Strategic development,2024-01-03,1360696707
+Unnamed School,-4.3335319,15.2815856,at-risk,3.49,Strategic development,2024-01-03,1360752803
+Jewels International School,-4.3259503,15.2749106,at-risk,3.95,Strategic development,2024-01-03,1360870390
+Busy Bee,-4.3257123,15.2713011,at-risk,4.34,Strategic development,2024-01-03,1360872737
+Collège Saint Pierre,-4.3227732,15.3116904,at-risk,0.36,Strategic development,2024-01-03,1362816363
+Centre scolaire Lufungula,-4.3161073,15.3027484,at-risk,0.91,Strategic development,2024-01-03,1362818529
+Lycée Français René Descartes,-4.3190456,15.2878138,at-risk,2.46,Strategic development,2024-01-03,1363326279
+Unnamed School,-4.3084234,15.2916583,at-risk,2.41,Strategic development,2024-01-03,1369177816
+Unnamed School,-4.3186623,15.306312,at-risk,0.44,Strategic development,2024-01-03,1369612841
+Institut Technique Gombele,-4.3928698,15.3173802,at-risk,8.14,Strategic development,2024-01-03,1369866153
+Unnamed School,-4.3227082,15.3245429,at-risk,1.64,Strategic development,2024-01-03,1372042411
+Unnamed School,-4.314845,15.3226303,at-risk,1.51,Strategic development,2024-01-03,1372048115
+Unnamed School,-4.3124882,15.3191581,at-risk,1.31,Strategic development,2024-01-03,1372367616
+Unnamed School,-4.3079533,15.3176042,at-risk,1.58,Strategic development,2024-01-03,1372367637
+Saint Jean Marie Muzeyi,-4.3222599,15.3034083,at-risk,0.77,Strategic development,2024-01-03,1389924633
+Unnamed School,-4.3256198,15.3054489,at-risk,0.8,Strategic development,2024-01-03,1389924640
+Complexe Scolaire Loboko Naye,-4.3208371,15.3048329,at-risk,0.58,Strategic development,2024-01-03,1389927147
+Unnamed School,-4.4079498,15.3168593,at-risk,9.81,Strategic development,2024-01-03,1391036141
+Unnamed School,-4.3327651,15.2516893,at-risk,6.62,Strategic development,2024-01-03,1412758821
+Unnamed School,-4.3913942,15.3217744,at-risk,8.05,Strategic development,2024-01-03,1412922131
+École primaire Molende,-4.3901716,15.3478772,at-risk,8.86,Strategic development,2024-01-03,1414280012
+Lycée Molende,-4.3901308,15.3488939,at-risk,8.91,Strategic development,2024-01-03,1414280013
+Unnamed School,-4.3887311,15.3380727,at-risk,8.25,Strategic development,2024-01-03,1414282859
+Institut Technique du Bahumbu,-4.3940284,15.3510292,at-risk,9.4,Strategic development,2024-01-03,1414836813
+Unnamed School,-4.3855514,15.3474727,at-risk,8.39,Strategic development,2024-01-03,1414867993
+Unnamed School,-4.3862638,15.3488651,at-risk,8.54,Strategic development,2024-01-03,1414867994
+École Primaire Pululu,-4.3903347,15.3514301,at-risk,9.07,Strategic development,2024-01-03,1415139911
+Ecole primaire Ngilima,-4.3868182,15.3416188,at-risk,8.22,Strategic development,2024-01-03,1415396854
+Unnamed School,-4.3890828,15.3436955,at-risk,8.54,Strategic development,2024-01-03,1415396856
+Ecole primaire Bateke,-4.390178,15.3402384,at-risk,8.49,Strategic development,2024-01-03,1415445425
+Collège Saint Alphonse,-4.395863,15.3430709,at-risk,9.2,Strategic development,2024-01-03,1415496449
+Unnamed School,-4.3975055,15.3452692,at-risk,9.46,Strategic development,2024-01-03,1415616076
+Complexe Scolaire Maman Mulezi,-1.6775151,29.231014,at-risk,1.48,Battle,2024-01-01,1415954706
+Complexe scolaire Mama Yetu,-1.6766719,29.2296398,at-risk,1.3,Battle,2024-01-01,1415954707
+LYCEE BOENDE,-4.3222981,15.2969722,at-risk,1.47,Strategic development,2024-01-03,1427299714
+CS Marie La Miséricorde,-4.3481782,15.3410805,at-risk,4.66,Strategic development,2024-01-03,1454174919
+C.S. Cardinal MALULA,-4.3653517,15.3389612,at-risk,5.98,Strategic development,2024-01-03,1454201020
+C.S. Maria,-4.4081434,15.3008678,at-risk,9.85,Strategic development,2024-01-03,1470868840
+saint jean baptiste,-4.3766638,15.2881428,at-risk,6.75,Strategic development,2024-01-03,1472341825
+college Baron Harvard,-4.3486452,15.2810666,at-risk,4.52,Strategic development,2024-01-03,1474335102
+Institut de Goma,-1.6790143,29.2296357,at-risk,1.47,Battle,2024-01-01,2636526
+École Notre Dame de Fatima,-4.3095926,15.3000937,at-risk,1.6,Strategic development,2024-01-03,4749983
+École Primaire Mont Miko,-1.6489407,29.2319377,at-risk,2.69,Battle,2024-01-01,10990517
+Collège sainte Christinne,-4.3889312,15.3130444,at-risk,7.67,Strategic development,2024-01-03,16458613
