@@ -1,0 +1,10 @@
+year,event_date,country,location,latitude,longitude,event_type,fatalities,source
+2000,2000-06-05,DR Congo,Kisangani,0.5157,25.1907,Battle,500,UCDP
+2004,2004-06-02,DR Congo,Bukavu,-2.5011,28.8633,Battle,100,ACLED
+2008,2008-10-26,DR Congo,Goma,-1.6742,29.2285,Strategic development,0,ACLED
+2012,2012-11-20,DR Congo,Goma,-1.6742,29.2285,Battle,50,UCDP
+2016,2016-09-19,DR Congo,Kinshasa,-4.3276,15.3136,Protest,50,ACLED
+2018,2018-12-16,DR Congo,Yumbi,-0.0333,17.0167,Violence against civilians,800,UN
+2021,2021-05-22,DR Congo,Nyiragongo,-1.5208,29.2486,Strategic development,32,ACLED
+2023,2023-11-15,DR Congo,Bunia,1.5623,30.2451,Violence against civilians,10,ACLED
+2024,2024-02-10,DR Congo,Sake,-1.6091,29.0719,Battle,15,Local News

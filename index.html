@@ -17,6 +17,12 @@
 
     <div id="map"></div>
 
+    <!-- Time Slider UI -->
+    <div id="slider-container" style="position: fixed; bottom: 20px; left: 50%; transform: translateX(-50%); z-index: 1000; background: white; padding: 15px; border-radius: 10px; border: 2px solid #ccc; width: 80%; max-width: 600px; text-align: center;">
+        <label for="year-slider" style="font-weight: bold; font-family: sans-serif;">Year: <span id="current-year">2024</span></label><br>
+        <input type="range" id="year-slider" min="1996" max="2024" value="2024" style="width: 100%; margin-top: 10px;">
+    </div>
+
     <!-- 2. Load Leaflet JS (The "brain" of the map) -->
     <script src="https://unpkg.com/leaflet@1.9.4/dist/leaflet.js"></script>
     
