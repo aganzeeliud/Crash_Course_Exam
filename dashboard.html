@@ -1,0 +1,134 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>DRC Conflict Dashboard</title>
+    <link href="https://cdn.jsdelivr.net/npm/bootstrap@5.3.0/dist/css/bootstrap.min.css" rel="stylesheet">
+    <script src="https://cdn.jsdelivr.net/npm/chart.js"></script>
+    <style>
+        body { background-color: #f8f9fa; padding-top: 20px; }
+        .card { box-shadow: 0 4px 6px rgba(0,0,0,0.1); margin-bottom: 20px; height: 400px; }
+        .card-body { position: relative; }
+        canvas { max-height: 320px; }
+        .nav-link { font-weight: bold; color: #007bff; }
+    </style>
+</head>
+<body>
+    <div class="container">
+        <div class="d-flex justify-content-between align-items-center mb-4">
+            <h1>DRC Conflict Analysis Dashboard</h1>
+            <a href="index.html" class="nav-link">← Back to Map</a>
+        </div>
+
+        <div class="row">
+            <!-- 1. Bar Chart: Events per Year -->
+            <div class="col-md-6">
+                <div class="card">
+                    <div class="card-header bg-primary text-white">Security Events per Year</div>
+                    <div class="card-body">
+                        <canvas id="eventsYearChart"></canvas>
+                    </div>
+                </div>
+            </div>
+
+            <!-- 2. Line Chart: Avg Severity -->
+            <div class="col-md-6">
+                <div class="card">
+                    <div class="card-header bg-success text-white">Average Severity (Fatalities) Over Time</div>
+                    <div class="card-body">
+                        <canvas id="severityTimeChart"></canvas>
+                    </div>
+                </div>
+            </div>
+
+            <!-- 3. Pie Chart: Causes -->
+            <div class="col-md-6">
+                <div class="card">
+                    <div class="card-header bg-warning text-dark">Distribution of Conflict Causes</div>
+                    <div class="card-body">
+                        <canvas id="causesPieChart"></canvas>
+                    </div>
+                </div>
+            </div>
+
+            <!-- 4. Horizontal Bar: Regions -->
+            <div class="col-md-6">
+                <div class="card">
+                    <div class="card-header bg-danger text-white">Top 10 Affected Regions</div>
+                    <div class="card-body">
+                        <canvas id="regionsBarChart"></canvas>
+                    </div>
+                </div>
+            </div>
+        </div>
+    </div>
+
+    <script>
+        fetch('data/dashboard_data.json')
+            .then(response => response.json())
+            .then(data => {
+                // 1. Events per Year (Bar)
+                new Chart(document.getElementById('eventsYearChart'), {
+                    type: 'bar',
+                    data: {
+                        labels: data.years,
+                        datasets: [{
+                            label: 'Number of Events',
+                            data: data.event_counts,
+                            backgroundColor: '#007bff'
+                        }]
+                    },
+                    options: { responsive: true, maintainAspectRatio: false }
+                });
+
+                // 2. Average Severity (Line)
+                new Chart(document.getElementById('severityTimeChart'), {
+                    type: 'line',
+                    data: {
+                        labels: data.years,
+                        datasets: [{
+                            label: 'Avg Fatalities',
+                            data: data.avg_severity,
+                            borderColor: '#28a745',
+                            tension: 0.1,
+                            fill: false
+                        }]
+                    },
+                    options: { responsive: true, maintainAspectRatio: false }
+                });
+
+                // 3. Causes (Pie)
+                new Chart(document.getElementById('causesPieChart'), {
+                    type: 'pie',
+                    data: {
+                        labels: data.causes.labels,
+                        datasets: [{
+                            data: data.causes.data,
+                            backgroundColor: ['#ffc107', '#17a2b8', '#dc3545', '#6610f2', '#e83e8c']
+                        }]
+                    },
+                    options: { responsive: true, maintainAspectRatio: false }
+                });
+
+                // 4. Regions (Horizontal Bar)
+                new Chart(document.getElementById('regionsBarChart'), {
+                    type: 'bar',
+                    data: {
+                        labels: data.top_regions.labels,
+                        datasets: [{
+                            label: 'Event Count',
+                            data: data.top_regions.data,
+                            backgroundColor: '#dc3545'
+                        }]
+                    },
+                    options: { 
+                        indexAxis: 'y',
+                        responsive: true, 
+                        maintainAspectRatio: false 
+                    }
+                });
+            });
+    </script>
+</body>
+</html>
