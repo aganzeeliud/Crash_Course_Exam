@@ -65,7 +65,7 @@ def fetch_schools_drc():
         geojson["features"].append(feature)
     
     # Save the result to a file
-    output_filename = "schools_drc.geojson"
+    output_filename = "data/schools_drc.geojson"
     with open(output_filename, 'w', encoding='utf-8') as f:
         json.dump(geojson, f, indent=2)
         

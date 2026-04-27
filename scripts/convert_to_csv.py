@@ -39,4 +39,4 @@ def geojson_to_csv(input_file, output_file):
     print(f"Successfully converted {len(features)} schools to {output_file}")
 
 if __name__ == "__main__":
-    geojson_to_csv('schools_drc.geojson', 'DRC_All_SCHool.csv')
+    geojson_to_csv('data/schools_drc.geojson', 'data/DRC_All_SCHool.csv')

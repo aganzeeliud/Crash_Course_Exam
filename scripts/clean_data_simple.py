@@ -28,5 +28,5 @@ def clean_conflict_data(input_path, output_path):
                     writer.writerow(new_row)
 
 if __name__ == "__main__":
-    clean_conflict_data('conflict_event.csv', 'cleaned_drc_conflict_data.csv')
+    clean_conflict_data('data/conflict_event.csv', 'data/cleaned_drc_conflict_data.csv')
     print("Data cleaned successfully using built-in CSV module.")

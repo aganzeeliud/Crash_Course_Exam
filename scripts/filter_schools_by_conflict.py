@@ -67,7 +67,7 @@ def find_schools_near_conflicts(school_file, conflict_file, radius_km=5.0):
         "type": "FeatureCollection",
         "features": nearby_schools
     }
-    with open('schools_near_conflicts.geojson', 'w', encoding='utf-8') as f:
+    with open('data/schools_near_conflicts.geojson', 'w', encoding='utf-8') as f:
         json.dump(output_geojson, f, indent=2)
         
     # 5. Save as CSV
@@ -78,7 +78,7 @@ def find_schools_near_conflicts(school_file, conflict_file, radius_km=5.0):
         
         header = ['osm_id', 'latitude', 'longitude'] + sorted(list(all_keys))
         
-        with open('schools_near_conflicts.csv', 'w', encoding='utf-8', newline='') as f:
+        with open('data/schools_near_conflicts.csv', 'w', encoding='utf-8', newline='') as f:
             writer = csv.DictWriter(f, fieldnames=header)
             writer.writeheader()
             for s in nearby_schools:
@@ -89,4 +89,4 @@ def find_schools_near_conflicts(school_file, conflict_file, radius_km=5.0):
     print("Saved results to schools_near_conflicts.geojson and schools_near_conflicts.csv")
 
 if __name__ == "__main__":
-    find_schools_near_conflicts('schools_drc.geojson', 'conflict_event.csv')
+    find_schools_near_conflicts('data/schools_drc.geojson', 'data/conflict_event.csv')

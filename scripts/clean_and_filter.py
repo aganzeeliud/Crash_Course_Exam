@@ -45,7 +45,7 @@ def clean_conflict_data(file_path):
     filtered_df = df[df['country'] == 'DR Congo'].copy()
     
     # 5. Save the cleaned file
-    output_name = 'cleaned_drc_conflict_data.csv'
+    output_name = 'data/cleaned_drc_conflict_data.csv'
     filtered_df.to_csv(output_name, index=False)
     
     print(f"--- SUCCESS ---")
@@ -54,4 +54,4 @@ def clean_conflict_data(file_path):
     print(f"Standardized columns: {list(filtered_df.columns)}")
 
 if __name__ == "__main__":
-    clean_conflict_data('conflict_event.csv')
+    clean_conflict_data('data/conflict_event.csv')

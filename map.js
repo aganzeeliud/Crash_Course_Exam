@@ -48,7 +48,7 @@ function updateMap(selectedYear) {
 }
 
 // 5. Load Data
-Papa.parse("DRC Conflict.csv", {
+Papa.parse("data/DRC Conflict.csv", {
     download: true,
     header: true,
     complete: function(results) {
@@ -57,7 +57,7 @@ Papa.parse("DRC Conflict.csv", {
     }
 });
 
-Papa.parse("school_drc.csv", {
+Papa.parse("data/school_drc.csv", {
     download: true,
     header: true,
     complete: function(results) {
